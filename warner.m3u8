@@ -1,10 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p"
-https://cdn12jtedge.useetv.com/joss/15/warner/chunklist_w1314491689_b494100_sleng.m3u8?enc=CldjVr9kIyFl8SVoI5ayqg&uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&exp=1616470674 
-#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
-https://cdn12jtedge.useetv.com/joss/15/warner/chunklist_w1314491689_b684100_sleng.m3u8?enc=CldjVr9kIyFl8SVoI5ayqg&uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&exp=1616470674 
-#EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME="540p"
-https://cdn12jtedge.useetv.com/joss/15/warner/chunklist_w1314491689_b894100_sleng.m3u8?enc=CldjVr9kIyFl8SVoI5ayqg&uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&exp=1616470674 
 #EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720p"
-https://cdn12jtedge.useetv.com/joss/15/warner/chunklist_w1314491689_b1344100_sleng.m3u8?enc=CldjVr9kIyFl8SVoI5ayqg&uid=NzgxNzA3MjExODdiYzg0MWNkNTdkZmRhNjY4YWU0Nzc=&exp=1616470674 
+https://cdn12jtedge.useetv.com/joss/15/warner/chunklist_w1314491689_b1344100_sleng_mkcbro.m3u8?enc=YfsAGyupty0BtpHleA1dgQ&uid=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=&exp=1616471126
