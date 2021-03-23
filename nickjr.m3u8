@@ -1,6 +1,3 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-VERSION:4
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-https://suryafebri.xyz/suryafebrialwari/cari.php?channel=nickjr
+#EXT-X-VERSION:3
+https://cdn14jtedge.useetv.com/joss/130/nickjr/chunklist_w2055831165_b1004100_sleng.m3u8?enc=cxABGa1-NRHSURInPWuz9A&uid=ZmU4YTA1OTNhMDg1ZGY3Y2ZhNTg2YTY5ZTgyYTEzZTY=&exp=1616518812
