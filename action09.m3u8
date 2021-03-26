@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.000,
+http://lionch.referrari.com:8080/live/98813_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
