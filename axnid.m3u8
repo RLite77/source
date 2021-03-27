@@ -1,2 +1,4 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720p"
 https://fikrulmkc.my.id/bagus/usee-axn.m3u8
