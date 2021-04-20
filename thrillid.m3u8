@@ -1,3 +1,4 @@
-#EXTM3U
-#EXT-X-VERSION:3
-http://bonev2.xyz/playlist/usee-thrill-new-bonetv.m3u8
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1860000
+http://210.210.129.106/session/3a7df6f2-8f32-11eb-84d4-87c7a831df01/qwr9ew/s/s34/01.m3u8
