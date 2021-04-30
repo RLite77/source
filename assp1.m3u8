@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1860000
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8?checkedby:hlscat.com
+http://iptvtree.net:8080/live/sylvie-doigtdor2/94d0b514/247415.ts
