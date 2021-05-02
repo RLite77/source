@@ -1,6 +1,4 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.000,
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/3320
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1860000
+https://d34l47jhjotoz1.cloudfront.net/out/v1/e8a2fa146bf1450cb82bbfff73228d17/index_1.m3u8
