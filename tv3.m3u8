@@ -1,4 +1,4 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000
-http://live8.cdn.iptv8k.org/review_stream/tv3kbmm21/i.m3u8?KakLongGarang
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
