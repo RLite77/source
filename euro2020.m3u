@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="https://i.ibb.co/P4kQtx2/espn.png" group-title="EURO 2020",US: ESPN 1 HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/70853
+#EXTINF:-1 tvg-id="abcwjla.us" tvg-name="US: ABC 7 (WJLA) Washington" tvg-logo="" group-title="EURO 2020",US: ABC 7 (WJLA) Washington
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/172748
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK| BBC One HD" tvg-logo="https://i.ibb.co/sbC7GPH/BBC-one.png" group-title="EURO 2020",UK| BBC One HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158343
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK| ITV HD" tvg-logo="https://i.ibb.co/wpdnKVd/200-cb-20190104010828.png" group-title="EURO 2020",UK| ITV HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158351
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Euro2020 1 HD" tvg-logo="http://dmtn.tv:8080/images/aab03c83f495a2c3afd7093167349007.png" group-title="EURO 2020",MY: Astro SuperSport Euro2020 1 HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/259876
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Euro2020 2 HD" tvg-logo="http://dmtn.tv:8080/images/85ec7b657cf9dc59700ae0a101667e71.png" group-title="EURO 2020",MY: Astro SuperSport Euro2020 2 HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/259877
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 1 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289046
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 1 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289047
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 2 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289048
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 2 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289049
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 3 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289050
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 3 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289051
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 4 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289052
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 4 SD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289053
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 5 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289054
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 5 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289055
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 6 HD
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289056
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 6 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289057
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 4K" tvg-logo="" group-title="",B S MAX 1 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289625
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 4K " tvg-logo="" group-title="",B S MAX 2 4K 
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289626
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 4K " tvg-logo="" group-title="",B S MAX 3 4K 
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289627
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 4K " tvg-logo="" group-title="",B S MAX 4 4K 
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289628
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 4K" tvg-logo="" group-title="",B S MAX 5 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289629
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 4K" tvg-logo="" group-title="",B S MAX 6 4K
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289630
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX  2F" tvg-logo="" group-title="",B S MAX  2F
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289635
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX  1F" tvg-logo="" group-title="",B S MAX  1F
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289636
+#EXTINF:-1 tvg-id="" tvg-name="BS 1 HD fr" tvg-logo="" group-title="",BS 1 HD fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289637
+#EXTINF:-1 tvg-id="" tvg-name="BS 2 HD fr" tvg-logo="" group-title="",BS 2 HD fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289638
+#EXTINF:-1 tvg-id="" tvg-name="BS 3 HD fr" tvg-logo="" group-title="",BS 3 HD fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289639
+#EXTINF:-1 tvg-id="" tvg-name="BS 1F fr" tvg-logo="" group-title="",BS 1F fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289640
+#EXTINF:-1 tvg-id="" tvg-name="BS 2F fr" tvg-logo="" group-title="",BS 2F fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289641
+#EXTINF:-1 tvg-id="" tvg-name="BS 3F fr" tvg-logo="" group-title="",BS 3F fr
+http://one.d4k4u.com:8080/XXccqsdazeqsdaze/rGMSeAaH/289642
