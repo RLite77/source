@@ -6,7 +6,7 @@ http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 tvg-id="astro.arena.my"  group-title="EURO 2020" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png" group-title="EURO 2020",True Sports HD 3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/VTV6_logo.png" group-title="EURO 2020",VTV6 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="EURO 2020",US: ESPN HD
