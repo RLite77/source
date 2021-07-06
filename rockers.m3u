@@ -11,7 +11,7 @@ http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWqJhORkwQOZ7cTjDwIz7jQ)/dm/3/x6qp375/d/live-2.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWqJhORkwQOZ7cTjDwIz7jQ)/dm/3/x6qp375/d/live-2.m3u8|http-referrer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah?syndication=273888&queue-enable=false&ui-start-screen-info=false&autoPlay=1&mute=0
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWqJhORkwQOZ7cTjDwIz7jQ)/dm/3/x6qp375/d/live-3.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
