@@ -1771,7 +1771,7 @@ https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-870|user-agent=Mozilla/5.0
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png" group-title="Indonesia - Lokal",SCTV
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=sctv
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=sctv|user-agent=Mozilla/5.0
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 http://bonev2.xyz/playlist/usee-sctv-new-bonetv.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="Indonesia - Lokal",INDOSIAR
@@ -1862,10 +1862,10 @@ http://122.248.43.138:1935/ch12/myStream/live.m3u8
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VHZ5Wr0/aniplus.png" group-title="Kids",ANIPLUS
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=aniplus
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=aniplus|user-agent=Mozilla/5.0
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id= tvg-logo="https://i.imgur.com/9EDVkDJ.png"?1 group-title="Kids",DISNEY CHANELL
-
+http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zxskrRW/disneyjunior.png" group-title="Kids",DISNEY JUNIOR
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
@@ -1873,17 +1873,17 @@ http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W6K5K00/cnlogo.png" group-title="Kids", Cartoon Network
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
-https://radenroro.net/RHS_september/homempd.php?channel=cartoonnetwork
+https://radenroro.net/RHS_september/homempd.php?channel=cartoonnetwork|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-ID= tvg-name= tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg"/125px-Ducktv-logo.jpg" group-title="Kids",DUCK TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sH7sMKY/babyfirstlogo.png" group-title="Kids",BabyFirst
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7203
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8xBrts/nickelodeon-logo.png" group-title="Kids", Nickelodeon
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=nickelodeon
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=nickelodeon|user-agent=Mozilla/5.0
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6814
 #EXTINF: -1 tvg-id=NIC.IN tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids", Nick Jr
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=nickjr
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=nickjr|user-agent=Mozilla/5.0
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6813
 #EXTINF:-1 tvg-id= tvg-logo="https://i.imgur.com/9u5HOkL.png" group-title="Kids",Boomerang
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
@@ -1893,19 +1893,19 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4FVF0bg/horeelogo.png" group-title="Kids", Horee
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-7052|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WHtsG8b/duniaanaklogo.png" group-title="Kids", Dunia Anak
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=duniaanak
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=duniaanak|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="Kids", Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbNK2Hn/davincilogo.png" group-title="Kids", Davinci Learning
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=davinci
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=davinci|user-agent=Mozilla/5.0
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WxtT6X8/dramworkslogo.png" group-title="Kids", Dreamworks
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=dreamworks
+https://radenroro.net/RHS/bangsatmpd.m3u8?channel=dreamworks|user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png",My Kids
 https://radenroro.net/RHS/bangsat.m3u8?channel=usee-mykids|user-agent=Mozilla/5.0
 http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/index.m3u8
 #EXTINF: -1 tvg-id=CBE.UK tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="Kids", CBeebies
-
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/7PWHKMHn/Zoomookidslogo.png" group-title="Kids",ZooMoo
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6533|user-agent=Mozilla/5.0
 
