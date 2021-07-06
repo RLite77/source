@@ -355,22 +355,22 @@ http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 #EXTINF:-1 tvg-id="fox.sports.3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" group-title="Sports",FOX Sports 3 HD
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fox.sports.th" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png" group-title="Sports",Fox Sports 1 TH
+#EXTINF:-1 tvg-id="fox.sports.th" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Sports",Fox Sports 1 TH
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="fox.sports.2.th" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png" group-title="Sports",Fox Sports 2 TH
+#EXTINF:-1 tvg-id="fox.sports.2.th" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Sports",Fox Sports 2 TH
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="fox.sports.3.th" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png" group-title="Sports",Fox Sports 3 TH
+#EXTINF:-1 tvg-id="fox.sports.3.th" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Sports",Fox Sports 3 TH
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="fox.sports.vn" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png" group-title="Sports",Fox Sports 1 VN
+#EXTINF:-1 tvg-id="fox.sports.vn" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Sports",Fox Sports 1 VN
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="fox.sports.2.vn" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png" group-title="Sports",Fox Sports 2 VN
+#EXTINF:-1 tvg-id="fox.sports.2.vn" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Sports",Fox Sports 2 VN
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="fox.sports.3.vn" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png" group-title="Sports",Fox Sports 3 VN
+#EXTINF:-1 tvg-id="fox.sports.3.vn" tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Sports",Fox Sports 3 VN
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-eurosport1.jpg" group-title="Sports",EURO SPORT HD 1
+#EXTINF:-1 tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="Sports",EURO SPORT HD 1
 https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-eurosport2.jpg" group-title="Sports",EURO SPORT HD 2
+#EXTINF:-1 tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="Sports",EURO SPORT HD 2
 https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/330px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT SPORT HD1
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
@@ -651,8 +651,8 @@ https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8|referer=https://rt
 https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
 #EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="https://i.ibb.co/P4kQtx2/espn.png" group-title="EURO 2020",US: ESPN 1 HD
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/70853
-#EXTINF:-1 tvg-id="abc7kabctv.us" tvg-name="US: ABC 7 (KABC) Los angeles" tvg-logo="" group-title="EURO 2020",US: ABC 7 (KABC) Los angeles
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/172754
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="https://i.ibb.co/P4kQtx2/espn.png" group-title="EURO 2020",US: ESPN 1 HD
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK| BBC One HD" tvg-logo="https://i.ibb.co/sbC7GPH/BBC-one.png" group-title="EURO 2020",UK| BBC One HD
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158343
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK| ITV HD" tvg-logo="https://i.ibb.co/wpdnKVd/200-cb-20190104010828.png" group-title="EURO 2020",UK| ITV HD
@@ -665,7 +665,20 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/259877
 http://8.anbdaouras.xyz/live/05500021500/index.m3u8
 #EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="beIN SPORTS 4K (FHD)" tvg-logo="http://dmtn.tv:8080/images/c3c48d13fbc55a278e60d4c1c22a045a.png" group-title="EURO 2020",beIN SPORTS 4K (FHD)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/206083
-
+#EXTINF:-1 tvg-id="bbcredbutton1.uk" tvg-name="UK| BBC Red Button ✅" tvg-logo="http://webserv.redirectme.net/plexflix.to/picons/entertainment/bbcredbutton.png" group-title="COPA America",UK| BBC Red Button ✅
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/81584
+#EXTINF:-1 tvg-id="fs1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="COPA America",FS1
+http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="I150.82541.schedulesdirect.org" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="COPA America",FS1
+http://mcktv.xyz:8080/jamesjudge2/32gardenave/210
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US: Univision Deportes HD" tvg-logo="https://i.ibb.co/kqNdBv3/ryxuww1433432348.png" group-title="COPA America",US: Univision Deportes HD
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/173606
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_cu_HTV.png" group-title="COPA America",HTV
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="EURO 2020",CCTV5
+http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg" group-title="COPA America",CCTV5+
+http://39.135.138.8:6610/PLTV/88888888/224/3221225649/2/index.m3u8?fmt=ts2hls
 
 
 //Sports Total
