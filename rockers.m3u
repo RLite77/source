@@ -926,25 +926,27 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12016&key=84797b799ae18d1b
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13017&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-name="Action Movies 1" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 1
-https://raw.githubusercontent.com/RLite77/source/main/action01.m3u8
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 #EXTINF:-1 tvg-name="Action Movies 2" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 2
-https://raw.githubusercontent.com/RLite77/source/main/action02.m3u8
+http://tx2play1.douyucdn.cn/live/5129261rZlxiaokj.flv?uuid=
 #EXTINF:-1 tvg-name="Action Movies 3" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 3
-https://raw.githubusercontent.com/RLite77/source/main/action03.m3u8
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 #EXTINF:-1 tvg-name="Action Movies 4" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 4
-https://raw.githubusercontent.com/RLite77/source/main/action04.m3u8
+http://tx2play1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 #EXTINF:-1 tvg-name="Action Movies 5" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 5
-https://raw.githubusercontent.com/RLite77/source/main/action05.m3u8
+http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
 #EXTINF:-1 tvg-name="Action Movies 6" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 6
-https://raw.githubusercontent.com/RLite77/source/main/action06.m3u8
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
 #EXTINF:-1 tvg-name="Action Movies 7" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 7
-https://raw.githubusercontent.com/RLite77/source/main/action07.m3u8
+http://tx2play1.douyucdn.cn/live/310926rxaVCymr5Z.flv?uuid=
 #EXTINF:-1 tvg-name="Action Movies 8" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 8
-https://raw.githubusercontent.com/RLite77/source/main/action08.m3u8
+https://6721.liveplay.now.qq.com/live/6721_76c8ba6de24321642bad8c27873ade3a.m3u8
 #EXTINF:-1 tvg-name="Action Movies 9" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 9
-https://raw.githubusercontent.com/RLite77/source/main/action09.m3u8
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 #EXTINF:-1 tvg-name="Action Movies 10" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 10
-https://raw.githubusercontent.com/RLite77/source/main/action10.m3u8
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/150/01.m3u8?&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=34118fd72bb9dd3695e667df26df015c
+#EXTINF:-1 tvg-name="Action Movies 11" tvg-logo="https://www.logolynx.com/images/logolynx/29/29b83db3bf2aa25da631cca19f428065.jpeg" group-title="Movies",Action Movies 11
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=
 
 //INDIA
 
@@ -1900,3 +1902,5 @@ http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/
 https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/7PWHKMHn/Zoomookidslogo.png" group-title="Kids",ZooMoo
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6533|user-agent=Mozilla/5.0
+
+
