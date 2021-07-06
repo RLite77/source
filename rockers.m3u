@@ -11,10 +11,10 @@ http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWqJhORkwQOZ7cTjDwIz7jQ)/dm/3/x6qp375/d/live-2.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWqJhORkwQOZ7cTjDwIz7jQ)/dm/3/x6qp375/d/live-2.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 
-#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3 HD
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWqJhORkwQOZ7cTjDwIz7jQ)/dm/3/x6qp375/d/live-3.m3u8
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWqJhORkwQOZ7cTjDwIz7jQ)/dm/3/x6qp375/d/live-3.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -22,19 +22,19 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-ID="ntv7.my" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="Malaysia",NTV7
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 #EXTINF:-1 tvg-ID="ntv7.my" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="Malaysia",NTV7
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWYlfMi-rM7U_eUbIo1QTX0)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWYlfMi-rM7U_eUbIo1QTX0)/dm/3/x6qp6ou/s/live-4.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-ID="8tv.my" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia",8TV
 http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-ID="8tv.my" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia",8TV
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdgeOOvNYO92s658d-sSoTk)/dm/3/x6qud17/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdgeOOvNYO92s658d-sSoTk)/dm/3/x6qud17/s/live-3.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-ID="tv9.my" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-ID="tv9.my" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia",TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYFK7fGr5uIVZaqvwDpUJjI)/dm/3/x6qqja6/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYFK7fGr5uIVZaqvwDpUJjI)/dm/3/x6qqja6/s/live-4.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-ID="DramaSangat.my" group-title="Malaysia" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat	
 http://185.180.221.194:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 tvg-ID="DramaSangat.my" group-title="Malaysia" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat	
-https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0karRONWbozowctPBhApBHU)/dm/3/x6zvnex/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0karRONWbozowctPBhApBHU)/dm/3/x6zvnex/s/live-4.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-ID="BERITA RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-ID="TV SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",Sukan RTM
@@ -1878,16 +1878,12 @@ https://radenroro.net/RHS_september/homempd.php?channel=cartoonnetwork|user-agen
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sH7sMKY/babyfirstlogo.png" group-title="Kids",BabyFirst
 http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7203
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8xBrts/nickelodeon-logo.png" group-title="Kids", Nickelodeon
 https://radenroro.net/RHS/bangsatmpd.m3u8?channel=nickelodeon|user-agent=Mozilla/5.0
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6814
 #EXTINF: -1 tvg-id=NIC.IN tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids", Nick Jr
-https://radenroro.net/RHS/bangsatmpd.m3u8?channel=nickjr|user-agent=Mozilla/5.0
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6813
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-id= tvg-logo="https://i.imgur.com/9u5HOkL.png" group-title="Kids",Boomerang
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvkYP261/jimjam.jpg" group-title="Kids", Jim Jam
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4FVF0bg/horeelogo.png" group-title="Kids", Horee
