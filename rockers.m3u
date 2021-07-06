@@ -663,6 +663,8 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/259876
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/259877
 #EXTINF:-1 group-title="EURO 2020" tvg-id="109" tvg-chno="109" tvg-logo=https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png"",beIN Sports Max 1
 http://8.anbdaouras.xyz/live/05500021500/index.m3u8
+#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="beIN SPORTS 4K (FHD)" tvg-logo="http://dmtn.tv:8080/images/c3c48d13fbc55a278e60d4c1c22a045a.png" group-title="EURO 2020",beIN SPORTS 4K (FHD)
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/206083
 
 
 
