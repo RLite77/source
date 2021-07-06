@@ -68,10 +68,6 @@ http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-id="astro.warna.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna HD 
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:-1 tvg-id="astro.warna.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
-#EXTINF:-1 tvg-id="astro.warna.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
 #EXTINF:-1 tvg-id="astro.oasis.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_300.png" group-title="Malaysia",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="bernama.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama 
@@ -1904,5 +1900,3 @@ http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/
 https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/7PWHKMHn/Zoomookidslogo.png" group-title="Kids",ZooMoo
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6533|user-agent=Mozilla/5.0
-
-
