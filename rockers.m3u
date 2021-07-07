@@ -79,6 +79,38 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="astro.vaanavil.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
+//Freeview
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Freeview",TV1
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Freeview",TV2
+https://rtm6hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="Freeview",TV3
+#EXTVLCOPT:http-referrer=https://www.dailymotion.com
+https://mediahomes.github.io/assets/my/ch_tv3.m3u8
+#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_300.png" group-title="Freeview",NTV7
+#EXTVLCOPT:http-referrer=https://www.dailymotion.com
+https://mediahomes.github.io/assets/my/ch_ntv7.m3u8
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_300.png" group-title="Freeview",8TV
+#EXTVLCOPT:http-referrer=https://www.dailymotion.com
+https://mediahomes.github.io/assets/my/ch_8tv.m3u8
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_300.png" group-title="Freeview",TV9
+#EXTVLCOPT:http-referrer=https://www.dailymotion.com
+https://mediahomes.github.io/assets/my/ch_tv9.m3u8
+#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Freeview",OKEY
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Freeview",Berita RTM 
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#EXTINF:-1 tvg-id="RTS.MY" tvg-logo="https://mediahomes.github.io/logos/sukan.png" group-title="Freeview",TV Sukan
+https://rtm6hbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#EXTINF:-1 tvg-ID="TV6.MY" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="Freeview",TV6
+https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#EXTINF:-1 tvg-id="Ber.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Freeview",Bernama
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="Freeview",TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-ID="TVS.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="Freeview",TV Sarawak
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
+
 //Astro
 #EXTINF:-1 tvg-ID="tv1.my" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Astro",TV1 HD
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
@@ -3052,6 +3084,51 @@ https://cdn2ii.diebutx.com/own2hls/2020/7fb8d4f27064828f11d397a2f12e1632/540p/in
 https://www.googleapis.com/drive/v3/files/1_sLSCqL7eaaN0DjnMKJG21kyw8KD0-hK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 //Indonesia
+
+#EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6441-tvri
+#EXTINF:-1 tvg-id="BST.ID" tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="Indonesia",Berita Satu
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6165-beritasatu
+#EXTINF:-1 tvg-id="CNN.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png" group-title="Indonesia",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DAA.ID" tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="Indonesia",Da Ai Indonesia
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6482-daai-tv
+#EXTINF:-1 tvg-id="GTV.ID" tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="Indonesia",Global TV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/778-gtv
+#EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Indonesia",Indosiar
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/205-indosiar
+#EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://cdn.techinasia.com/data/images/YesyMxHgCzyipuMqU5TLhs83cINKGYj6V0z7HB0U.jpeg" group-title="Indonesia",Jak TV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/5415-jaktv
+#EXTINF:-1 tvg-id="JAG.ID" tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png" group-title="Indonesia",Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-id="JTV.ID" tvg-logo="http://www.jtv.co.id/image/logojtv1.png" group-title="Indonesia",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+#EXTINF:-1 tvg-id="IDX.ID" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="Indonesia",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 tvg-id="INW.ID" tvg-logo="https://static.epg.best/id/iNews.id.png" group-title="Indonesia",INews
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/5409-inews
+#EXTINF:-1 tvg-id="KOM.ID" tvg-logo="https://static.epg.best/id/KompasTv.id.png" group-title="Indonesia",Kompas TV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/874-kompas-tv
+#EXTINF:-1 tvg-id="MET.ID" tvg-logo="https://static.epg.best/id/MetroTV.id.png" group-title="Indonesia",Metro
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/777-metro-tv
+#EXTINF:-1 tvg-id="MNC.ID" tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="Indonesia",MNC
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/870-mnc
+#EXTINF:-1 tvg-id="MYT.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="Indonesia",MyTV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6711-mytv
+#EXTINF:-1 tvg-id="NET.ID" tvg-logo="https://static.epg.best/id/NetTV.id.png" group-title="Indonesia",Net
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/875-net-tv
+#EXTINF:-1 tvg-id="OCH.ID" tvg-logo="https://www.ochanneltv.com/site/uploads/logo/5b14d10983313-logo.png" group-title="Indonesia",O Channel
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/206-ochannel
+#EXTINF:-1 tvg-id="RCT.ID" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
+#EXTINF:-1 tvg-id="RTV.ID" tvg-logo="https://static.epg.best/id/RajawaliTV.id.png" group-title="Indonesia",RTV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/1561-rtv
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="Indonesia",SCTV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/204-sctv
+#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="Indonesia",Trans TV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/733-trans-tv
+#EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://static.epg.best/id/Trans7.id.png" group-title="Indonesia",Trans 7
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/734-trans7
 
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/R0pT89dj/1200px-TVRILogo2019-svg.png" group-title="Indonesia - Lokal",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
