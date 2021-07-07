@@ -793,7 +793,7 @@ http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="Movies",KIX HD
 http://185.180.221.194:8278/streams/d/KiX/playlist.m3u8
-#EXTINF:-1 tvg-id="fli.in" tvg-name="Flix" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/flix-1-logo-png-transparent.png" group-title="Movies",Flix
+#EXTINF:-1 tvg-id="fli.in" tvg-name="Flix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" group-title="Movies",Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="&flix.in" tvg-name="&Flix" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
