@@ -3198,3 +3198,35 @@ http://210.210.155.35/session/bc8c25a4-312e-11eb-9c1c-c81f66f89318/uq2663/h/h98/
 https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/7PWHKMHn/Zoomookidslogo.png" group-title="Kids",ZooMoo
 https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6533|user-agent=Mozilla/5.0
+
+//Persiana
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Plus
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Billboard
+http://51.210.199.10/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Cinema
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana  Classic
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Documentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Entertainment
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Family+
+http://51.210.199.13/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Sonnati
+http://51.210.199.59/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://persianagroup.tv/wp-content/uploads/2020/08/logo.png" group-title="Persiana TV",Persiana Technology
+http://51.210.199.25/hls/stream.m3u8
