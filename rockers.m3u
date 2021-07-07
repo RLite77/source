@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml.gz" x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml.gz"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml.gz"
 
 //Malaysia
 #EXTINF:-1 tvg-ID="tv1.my" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1 HD
@@ -80,6 +80,7 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
 //Freeview
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml.gz"
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="Freeview",TV1
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Freeview",TV2
