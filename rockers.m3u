@@ -682,7 +682,7 @@ http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/100
 http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/7
 
 
-//Euro2020
+//EURO 2020
 #EXTINF:-1 tvg-ID="TV SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="EURO 2020",Sukan RTM
 https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
 #EXTINF:-1 tvg-ID="tv.okey.my" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="EURO 2020",TV Okey
@@ -699,27 +699,42 @@ http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158351
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/259876
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Euro2020 2 HD" tvg-logo="http://dmtn.tv:8080/images/85ec7b657cf9dc59700ae0a101667e71.png" group-title="EURO 2020",MY: Astro SuperSport Euro2020 2 HD
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/259877
-#EXTINF:-1 group-title="EURO 2020" tvg-id="109" tvg-chno="109" tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_4.png",beIN Sports Max 1
+#EXTINF:-1 group-title="EURO 2020" tvg-id="109" tvg-chno="109" tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_1.png",beIN Sports Max 1
 http://8.anbdaouras.xyz/live/05500021500/index.m3u8
 #EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="beIN SPORTS 4K (FHD)" tvg-logo="http://dmtn.tv:8080/images/c3c48d13fbc55a278e60d4c1c22a045a.png" group-title="EURO 2020",beIN SPORTS 4K (FHD)
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/206083
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport max 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/320px-Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",beIN Sport max 1 HD
-http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/38181
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport max 1 Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/320px-Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",beIN Sport max 1 Sd
-http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/38177
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport max 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/320px-Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",beIN Sport max 2 HD
-http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/38182
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport max 2 Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/320px-Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",beIN Sport max 2 Sd
-http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/38178
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport max 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/320px-Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",beIN Sport max 3 HD
-http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/38183
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport max 3 Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/320px-Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",beIN Sport max 3 Sd
-http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/38179
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport max 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/320px-Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",beIN Sport max 4 HD
-http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/38184
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport max 4 Sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/320px-Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",beIN Sport max 4 Sd
-http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/38180
 
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 1 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289046
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 1 SD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289047
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 2 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289048
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 2 SD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289049
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 3 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289050
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 3 SD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289051
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 4 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289052
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 4 SD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289053
+
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 4K" tvg-logo="" group-title="EURO 2020",B S MAX 1 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289625
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 4K " tvg-logo="" group-title="EURO 2020",B S MAX 2 4K 
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289626
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 4K " tvg-logo="" group-title="EURO 2020",B S MAX 3 4K 
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289627
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 4K " tvg-logo="" group-title="EURO 2020",B S MAX 4 4K 
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289628
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="EURO 2020",CCTV5
+http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
+
+
+//COPA America
 #EXTINF:-1 tvg-id="bbcredbutton1.uk" tvg-name="UK| BBC Red Button ✅" tvg-logo="https://www.nicepng.com/png/full/552-5521417_bbc-red-button-logo-bbc-radio-leicester.png" group-title="COPA America",UK| BBC Red Button ✅
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/81584
 #EXTINF:-1 tvg-id="fs1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="COPA America",FS1
@@ -730,14 +745,25 @@ http://mcktv.xyz:8080/jamesjudge2/32gardenave/210
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/173606
 #EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_cu_HTV.png" group-title="COPA America",HTV
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="EURO 2020",CCTV5
-http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg" group-title="COPA America",CCTV5+
 http://39.135.138.8:6610/PLTV/88888888/224/3221225649/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport max 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/320px-Logo_beIN_SPORTS_MAX.png" group-title="COPA America",beIN Sport max 5 HD
-http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/38412
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport max 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_beIN_SPORTS_MAX.png/320px-Logo_beIN_SPORTS_MAX.png" group-title="COPA America",beIN Sport max 6 HD
-http://ottiptv.us:2095/SimoRifiptv/XUwU2hnxCu/38413
+
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 5 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289054
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 5 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289055
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 6 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289056
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 6 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289057
+
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 4K" tvg-logo="" group-title="COPA America",B S MAX 5 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289629
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 4K" tvg-logo="" group-title="COPA America",B S MAX 6 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289630
+
+
 
 //Sports Total
 #EXTM3U
