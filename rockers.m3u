@@ -692,21 +692,21 @@ https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8|referer=https://rt
 #EXTINF:-1 tvg-ID="tv.okey.my" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="EURO 2020",TV Okey
 https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
 #EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="EURO 2020",US: ESPN 1 HD
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/70853
+http://mcktv.xyz:8080/jamesjudge2/32gardenave/208
 #EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="EURO 2020",US: ESPN 1 HD
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK| BBC One HD" tvg-logo="https://i.ibb.co/sbC7GPH/BBC-one.png" group-title="EURO 2020",UK| BBC One HD
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158343
+http://mcktv.xyz:8080/jamesjudge2/32gardenave/1
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK| ITV HD" tvg-logo="https://i.ibb.co/wpdnKVd/200-cb-20190104010828.png" group-title="EURO 2020",UK| ITV HD
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/158351
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Euro2020 1 HD" tvg-logo="http://dmtn.tv:8080/images/aab03c83f495a2c3afd7093167349007.png" group-title="EURO 2020",MY: Astro SuperSport Euro2020 1 HD
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/259876
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Euro2020 2 HD" tvg-logo="http://dmtn.tv:8080/images/85ec7b657cf9dc59700ae0a101667e71.png" group-title="EURO 2020",MY: Astro SuperSport Euro2020 2 HD
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/259877
+
 #EXTINF:-1 group-title="EURO 2020" tvg-id="109" tvg-chno="109" tvg-logo="https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_1.png",beIN Sports Max 1
 http://8.anbdaouras.xyz/live/05500021500/index.m3u8
 #EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="beIN SPORTS 4K (FHD)" tvg-logo="http://dmtn.tv:8080/images/c3c48d13fbc55a278e60d4c1c22a045a.png" group-title="EURO 2020",beIN SPORTS 4K (FHD)
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/206083
+
 
 #EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 1 HD
 http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289046
