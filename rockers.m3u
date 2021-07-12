@@ -1067,125 +1067,148 @@ http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
 
 
+//Indonesia
 
+#EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6441-tvri
+#EXTINF:-1 tvg-id="BST.ID" tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="Indonesia",Berita Satu
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6165-beritasatu
+#EXTINF:-1 tvg-id="CNN.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png" group-title="Indonesia",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DAA.ID" tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="Indonesia",Da Ai Indonesia
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6482-daai-tv
+#EXTINF:-1 tvg-id="GTV.ID" tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="Indonesia",Global TV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/778-gtv
+#EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Indonesia",Indosiar
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/205-indosiar
+#EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://cdn.techinasia.com/data/images/YesyMxHgCzyipuMqU5TLhs83cINKGYj6V0z7HB0U.jpeg" group-title="Indonesia",Jak TV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/5415-jaktv
+#EXTINF:-1 tvg-id="JAG.ID" tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png" group-title="Indonesia",Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-id="JTV.ID" tvg-logo="http://www.jtv.co.id/image/logojtv1.png" group-title="Indonesia",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+#EXTINF:-1 tvg-id="IDX.ID" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="Indonesia",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
+#EXTINF:-1 tvg-id="INW.ID" tvg-logo="https://static.epg.best/id/iNews.id.png" group-title="Indonesia",INews
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/5409-inews
+#EXTINF:-1 tvg-id="KOM.ID" tvg-logo="https://static.epg.best/id/KompasTv.id.png" group-title="Indonesia",Kompas TV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/874-kompas-tv
+#EXTINF:-1 tvg-id="MET.ID" tvg-logo="https://static.epg.best/id/MetroTV.id.png" group-title="Indonesia",Metro
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/777-metro-tv
+#EXTINF:-1 tvg-id="MNC.ID" tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="Indonesia",MNC
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/870-mnc
+#EXTINF:-1 tvg-id="MYT.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="Indonesia",MyTV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6711-mytv
+#EXTINF:-1 tvg-id="NET.ID" tvg-logo="https://static.epg.best/id/NetTV.id.png" group-title="Indonesia",Net
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/875-net-tv
+#EXTINF:-1 tvg-id="OCH.ID" tvg-logo="https://www.ochanneltv.com/site/uploads/logo/5b14d10983313-logo.png" group-title="Indonesia",O Channel
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/206-ochannel
+#EXTINF:-1 tvg-id="RCT.ID" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
+#EXTINF:-1 tvg-id="RTV.ID" tvg-logo="https://static.epg.best/id/RajawaliTV.id.png" group-title="Indonesia",RTV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/1561-rtv
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="Indonesia",SCTV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/204-sctv
+#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="Indonesia",Trans TV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/733-trans-tv
+#EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://static.epg.best/id/Trans7.id.png" group-title="Indonesia",Trans 7
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/734-trans7
 
+#EXTINF:-1,tvg-logo="https://i.postimg.cc/R0pT89dj/1200px-TVRILogo2019-svg.png" group-title="Indonesia",TVRI Nasional
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/6QYtM4KX/RCTI.png" group-title="Indonesia",RCTI+
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-Perjuangan-avc1_499968=5-mp4a_66000_eng=2.m3u8
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Indonesia", Global TV
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_499968=5-mp4a_66000_eng=2.m3u8
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF: 1, tvg-logo="https://i.ibb.co/vQZbBCg/MENCEID-S1.png" group-title="Indonesia", MNC TV+
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-Perjuangan-avc1_499968=5-mp4a_66000_eng=2.m3u8
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png" group-title="Indonesia",SCTV
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel-Perjuangan-avc1_499968=5-mp4a_66000_eng=2.m3u8
+http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
+http://bonev2.xyz/playlist/usee-sctv-new-bonetv.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="Indonesia",INDOSIAR
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen-Perjuangan-avc1_499968=5-mp4a_66000_eng=2.m3u8
+http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=indosiar
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/XJjc0ht5/net-HD.jpg" group-title="Indonesia",NET TV HD
+https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1-avc1_499968=5-mp4a_66000_eng=3.m3u8
+#EXTINF: 1, tvg-logo="https://i.ibb.co/KzKJNMq/NETESID-S1.png" group-title="Indonesia",NET.
+http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1, tvg-id=ANTV.id tvg-name=ANTV ID tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png" group-title="Indonesia", ANTV
+http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/TRANTV.jpg" group-title="Indonesia", TRANS TV
+https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot-avc1_499968=5-mp4a_66000_eng=2.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/TRANS7.png" group-title="Indonesia", TRANS 7
+https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer-avc1_499968=4-mp4a_66000_eng=2.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://210.210.155.35/session/0062e3ca-c615-11e9-b6d9-c81f66f89318/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1, tvg-logo="https://antvgo.an.tv/bor/assets/logotv/RTV.png" group-title="Indonesia",Rajawali TV
+http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/NfHXZBLV/JTV.png" group-title="Indonesia",JTV
+http://122.248.43.138:1935/ch2/myStream/live.m3u8
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.postimg.cc/vTbB9TXb/h-XC6-Vd-Yi-400x400.jpg",JITV
+http://202.169.224.76:1935/tv/jitv/chunklist_w759313912.m3u8
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/LsGtMnNH/jaktv-tv.jpg" group-title="Indonesia", JakTV
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-5415|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="Daai TV ID tvg-logo="https://i.ibb.co/d0GbGhj/daiitvlogo.png" group-title="Indonesia",DAAI TV INDONESIA
+https://radenroro.net/RHS/bangsat.m3u8?channel=usee-daaitv|user-agent=Mozilla/5.0
+http://210.210.155.35/session/f8839692-c617-11e9-b949-c81f66f89318/qwr9ew/s/s13/index.m3u8
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/sgxBDrsC/Bali-TV-2014.png" group-title="Indonesia",BALI TV
+https://radenroro.net/RHS/bangsat.m3u8?channel=usee-balitv|user-agent=Mozilla/5.0
+#EXTINF:-1, tvg-logo="https://i.imgur.com/4PPPAEv.png" group-title="Indonesia",MY TV
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6711|user-agent=Mozilla/5.0
+#EXTINF:-1, tvg-logo="https://i.imgur.com/dhKnCid.png" group-title="Indonesia",Usee Photo
+https://radenroro.net/RHS/bangsat.m3u8?channel=usee-useephoto|user-agent=Mozilla/5.0
+#EXTINF:-1, tvg-logo="https://i.imgur.com/OvK16mw.png" group-title="Indonesia",Usee Prime
+https://radenroro.net/RHS/bangsat.m3u8?channel=usee-useeprime|user-agent=Mozilla/5.0
+#EXTINF:-1, tvg-logo="https://i.ibb.co/FmcgNfx/ruangtrampil.png" group-title="Indonesia", Ruang Terampil
+https://radenroro.net/RHS/bangsat.m3u8?channel=usee-useeinfo|user-agent=Mozilla/5.0
+#EXTINF:-1, tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png"?v=2.0.0.13 group-title="Indonesia", Insert
+https://radenroro.net/RHS/bangsat.m3u8?channel=usee-insert|user-agent=Mozilla/5.0
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/qBjmjfQR/persija-tv-channel-logo.png" group-title="Indonesia", Persija TV
 
-//AFC
-#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 1
-http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 2
-http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 3
-http://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 4
-http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 5
-http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 6
-http://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 7
-http://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 8
-http://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 9
-http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 10
-http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-
-
-
-
-//EURO 2020
-#EXTINF:-1 tvg-ID="TV SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="EURO 2020",Sukan RTM
-https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
-#EXTINF:-1 tvg-ID="tv.okey.my" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="EURO 2020",TV Okey
-https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="EURO 2020",US: ESPN 1 HD
-http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="EURO 2020",US: ESPN 1 HD
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Euro2020 1 HD" tvg-logo="http://dmtn.tv:8080/images/aab03c83f495a2c3afd7093167349007.png" group-title="EURO 2020",MY: Astro SuperSport Euro2020 1 HD
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Euro2020 2 HD" tvg-logo="http://dmtn.tv:8080/images/85ec7b657cf9dc59700ae0a101667e71.png" group-title="EURO 2020",MY: Astro SuperSport Euro2020 2 HD
-
-#EXTINF:-1 group-title="EURO 2020" tvg-id="109" tvg-chno="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",beIN Sports Max 1
-http://8.anbdaouras.xyz/live/05500021500/index.m3u8
-#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="beIN SPORTS 4K (FHD)" tvg-logo="http://dmtn.tv:8080/images/c3c48d13fbc55a278e60d4c1c22a045a.png" group-title="EURO 2020",beIN SPORTS 4K (FHD)
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/300px-Cuatro.svg.png" group-title="EURO 2020",Cuatro HD
-http://91.126.141.13:1935/live/51/1800-def.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TNT_Sports_Logo_%282017%29.png/697px-TNT_Sports_Logo_%282017%29.png" group-title="EURO 2020",TNT Sport
-http://iptvmercury.club:8080/thebest/thebest/27146
-
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 1 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289046
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 1 SD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289047
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 2 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289048
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 2 SD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289049
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 3 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289050
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 3 SD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289051
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 4 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289052
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 4 SD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289053
-
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 4K" tvg-logo="" group-title="EURO 2020",B S MAX 1 4K
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289625
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 4K " tvg-logo="" group-title="EURO 2020",B S MAX 2 4K 
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289626
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 4K " tvg-logo="" group-title="EURO 2020",B S MAX 3 4K 
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289627
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 4K " tvg-logo="" group-title="EURO 2020",B S MAX 4 4K 
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289628
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="EURO 2020",CCTV5
-http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="EURO 2020",SPORTTV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-
-
-//COPA America
-#EXTINF:-1 tvg-id="bbcredbutton1.uk" tvg-name="UK| BBC Red Button ✅" tvg-logo="https://www.nicepng.com/png/full/552-5521417_bbc-red-button-logo-bbc-radio-leicester.png" group-title="COPA America",UK| BBC Red Button ✅
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/81584
-#EXTINF:-1 tvg-id="fs1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="COPA America",FS1
-http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="I150.82541.schedulesdirect.org" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="COPA America",FS1
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/210
-#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US: Univision Deportes HD" tvg-logo="https://i.ibb.co/kqNdBv3/ryxuww1433432348.png" group-title="COPA America",US: Univision Deportes HD
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/134
-#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US: Univision Deportes HD" tvg-logo="https://i.ibb.co/kqNdBv3/ryxuww1433432348.png" group-title="COPA America",US: Univision Deportes HD
-http://pn.tvott.info:80/307200115204/307200115204/86934
-#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_cu_HTV.png" group-title="COPA America",HTV
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg" group-title="COPA America",CCTV5+
-http://39.135.138.8:6610/PLTV/88888888/224/3221225649/2/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 5 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289054
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 5 4K
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289055
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 6 HD
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289056
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 6 4K
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289057
-
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 4K" tvg-logo="" group-title="COPA America",B S MAX 5 4K
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289629
-#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 4K" tvg-logo="" group-title="COPA America",B S MAX 6 4K
-http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289630
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="COPA America",SPORTTV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-
-
-
-
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/ZKNdFPnw/ochannel.jpg" group-title="Indonesia", O Channel
+https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-206|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Indonesia", Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="Indonesia",Nusantara TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxJC4F90/atv-channel-tv-logo.png" group-title="Indonesia", ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+#EXTINF:0, tvg-logo="https://i.postimg.cc/Fz685L35/tvku.png" group-title="Indonesia",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="Indonesia", ELSHINTA TV
+http://210.210.155.35/qwr9ew/s/s10/02.m3u8
+#EXTINF:0, tvg-logo="https://i.postimg.cc/NMN49vNQ/tegartv.png" group-title="Indonesia",Tegar TV Lampung
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZdWmmQW/RRINet.jpg" group-title="Indonesia", RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:0, tvg-logo="https://i.postimg.cc/jq4nRY81/ctv.png" group-title="Indonesia",CTV
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8
+#EXTINF:0, tvg-logo="https://i.postimg.cc/tgzGYkL9/I-AM-Channel.png" group-title="Indonesia", I AM CHANNEL
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/J4R6hmRH/simpang5tv.jpg" group-title="Indonesia",SIMPANG LIMA PATI
+http://122.248.43.138:1935/ch4/myStream/live.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/cHZYcx9Q/kawanuatv.jpg" group-title="Indonesia",KAWANUA MANADO
+http://122.248.43.138:1935/ch18/myStream/live.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/BZPL11Qd/radartv.png" group-title="Indonesia",Radar TV
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L52cR1yn/Logo-Balikpapan-TV.png" group-title="Indonesia",BALIK PAPAN TV
+http://122.248.43.138:1935/ch10/myStream/chunklist_w476334342.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5t8K0tQv/jektv.jpg" group-title="Indonesia",JEK TV JAMBI
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/N0P8QqpT/logojambitv.jpg" group-title="Indonesia",JAMBI TV
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:-1  tvg-logo=" group-title="Indonesia",Simpang5Tv
+http://122.248.43.138:1935/ch4/myStream/live.m3u8
+#EXTINF:0  tvg-logo="https://i.postimg.cc/yNT5jd6K/BETV.png" group-title="Indonesia",BETV Bengkulu
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:0  tvg-logo="https://i.postimg.cc/nhpNDBZ2/Ch-rbtv-logo-250px.png" group-title="Indonesia",RBTV Bengkulu
+http://122.248.43.138:1935/ch12/myStream/live.m3u8
 
 
 //INDIA
@@ -2635,79 +2658,203 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 
 
 
+//AFC
+#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 1
+http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 2
+http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 3
+http://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 4
+http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 5
+http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 6
+http://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 7
+http://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 8
+http://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 9
+http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 10
+http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+
+
+
+
+//EURO 2020
+#EXTINF:-1 tvg-ID="TV SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="EURO 2020",Sukan RTM
+https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
+#EXTINF:-1 tvg-ID="tv.okey.my" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="EURO 2020",TV Okey
+https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="EURO 2020",US: ESPN 1 HD
+http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN 1 HD" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="EURO 2020",US: ESPN 1 HD
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Euro2020 1 HD" tvg-logo="http://dmtn.tv:8080/images/aab03c83f495a2c3afd7093167349007.png" group-title="EURO 2020",MY: Astro SuperSport Euro2020 1 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport Euro2020 2 HD" tvg-logo="http://dmtn.tv:8080/images/85ec7b657cf9dc59700ae0a101667e71.png" group-title="EURO 2020",MY: Astro SuperSport Euro2020 2 HD
+
+#EXTINF:-1 group-title="EURO 2020" tvg-id="109" tvg-chno="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",beIN Sports Max 1
+http://8.anbdaouras.xyz/live/05500021500/index.m3u8
+#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="beIN SPORTS 4K (FHD)" tvg-logo="http://dmtn.tv:8080/images/c3c48d13fbc55a278e60d4c1c22a045a.png" group-title="EURO 2020",beIN SPORTS 4K (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/300px-Cuatro.svg.png" group-title="EURO 2020",Cuatro HD
+http://91.126.141.13:1935/live/51/1800-def.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TNT_Sports_Logo_%282017%29.png/697px-TNT_Sports_Logo_%282017%29.png" group-title="EURO 2020",TNT Sport
+http://iptvmercury.club:8080/thebest/thebest/27146
+
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 1 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289046
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 1 SD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289047
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 2 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289048
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 2 SD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289049
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 3 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289050
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 3 SD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289051
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 4 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289052
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="EURO 2020",B S MAX 4 SD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289053
+
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 1 4K" tvg-logo="" group-title="EURO 2020",B S MAX 1 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289625
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 2 4K " tvg-logo="" group-title="EURO 2020",B S MAX 2 4K 
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289626
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 3 4K " tvg-logo="" group-title="EURO 2020",B S MAX 3 4K 
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289627
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 4 4K " tvg-logo="" group-title="EURO 2020",B S MAX 4 4K 
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289628
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg" group-title="EURO 2020",CCTV5
+http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="EURO 2020",SPORTTV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+
+
+//COPA America
+#EXTINF:-1 tvg-id="bbcredbutton1.uk" tvg-name="UK| BBC Red Button ✅" tvg-logo="https://www.nicepng.com/png/full/552-5521417_bbc-red-button-logo-bbc-radio-leicester.png" group-title="COPA America",UK| BBC Red Button ✅
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/81584
+#EXTINF:-1 tvg-id="fs1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="COPA America",FS1
+http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="I150.82541.schedulesdirect.org" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="COPA America",FS1
+http://mcktv.xyz:8080/jamesjudge2/32gardenave/210
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US: Univision Deportes HD" tvg-logo="https://i.ibb.co/kqNdBv3/ryxuww1433432348.png" group-title="COPA America",US: Univision Deportes HD
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/134
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US: Univision Deportes HD" tvg-logo="https://i.ibb.co/kqNdBv3/ryxuww1433432348.png" group-title="COPA America",US: Univision Deportes HD
+http://pn.tvott.info:80/307200115204/307200115204/86934
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_cu_HTV.png" group-title="COPA America",HTV
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg" group-title="COPA America",CCTV5+
+http://39.135.138.8:6610/PLTV/88888888/224/3221225649/2/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 5 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289054
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 5 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289055
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 6 HD
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289056
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="COPA America",B S MAX 6 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289057
+
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 5 4K" tvg-logo="" group-title="COPA America",B S MAX 5 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289629
+#EXTINF:-1 tvg-id="" tvg-name="B S MAX 6 4K" tvg-logo="" group-title="COPA America",B S MAX 6 4K
+http://dream4k.co:8080/fsdfsgfsgs/rGMSeAaH/289630
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pMfZ0TT/Sport-Tv-Institucional-05.png" group-title="COPA America",SPORTTV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+
+
+
+
+
+
+
+
+
 
 
 //VOD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/5KYaB1CTAklQHm846mHTFkozgDN.jpg" group-title="Video On Demand",Godzilla vs. Kong (2021)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/5KYaB1CTAklQHm846mHTFkozgDN.jpg" group-title="VOD",Godzilla vs. Kong (2021)
 https://s800.clipwatching.com/hls/zx5x4t2kbf3txcne4zlthrhd2lgbov3cx5kjgumkurolztjebmsnjkxttzmq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Video On Demand",Zack Snyder's Justice League (2021)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD",Zack Snyder's Justice League (2021)
 https://s785.clipwatching.com/hls/zx5x3lkfar3txcne43ddjbxp3tef2uafobaqxkscq7yxjwhiozyscnhcnnzq/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI3YTAxYzEtZjVjMy00ODgxLTkwM2MtYmU1ZTkxYTUyNzUzXkEyXkFqcGdeQXVyMTEzMjgxNzE0._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="Video On Demand",Bulan dan Pria Terhebat (2020)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI3YTAxYzEtZjVjMy00ODgxLTkwM2MtYmU1ZTkxYTUyNzUzXkEyXkFqcGdeQXVyMTEzMjgxNzE0._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="VOD",Bulan dan Pria Terhebat (2020)
 https://archive.org/download/nprh-22-bulan-pria-terhebat-2020-malay/%23NPRH22%20Bulan%20%26%20Pria%20Terhebat%20%282020%29%20Malay.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iluminasi.com/img/upload/penunggang-agama.jpg" group-title="Video On Demand",Penunggang Agama (2021)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iluminasi.com/img/upload/penunggang-agama.jpg" group-title="VOD",Penunggang Agama (2021)
 https://archive.org/download/video_2021-03-29_00-50-20/video_2021-03-29_00-50-20.ia.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iluminasi.com/img/upload/hantu-bonceng.jpg" group-title="Video On Demand",Hantu Bonceng 2 (2021)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iluminasi.com/img/upload/hantu-bonceng.jpg" group-title="VOD",Hantu Bonceng 2 (2021)
 https://archive.org/download/h.b.2/h.b.2.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/di1bCAfGoJ0BzNEavLsPyxQ2AaB.jpg" group-title="Video On Demand",Wonder Woman 1984 (2020)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/di1bCAfGoJ0BzNEavLsPyxQ2AaB.jpg" group-title="VOD",Wonder Woman 1984 (2020)
 https://ipfs.io/ipfs/QmQ63uK1HWnTK2A8WfshRvna32iRSpEVHbANxjqTZtCSw7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/k68nPLbIST6NP96JmTxmZijEvCA.jpg" group-title="Video On Demand",Tenet (2020)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/k68nPLbIST6NP96JmTxmZijEvCA.jpg" group-title="VOD",Tenet (2020)
 https://ipfs.io/ipfs/QmVMeKWwoceuY5ZkjAKAenVW63Bdp9MYkt8H3FZ9Z8fc7X
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/zeD4PabP6099gpE0STWJrJrCBCs.jpg" group-title="Video On Demand",Honest Thief (2020) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/zeD4PabP6099gpE0STWJrJrCBCs.jpg" group-title="VOD",Honest Thief (2020) 
 https://ipfs.io/ipfs/QmXNBE3wnFyHBxKNpKVx2Jc8DNderq2qUV3HQgnJ7ySRq7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/sy6DvAu72kjoseZEjocnm2ZZ09i.jpg" group-title="Video On Demand",Train to Busan Presents: Peninsula (2020)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/sy6DvAu72kjoseZEjocnm2ZZ09i.jpg" group-title="VOD",Train to Busan Presents: Peninsula (2020)
 https://ipfs.io/ipfs/QmVyY9fNV1yvKqZitpvgXLk1ZuEbT6XfkAWQkntpyKXcLL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/onFRVDU13tJMpjxBgpeiN2DTZao.jpg" group-title="Video On Demand",Freaky (2020) 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/onFRVDU13tJMpjxBgpeiN2DTZao.jpg" group-title="VOD",Freaky (2020) 
 https://ipfs.io/ipfs/QmaXb1KfuCkfG94mReC1GzehcpM5vw1abjYEzHZfJp9AQq
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/xxv6yHSNTGaf7aqwF1XdLVNpvpB.jpg" group-title="Video On Demand",Army of One (2020)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w185/xxv6yHSNTGaf7aqwF1XdLVNpvpB.jpg" group-title="VOD",Army of One (2020)
 https://s165.clipwatching.com/hls/zx5x3himyv2dxcne422tpepjzxreajypksujvckiy3wzlzup7d57q7ds54yq/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.123movie.show/images/posters/2020/02/74f76b60b37eef343c01477dc45bd13dbfa9790d402ee8d5.jpg" group-title="Video On Demand",Spy Kids (2001)
+#EXTINF:-1 tvg-logo="https://static.123movie.show/images/posters/2020/02/74f76b60b37eef343c01477dc45bd13dbfa9790d402ee8d5.jpg" group-title="VOD",Spy Kids (2001)
 https://m4x.vidcloud9.com/videos/hls/-WGWquklfSjfYwBrNHEESw/1610716036/4464/d41d687e087ff8eafc74b0ee5a29a044/sub.1.720.m3u8
 
-#EXTINF:-1 tvg-logo="logo" group-title="Video On Demand",Spy Kids 2: Island Of Lost Dreams (2002)
+#EXTINF:-1 tvg-logo="logo" group-title="VOD",Spy Kids 2: Island Of Lost Dreams (2002)
 https://cloud.cdncv.net/hls/mfqjzr2bv3o6sr7qw4yu3oao63cxyhzca4awlv3uei47yr57np2kbkzi5kzq/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.123movie.show/images/posters/2020/02/a2d6156c238bcd5bce32b5d6b5be61dafc3cafd3074c18c5.jpg" group-title="Video On Demand",Spy Kids 3: Game Over (2003)
+#EXTINF:-1 tvg-logo="https://static.123movie.show/images/posters/2020/02/a2d6156c238bcd5bce32b5d6b5be61dafc3cafd3074c18c5.jpg" group-title="VOD",Spy Kids 3: Game Over (2003)
 https://www3.cdncv.net/hls/mfqj7vdyv3o6sr7qw4zu3iyi46se23omo6qx5rwdwt2ao3qabed7knl72wja/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.123movie.show/images/posters/2020/02/ef911025a7aa77092501ebc13cb3a72ef21ed2471dac8a72.jpg" group-title="Video On Demand",Spy Kids: All the Time in the World (2011)
+#EXTINF:-1 tvg-logo="https://static.123movie.show/images/posters/2020/02/ef911025a7aa77092501ebc13cb3a72ef21ed2471dac8a72.jpg" group-title="VOD",Spy Kids: All the Time in the World (2011)
 https://m2x.vidcloud9.com/videos/hls/1s9QhA8UzR7TovOErh6VgA/1610715707/4461/eaaab48c92c02d049785ce9fa820ee8d/sub.1.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qvktm0BHcnmDpul4Hz01GIazWPr.jpg" group-title="Video On Demand",The Terminator (1984)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qvktm0BHcnmDpul4Hz01GIazWPr.jpg" group-title="VOD",The Terminator (1984)
 https://m4x.vidcloud9.com/videos/hls/rwR-96YnmTGxehOYPZ1U7A/1610721507/8363/48a960a687dc0588c5e0a91e3418ed86/sub.1.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.123movie.show/images/posters/2020/02/fb995644d29fee2988b3183d4960a3be6189e5fed28f1572.jpg" group-title="Video On Demand",Terminator 2: Judgment Day (1991)
+#EXTINF:-1 tvg-logo="https://static.123movie.show/images/posters/2020/02/fb995644d29fee2988b3183d4960a3be6189e5fed28f1572.jpg" group-title="VOD",Terminator 2: Judgment Day (1991)
 https://www248.ff-01.com/token=NrQ9n5cqz7ghi3FErQFI8Q/1610721938/175.140.0.0/24/d/c1/fb59ee9e17a99f4e6bb9bc90097fcc1d-480p.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jdG3l2e7kJ4bl91YLRLUAmvbZMX.jpg" group-title="Video On Demand",Terminator 3: Rise of the Machines (2003)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jdG3l2e7kJ4bl91YLRLUAmvbZMX.jpg" group-title="VOD",Terminator 3: Rise of the Machines (2003)
 https://m3x.vidcloud9.com/videos/hls/-YNvq9V1mnEuo90K2P_q7A/1610722376/8604/643ee71d5774a40e9007e3876277aab4/sub.1.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg" group-title="Video On Demand",Terminator 4: Salvation (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg" group-title="VOD",Terminator 4: Salvation (2009)
 https://www3.cdncv.net/hls/mfqj7ncls7o6sr7qw7oe3ja4xsyv2lrhch3ie7zmqnyukeb55lgblrk4gnpa/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg" group-title="Video On Demand",Terminator 5: Genisys (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg" group-title="VOD",Terminator 5: Genisys (2015)
 https://hls1x.vidcloud9.com/videos/hls/aqQnnY_Gcnz01eXYeHu1PA/1610723123/6912/ffa79e96535cf7d74a35da8313e66226/ep.1.1598491083.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.123movie.show/images/posters/2020/07/d52adbf13cdcc3ba40f0e2956c0924d49118da902f667b7b.png" group-title="Video On Demand",Terminator: Dark Fate (2019)
+#EXTINF:-1 tvg-logo="https://static.123movie.show/images/posters/2020/07/d52adbf13cdcc3ba40f0e2956c0924d49118da902f667b7b.png" group-title="VOD",Terminator: Dark Fate (2019)
 https://861520055.tapecontent.net/radosgw/LDwDGZX8XYHRQ7K/QbKnYlmXizm-I-ayQBghKFBNMldNNXwZxfnUsnnlBMIuEpOEf8c1OjJq0sIRWTg2-u2Eh38JekWM7CTZUpHNZPVyGrC0emLioZeVBJqnXj1Re3lR-jJN9SeXp0-mmIh9A02Hr5RmgPtSRGn-V1iyVf1CQHTtje2f5Lmhuc7Rr_ikgQPWNrUB4gjZ7IcQ7A2E7x2a_psw4QTXg7ON1mdg6bSELgdCjRnFPloipWwqIjw-HGTxqkhUKhMnxQLr7xVMbuaYB8v7OTz1PcE_o74E7Fz0ySaDFoNghbd_2w/290859_1080_1596448295.mp4?stream=1
 
-#EXTINF:-1 tvg-logo="" group-title="Video On Demand",Love And MOnsters
+#EXTINF:-1 tvg-logo="" group-title="VOD",Love And MOnsters
 https://gateway.ipfs.io/ipfs/QmZopvm4mLE4hLJRB8snq8ygPh8gp53tBJfZiwoLMVbQDa
 
-#EXTINF:-1 tvg-logo="" group-title="Video On Demand",Mulan
+#EXTINF:-1 tvg-logo="" group-title="VOD",Mulan
 https://gateway.ipfs.io/ipfs/QmQWHTLD2nxMjczjevmeU5ZvnH3MuuyDvVrfzpVfoYzFeX
 
-#EXTINF:-1 tvg-logo="" group-title="Video On Demand",Special Forces
+#EXTINF:-1 tvg-logo="" group-title="VOD",Special Forces
 https://vod2.useetv.com/vod/mp4:vod/vod/video/freemovie/NPV200084_SPECIAL_FORCES_SD_QC.mp4/Playlist.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",The Trigonal: Fight for Justice (2018)
+https://www.googleapis.com/drive/v3/files/1_sLSCqL7eaaN0DjnMKJG21kyw8KD0-hK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 #EXTINF:0 tvg-id="ext" group-title="VOD2021",Action: Vanquish (2021)
@@ -3204,152 +3351,6 @@ https://cdn2ii.diebutx.com/own2hls/2020/877d98cd8c8333e3e97505087bc241e5/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/af6c77cd918dc18841f05675abcd6c5a/540p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VOD2020",Action: L.O.R.D: Legend of Ravaging Dynasties 2 (2020)
 https://cdn2ii.diebutx.com/own2hls/2020/7fb8d4f27064828f11d397a2f12e1632/540p/index.m3u8
-#EXTINF:0 tvg-id="avi" group-title="VodBestRating",The Trigonal: Fight for Justice (2018)
-https://www.googleapis.com/drive/v3/files/1_sLSCqL7eaaN0DjnMKJG21kyw8KD0-hK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-//Indonesia
-
-#EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6441-tvri
-#EXTINF:-1 tvg-id="BST.ID" tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="Indonesia",Berita Satu
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6165-beritasatu
-#EXTINF:-1 tvg-id="CNN.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png" group-title="Indonesia",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DAA.ID" tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="Indonesia",Da Ai Indonesia
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6482-daai-tv
-#EXTINF:-1 tvg-id="GTV.ID" tvg-logo="https://static.epg.best/id/GTV.id.png" group-title="Indonesia",Global TV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/778-gtv
-#EXTINF:-1 tvg-id="IND.ID" tvg-logo="https://static.epg.best/id/Indosiar.id.png" group-title="Indonesia",Indosiar
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/205-indosiar
-#EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://cdn.techinasia.com/data/images/YesyMxHgCzyipuMqU5TLhs83cINKGYj6V0z7HB0U.jpeg" group-title="Indonesia",Jak TV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/5415-jaktv
-#EXTINF:-1 tvg-id="JAG.ID" tvg-logo="https://s3-us-east-2.amazonaws.com/indotrainee/live/logo/company/56/1526461708-46-56.png" group-title="Indonesia",Jakarta Globe
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="JTV.ID" tvg-logo="http://www.jtv.co.id/image/logojtv1.png" group-title="Indonesia",JTV
-http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
-#EXTINF:-1 tvg-id="IDX.ID" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="Indonesia",IDX
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
-#EXTINF:-1 tvg-id="INW.ID" tvg-logo="https://static.epg.best/id/iNews.id.png" group-title="Indonesia",INews
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/5409-inews
-#EXTINF:-1 tvg-id="KOM.ID" tvg-logo="https://static.epg.best/id/KompasTv.id.png" group-title="Indonesia",Kompas TV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/874-kompas-tv
-#EXTINF:-1 tvg-id="MET.ID" tvg-logo="https://static.epg.best/id/MetroTV.id.png" group-title="Indonesia",Metro
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/777-metro-tv
-#EXTINF:-1 tvg-id="MNC.ID" tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="Indonesia",MNC
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/870-mnc
-#EXTINF:-1 tvg-id="MYT.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="Indonesia",MyTV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6711-mytv
-#EXTINF:-1 tvg-id="NET.ID" tvg-logo="https://static.epg.best/id/NetTV.id.png" group-title="Indonesia",Net
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/875-net-tv
-#EXTINF:-1 tvg-id="OCH.ID" tvg-logo="https://www.ochanneltv.com/site/uploads/logo/5b14d10983313-logo.png" group-title="Indonesia",O Channel
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/206-ochannel
-#EXTINF:-1 tvg-id="RCT.ID" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
-#EXTINF:-1 tvg-id="RTV.ID" tvg-logo="https://static.epg.best/id/RajawaliTV.id.png" group-title="Indonesia",RTV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/1561-rtv
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://static.epg.best/id/SCTV.id.png" group-title="Indonesia",SCTV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/204-sctv
-#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://static.epg.best/id/TransTV.id.png" group-title="Indonesia",Trans TV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/733-trans-tv
-#EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://static.epg.best/id/Trans7.id.png" group-title="Indonesia",Trans 7
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/734-trans7
-
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/R0pT89dj/1200px-TVRILogo2019-svg.png" group-title="Indonesia - Lokal",TVRI Nasional
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/6QYtM4KX/RCTI.png" group-title="Indonesia - Lokal",RCTI+
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-Perjuangan-avc1_499968=5-mp4a_66000_eng=2.m3u8
-https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png", group-title="Indonesia - Lokal", Global TV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_499968=5-mp4a_66000_eng=2.m3u8
-https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF: 1, tvg-logo="https://i.ibb.co/vQZbBCg/MENCEID-S1.png" group-title="Indonesia - Lokal", MNC TV+
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-Perjuangan-avc1_499968=5-mp4a_66000_eng=2.m3u8
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png" group-title="Indonesia - Lokal",SCTV
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel-Perjuangan-avc1_499968=5-mp4a_66000_eng=2.m3u8
-http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
-http://bonev2.xyz/playlist/usee-sctv-new-bonetv.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="Indonesia - Lokal",INDOSIAR
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen-Perjuangan-avc1_499968=5-mp4a_66000_eng=2.m3u8
-http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=indosiar
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/XJjc0ht5/net-HD.jpg" group-title="Indonesia - Lokal",NET TV HD
-https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1-avc1_499968=5-mp4a_66000_eng=3.m3u8
-#EXTINF: 1, tvg-logo="https://i.ibb.co/KzKJNMq/NETESID-S1.png" group-title="Indonesia - Lokal",NET.
-http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1, tvg-id=ANTV.id tvg-name=ANTV ID tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png" group-title="Indonesia - Lokal", ANTV
-http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/TRANTV.jpg" group-title="Indonesia - Lokal", TRANS TV
-https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot-avc1_499968=5-mp4a_66000_eng=2.m3u8
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/TRANS7.png" group-title="Indonesia - Lokal", TRANS 7
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer-avc1_499968=4-mp4a_66000_eng=2.m3u8
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-http://210.210.155.35/session/0062e3ca-c615-11e9-b6d9-c81f66f89318/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1, tvg-logo="https://antvgo.an.tv/bor/assets/logotv/RTV.png" group-title="Indonesia - Lokal",Rajawali TV
-http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/NfHXZBLV/JTV.png" group-title="Indonesia - Lokal",JTV
-http://122.248.43.138:1935/ch2/myStream/live.m3u8
-#EXTINF:-1 group-title="Indonesia - Lokal" tvg-logo="https://i.postimg.cc/vTbB9TXb/h-XC6-Vd-Yi-400x400.jpg",JITV
-http://202.169.224.76:1935/tv/jitv/chunklist_w759313912.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/LsGtMnNH/jaktv-tv.jpg" group-title="Indonesia - Lokal", JakTV
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-5415|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-name="Daai TV ID tvg-logo="https://i.ibb.co/d0GbGhj/daiitvlogo.png" group-title="Indonesia - Lokal",DAAI TV INDONESIA
-https://radenroro.net/RHS/bangsat.m3u8?channel=usee-daaitv|user-agent=Mozilla/5.0
-http://210.210.155.35/session/f8839692-c617-11e9-b949-c81f66f89318/qwr9ew/s/s13/index.m3u8
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/sgxBDrsC/Bali-TV-2014.png" group-title="Indonesia - Lokal",BALI TV
-https://radenroro.net/RHS/bangsat.m3u8?channel=usee-balitv|user-agent=Mozilla/5.0
-#EXTINF:-1, tvg-logo="https://i.imgur.com/4PPPAEv.png" group-title="Indonesia - Lokal",MY TV
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6711|user-agent=Mozilla/5.0
-#EXTINF:-1, tvg-logo="https://i.imgur.com/dhKnCid.png" group-title="Indonesia - Lokal",Usee Photo
-https://radenroro.net/RHS/bangsat.m3u8?channel=usee-useephoto|user-agent=Mozilla/5.0
-#EXTINF:-1, tvg-logo="https://i.imgur.com/OvK16mw.png" group-title="Indonesia - Lokal",Usee Prime
-https://radenroro.net/RHS/bangsat.m3u8?channel=usee-useeprime|user-agent=Mozilla/5.0
-#EXTINF:-1, tvg-logo="https://i.ibb.co/FmcgNfx/ruangtrampil.png" group-title="Indonesia - Lokal", Ruang Terampil
-https://radenroro.net/RHS/bangsat.m3u8?channel=usee-useeinfo|user-agent=Mozilla/5.0
-#EXTINF:-1, tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png"?v=2.0.0.13 group-title="Indonesia - Lokal", Insert
-https://radenroro.net/RHS/bangsat.m3u8?channel=usee-insert|user-agent=Mozilla/5.0
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/qBjmjfQR/persija-tv-channel-logo.png" group-title="Indonesia - Lokal", Persija TV
-
-#EXTINF:-1, tvg-logo="https://i.postimg.cc/ZKNdFPnw/ochannel.jpg" group-title="Indonesia - Lokal", O Channel
-https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-206|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Indonesia - Lokal", Biznet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="Indonesia - Lokal",Nusantara TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxJC4F90/atv-channel-tv-logo.png" group-title="Indonesia - Lokal", ATV
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
-#EXTINF:0, tvg-logo="https://i.postimg.cc/Fz685L35/tvku.png", group-title="Indonesia - Lokal",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGcg87rw/elshintatv.png" group-title="Indonesia - Lokal", ELSHINTA TV
-http://210.210.155.35/qwr9ew/s/s10/02.m3u8
-#EXTINF:0, tvg-logo="https://i.postimg.cc/NMN49vNQ/tegartv.png", group-title="Indonesia - Lokal",Tegar TV Lampung
-http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZdWmmQW/RRINet.jpg", group-title="Indonesia - Lokal", RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:0, tvg-logo="https://i.postimg.cc/jq4nRY81/ctv.png", group-title="Indonesia - Lokal",CTV
-http://103.23.201.170:1935/live/livestream/lihattv.m3u8
-#EXTINF:0, tvg-logo="https://i.postimg.cc/tgzGYkL9/I-AM-Channel.png", group-title="Indonesia - Lokal", I AM CHANNEL
-http://iamchannel.org:1935/tes/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/J4R6hmRH/simpang5tv.jpg", group-title="Indonesia - Lokal",SIMPANG LIMA PATI
-http://122.248.43.138:1935/ch4/myStream/live.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cHZYcx9Q/kawanuatv.jpg", group-title="Indonesia - Lokal",KAWANUA MANADO
-http://122.248.43.138:1935/ch18/myStream/live.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/BZPL11Qd/radartv.png", group-title="Indonesia - Lokal",Radar TV
-http://122.248.43.138:1935/ch11/myStream/live.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/L52cR1yn/Logo-Balikpapan-TV.png" group-title="Indonesia - Lokal",BALIK PAPAN TV
-http://122.248.43.138:1935/ch10/myStream/chunklist_w476334342.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/5t8K0tQv/jektv.jpg" group-title="Indonesia - Lokal",JEK TV JAMBI
-http://122.248.43.138:1935/ch14/myStream/live.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/N0P8QqpT/logojambitv.jpg" group-title="Indonesia - Lokal",JAMBI TV
-http://122.248.43.138:1935/ch23/myStream/live.m3u8
-#EXTINF:-1  tvg-logo=" group-title="Indonesia - Lokal",Simpang5Tv
-http://122.248.43.138:1935/ch4/myStream/live.m3u8
-#EXTINF:0  tvg-logo="https://i.postimg.cc/yNT5jd6K/BETV.png" group-title="Indonesia - Lokal",BETV Bengkulu
-http://122.248.43.138:1935/ch3/myStream/live.m3u8
-#EXTINF:0  tvg-logo="https://i.postimg.cc/nhpNDBZ2/Ch-rbtv-logo-250px.png" group-title="Indonesia - Lokal",RBTV Bengkulu
-http://122.248.43.138:1935/ch12/myStream/live.m3u8
-
 
 
 //Persiana
