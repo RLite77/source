@@ -619,8 +619,19 @@ http://93.190.139.35:8278/streams/d/beethree/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="Sports",BT SPORT ESPN
 http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/330px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT SPORT HD1
+http://212.224.98.208:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=RED?hubtvapp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/330px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT SPORT HD2
+http://212.224.98.208:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=RED?hubtvapp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/330px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT SPORT HD3
+http://212.224.98.208:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=RED?hubtvapp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="Sports",BT SPORT ESPN
+http://212.224.98.208:2200/EX/BT_Sport_ESPN_HD-uk/tracks-v1a1/mono.m3u8?token=RED?hubtvapp.m3u8
+
 #EXTINF:-1 tvg-id="espn1.us" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sports",ESPN
 http://85.203.33.88:80/XYOsknnjHBZ392/UfM14DRnTfUD91/9023
+#EXTINF:-1 tvg-id="espn1.us" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sports",ESPN
+http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="espn2.us" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
 http://164.68.124.111/espn2.m3u8
 #EXTINF:-1 tvg-id="espnu.us" tvg-logo="https://mpng.subpng.com/20180616/gei/kisspng-espnu-television-espn-inc-espnews-espn-2-5b2509af62a397.123202481529153967404.jpg" group-title="Sports",ESPN U
