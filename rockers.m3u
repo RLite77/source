@@ -3,82 +3,83 @@
 
 
 //Malaysia
-#EXTINF:-1 tvg-ID="tv1.my" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1 HD
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="Malaysia",TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="tv2.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="Malaysia",TV2
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="Malaysia",TV3
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="Malaysia",TV3
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWX65Xd8qsemKoIgUUJ46QU)/dm/3/x6qp375/d/live-2.m3u8
 
-#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="Malaysia",TV3
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWX65Xd8qsemKoIgUUJ46QU)/dm/3/x6qp375/d/live-3.m3u8
 
-#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="ntv7.my" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="Malaysia",NTV7
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/8d4qB3r/6.png" group-title="Malaysia",TV6
+https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="Malaysia",NTV7
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-#EXTINF:-1 tvg-ID="ntv7.my" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="Malaysia",NTV7
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="Malaysia",NTV7
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb0urbCvbj7sSfjJi3OsPSI)/dm/3/x6qp6ou/s/live-4.m3u8
-#EXTINF:-1 tvg-ID="8tv.my" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="Malaysia",8TV
 http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-ID="8tv.my" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="Malaysia",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="Malaysia",8TV
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU82ByUhpDLhK8e0CyTFuR4)/dm/3/x6qud17/s/live-3.m3u8
-#EXTINF:-1 tvg-ID="tv9.my" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="Malaysia",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-ID="tv9.my" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="Malaysia",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="Malaysia",TV9
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQC0ADgD4ZuSKTMOlUGMkB8)/dm/3/x6qqja6/s/live-4.m3u8
-#EXTINF:-1 tvg-ID="DramaSangat.my" group-title="Malaysia" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat	
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.png" group-title="Malaysia",Drama Sangat
 http://185.180.221.194:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 tvg-ID="DramaSangat.my" group-title="Malaysia" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat	
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.png" group-title="Malaysia",Drama Sangat
 https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0pKmkFtqiN1bH3Yz-4iZRvE)/dm/3/x6zvnex/s/live-4.m3u8
 #EXTINF:-1 tvg-ID="BERITA RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-#EXTINF:-1 tvg-ID="TV SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",Sukan RTM
+#EXTINF:-1 tvg-id="RTM Sports" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="Malaysia",Sukan RTM
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 tvg-ID="TV SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",Sukan RTM
+#EXTINF:-1 tvg-id="RTM Sports" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="Malaysia",Sukan RTM
 https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
-#EXTINF:-1 tvg-ID="tv.okey.my" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",TV Okey
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="Malaysia",TV Okey
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-#EXTINF:-1 tvg-ID="tv.okey.my" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",TV Okey
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="Malaysia",TV Okey
 https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
-#EXTINF:-1 tvg-id="naura.my" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura HD
+#EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="Naura HD" tvg-logo="https://i.ibb.co/2nY5nq8/naura.png" group-title="Malaysia",Naura HD
 http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-id="hello.my" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
+#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello HD" tvg-logo="https://i.ibb.co/8Kky0RW/hello.png" group-title="Malaysia",Hello HD
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-id="go.shop.111.my" group-title="Malaysia" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Go Shop 111
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
-#EXTINF:-1 tvg-id="al.hijrah.my" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-chno="8" channel-id="8" group-title="Malaysia",Al-Hijrah 
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-hijrah" tvg-logo="https://i.ibb.co/7bWBVPC/liu.png" group-title="Malaysia",Al-hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 tvg-id="al.hijrah.my" tvg-name="AL Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" tvg-chno="8" channel-id="8" group-title="Malaysia",Al-Hijrah 
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-hijrah" tvg-logo="https://i.ibb.co/7bWBVPC/liu.png" group-title="Malaysia",Al-hijrah
 http://185.180.221.194:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 tvg-id="astro.awani.my" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani  
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="Malaysia",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-id="astro.awani.my" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="Malaysia",Astro Awani
 https://raw.githubusercontent.com/RLite77/source/main/awani.m3u8
 
-#EXTINF:-1 tvg-id="astro.citra.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest/scale-to-width-down/230?cb=20200917121355" group-title="Malaysia",Astro Citra HD
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="Malaysia",Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="astro.ceria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria HD
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria HD" tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="Malaysia",Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-id="astro.prima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima HD
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima HD" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="Malaysia",Astro Prima HD
 http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-id="astro.ria.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia",Astro Ria HD 
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="Malaysia",Astro Ria HD 
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="astro.ria.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia",Astro Ria HD
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="Malaysia",Astro Ria HD 
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 tvg-id="astro.warna.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna HD 
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",Astro Warna HD 
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:-1 tvg-id="astro.oasis.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_300.png" group-title="Malaysia",Astro Oasis HD
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis HD" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="Malaysia",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-id="bernama.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama 
+#EXTINF:-1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.ibb.co/3pLZ1gF/dfrh.png" group-title="Malaysia",Bernama 
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-id="astro.vaanavil.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia",Astro Vaanavil HD
+#EXTINF:-1 tvg-id="Astro Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="https://i.ibb.co/9vBBQzT/Vanavil.png" group-title="Malaysia",Astro Vaanavil HD
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
 
@@ -107,7 +108,7 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="RTS.MY" tvg-logo="https://mediahomes.github.io/logos/sukan.png" group-title="Freeview",TV Sukan
 https://rtm6hbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-#EXTINF:-1 tvg-ID="TV6.MY" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="Freeview",TV6
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/8d4qB3r/6.png" group-title="Malaysia",TV6
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="Ber.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Freeview",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
