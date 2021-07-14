@@ -337,8 +337,10 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8|user-agent=Mozilla/5.0 (
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="&prive.in" tvg-name="&Prive" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Sony_PIX.png/180px-Sony_PIX.png" group-title="Movies",SONY PIX
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX" tvg-logo="https://i.ibb.co/vJf3v5X/sony-pix.png" group-title="Movies",SONY PIX
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2abaccf665cea2a8b27f47525d555cfcf4f6a89c54f39dfadd61248f84db4f0f33ce7ffb285c725ac82fb695731e8c178a80874ef978bf9954d2463ae85776d5a3016c96f961438f6665a521804afde21d9fd2187f&mac=00:1A:79:32:15:A7&ip=118.101.224.193&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX" tvg-logo="https://i.ibb.co/vJf3v5X/sony-pix.png" group-title="Movies",SONY PIX
+http://212.224.98.196:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-id="Cinema world" tvg-name="Cinema world" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniKFfiVWtSu8yYGf3wTPKlNgsaN-CKGtPsfaXuo=s176-c-k-c0x00ffffff-no-rj" group-title="Movies",Cinema world
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Fox Movies Premium" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",Fox Movies HD
