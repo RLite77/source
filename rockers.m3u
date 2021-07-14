@@ -60,7 +60,7 @@ http://185.180.221.194:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="astro.awani.my" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani  
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-id="astro.awani.my" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://raw.githubusercontent.com/RLite77/source/main/awani.m3u8
 
 #EXTINF:-1 tvg-id="astro.citra.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest/scale-to-width-down/230?cb=20200917121355" group-title="Malaysia",Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
