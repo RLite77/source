@@ -13,10 +13,10 @@ http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeT5zqBG_oBZAWj5lO8RnFQ)/dm/3/x6qp375/d/live-2.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWX65Xd8qsemKoIgUUJ46QU)/dm/3/x6qp375/d/live-2.m3u8
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeT5zqBG_oBZAWj5lO8RnFQ)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWX65Xd8qsemKoIgUUJ46QU)/dm/3/x6qp375/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -60,7 +60,7 @@ http://185.180.221.194:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="astro.awani.my" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani  
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-id="astro.awani.my" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTINF:-1 tvg-id="astro.citra.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest/scale-to-width-down/230?cb=20200917121355" group-title="Malaysia",Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
