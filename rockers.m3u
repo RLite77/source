@@ -1233,7 +1233,130 @@ http://122.248.43.138:1935/ch3/myStream/live.m3u8
 http://122.248.43.138:1935/ch12/myStream/live.m3u8
 
 
-//INDIA
+//India
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",And TV HD Hindi
+http://212.102.60.40:2200/R-EX/HINDI_AND_TV_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star Sports Select 1 HD
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star Sports Select 2 HD
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Sony Ten 3
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",T Sports
+http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star Jalsha HD Bengali
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star World HD English
+http://212.224.98.196:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Animal Planet HD Hindi
+http://212.224.98.196:2200/R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Sony BBC Earth HD Hindi
+http://212.224.98.196:2200/R-EX/HINDI_BBC_EARTH_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Dish Evergreen Classics Active Hindi
+http://212.224.98.196:2200/R-EX/HINDI_EVERGREEN_CLASSIC-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Fox Life
+http://212.224.98.196:2200/R-EX/HINDI_FOX_LIFE_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",History TV18 HD Hindi
+http://212.224.98.196:2200/R-EX/HINDI_HISTORY_TV_18_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Miniplex Hindi
+http://212.224.98.196:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",MN+ HD English
+http://212.224.98.196:2200/R-EX/HINDI_MN_PLUS_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Movies Now HD English
+http://212.224.98.196:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Nat Geo HD Hindi
+http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Nat Geo Wild Hindi
+http://212.224.98.196:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star Bharat HD Hindi
+http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star Movies HD English
+http://212.224.98.196:2200/R-EX/HINDI_STAR_UTSAV_MOVIES-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",UTV Action Hindi
+http://212.224.98.196:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",UTV HD Hindi
+http://212.224.98.196:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",UTV Movies Hindi
+http://212.224.98.196:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Asianet HD Malayalam
+http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Asianet Movies Malayalam
+http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Asianet plus HD Malayalam
+http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Surya HD Malayalam
+http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Surya Movies Malayalam
+http://212.224.98.196:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star Sports Tamil
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star Sports 1 Hindi
+http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Vijay Music Tamil
+http://212.224.98.196:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Colors Tamil HD
+http://212.224.98.196:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",J Movie Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_J_MOVIES-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Jaya Max Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Jaya Plus Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_PLUS-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Jaya TV HD Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",KTV HD Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Polimer TV Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Raj Digital Plus Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_RAJ_DIGITAL_PLUS-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Raj Musix Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_RAJ_MUSIX-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Raj TV Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_RAJ_TV-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star Vijay Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Sun Music HD Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Sun TV Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Vijay Super Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Zee Tamil
+http://212.224.98.196:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",ETV HD Telugu
+http://212.224.98.196:2200/R-EX/TELUGU_ETV_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",ETV Life Telugu
+http://212.224.98.196:2200/R-EX/TELUGU_ETV_LIFE-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",ETV Plus Telugu
+http://212.224.98.196:2200/R-EX/TELUGU_ETV_PLUS-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",History TV18 HD Telugu
+http://212.224.98.196:2200/R-EX/TELUGU_HISTORY_TV_18_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star Maa HD Telugu
+http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Star Maa Movies HD Telugu
+http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Zee Bihar Jharkhand
+https://y5w8j4a9.ssl.hwcdn.net/biharjharkh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Zee Punjab Haryana Himachal
+https://y5w8j4a9.ssl.hwcdn.net/punjabi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",ZEE WORLD English
+https://y5w8j4a9.ssl.hwcdn.net/world/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Zee Bangla Cinema Bengali
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Zee Music Co
+https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Zee Cafe HD English
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Zee Vajwa Marathi
+https://y5w8j4a9.ssl.hwcdn.net/zeevajwa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",ZEE TALKIES Marathi
+https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/index.m3u8
+
 
 
 //USA
