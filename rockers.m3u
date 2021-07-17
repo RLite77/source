@@ -370,6 +370,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/KmRGMJg/hbo-hits.png" group-title="Movies",HBO Hits HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/KmRGMJg/hbo-hits.png" group-title="Movies",HBO Hits HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/KmRGMJg/hbo-hits.png" group-title="Movies",HBO Hits ID
 http://golive.gq/movie/hbohit.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/rZZYSVH/hbo-sig.png" group-title="Movies",HBO Signature HD
@@ -1069,23 +1071,23 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 //Brunei
-#EXTINF:-1 tvg-ID="" group-title="Brunei" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB SUKMAINDERA
+#EXTINF:-1 tvg-ID="" group-title="Brunei" tvg-logo="https://i.ibb.co/JxQQ6K7/rtb.png",RTB SUKMAINDERA
 https://rtb-channel.glue.live/smil:rtb1/chunklist_w1343761972_b2736000_sleng.m3u8
 
 //Singapore
-#EXTINF:-1 tvg-ID="Channel5.sg" group-title="Singapore" tvg-logo="https://www.mediacorp.sg/image/8918596/1x1/480/480/845b2e432ef9ea15cff62b2436091d59/Eb/channel-5--p-.jpg",Channel 5
+#EXTINF:-1 tvg-ID="Channel5.sg" group-title="Singapore" tvg-logo="https://i.ibb.co/F8pS8Yf/m-ch-5.png",Channel 5
 http://185.180.221.194:8278/streams/d/Channel5HD/playlist.m3u8
-#EXTINF:-1 tvg-ID="Channel8.sg" group-title="Singapore" tvg-logo="https://www.mediacorp.sg/image/8917628/1x1/480/480/87b51312687be0f9e57acad9a3611027/ki/channel-8--p-.jpg",Channel 8
+#EXTINF:-1 tvg-ID="Channel8.sg" group-title="Singapore" tvg-logo="https://i.ibb.co/W3174mC/m-ch-8.png",Channel 8
 http://185.180.221.194:8278/streams/d/Channel8HD/playlist.m3u8
-#EXTINF:-1 tvg-ID="Channel8.sg" group-title="Singapore" tvg-logo="https://www.mediacorp.sg/image/11193618/1x1/480/480/2969bc6e9bc79ecde15a3ef9b8822b4f/Bn/8world.jpg",Channel 8 Chinese
+#EXTINF:-1 tvg-ID="Channel8.sg" group-title="Singapore" tvg-logo="https://i.ibb.co/6PcBCfr/m-ch-8-chinese.png",Channel 8 Chinese
 https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
-#EXTINF:-1 tvg-ID="ChannelU.sg" group-title="Singapore" tvg-logo="https://www.mediacorp.sg/image/8918068/1x1/480/480/7e911827e23a11f2d8076d9576ebdcbd/JD/channel-u--p-.jpg",Channel U
+#EXTINF:-1 tvg-ID="ChannelU.sg" group-title="Singapore" tvg-logo="https://i.ibb.co/wNCLLs5/m-ch-u.png",Channel U
 http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
-#EXTINF:-1 tvg-ID="Suria.sg" group-title="Singapore" tvg-logo="https://www.mediacorp.sg/image/8917528/1x1/480/480/33fa8b02745e4f0970ef92778b6a75d9/Et/suria--p-.jpg",Suria
+#EXTINF:-1 tvg-ID="Suria.sg" group-title="Singapore" tvg-logo="https://i.ibb.co/NnF6C05/m-suria.png",Suria
 http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
-#EXTINF:-1 tvg-ID="Vasantham.sg" group-title="Singapore" tvg-logo="https://www.mediacorp.sg/image/8918492/1x1/480/480/3e3c60e584f53301004f632826ef30b0/ig/vasantham--p-.jpg",Vasantham
+#EXTINF:-1 tvg-ID="Vasantham.sg" group-title="Singapore" tvg-logo="https://i.ibb.co/swqKhJB/m-vasantham.png",Vasantham
 http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
-#EXTINF:-1 tvg-ID="ChannelNewsAsia.sg" group-title="Singapore" tvg-logo="https://www.mediacorp.sg/image/8918392/1x1/480/480/91bcfbfce7daa77afce04df655da6732/SB/channel-news-asia--p-.png",CNA Spore
+#EXTINF:-1 tvg-ID="ChannelNewsAsia.sg" group-title="Singapore" tvg-logo="https://i.ibb.co/F400T7h/cna.png",CNA Spore
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
 
 
