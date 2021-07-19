@@ -12,11 +12,11 @@ http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWX65Xd8qsemKoIgUUJ46QU)/dm/3/x6qp375/d/live-2.m3u8
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3	
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSzJ4-V_FK5k-5LvlTYWvXw)/dm/3/x6qp375/d/live-2.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWX65Xd8qsemKoIgUUJ46QU)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSzJ4-V_FK5k-5LvlTYWvXw)/dm/3/x6qp375/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -25,7 +25,7 @@ https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb0urbCvbj7sSfjJi3OsPSI)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHe-K1Qlx0WfE_Mubum7QvQw)/dm/3/x6qp6ou/s/live-4.m3u8
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Malaysia",8TV
 http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Malaysia",8TV
@@ -45,7 +45,8 @@ http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/L9kMV9V/sukan-RTM.png" group-title="Malaysia",Sukan RTM
 https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/YRshqHz/okey.png" group-title="Malaysia",TV Okey
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
+#https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/YRshqHz/okey.png" group-title="Malaysia",TV Okey
 https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
 #EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="Naura HD" tvg-logo="https://i.ibb.co/CWj35Kt/a-naura.png" group-title="Malaysia",Naura HD
