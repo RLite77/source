@@ -13,10 +13,12 @@ http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3	
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSzJ4-V_FK5k-5LvlTYWvXw)/dm/3/x6qp375/d/live-2.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXwZHiggSLQ-mmgdDeS4g18)/dm/3/x6qp375/d/live-2.m3u8
+
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSzJ4-V_FK5k-5LvlTYWvXw)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXwZHiggSLQ-mmgdDeS4g18)/dm/3/x6qp375/d/live-3.m3u8
+
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
