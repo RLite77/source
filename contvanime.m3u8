@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="captions",INSTREAM-ID="CC1",NAME="English",LANGUAGE="en"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="English[VTT]",AUTOSELECT=YES,DEFAULT=YES,LANGUAGE="en",URI="https://contv.sinclair.wurl.com/manifest/subtitles.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=4528000,CODECS="avc1.100.41,mp4a.40.2",RESOLUTION=1920x1080,SUBTITLES="subtitles",CLOSED-CAPTIONS="captions"
+https://contv.sinclair.wurl.com/manifest/5097a146ba12668a37551956246cefa0.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2108000,CODECS="avc1.100.40,mp4a.40.2",RESOLUTION=1280x720,SUBTITLES="subtitles",CLOSED-CAPTIONS="captions"
+https://contv.sinclair.wurl.com/manifest/f33c32db5d16568fa649ee0f2f7484d2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1338000,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=854x480,SUBTITLES="subtitles",CLOSED-CAPTIONS="captions"
+https://contv.sinclair.wurl.com/manifest/2e3ec444657752379c4e58752e9268a7.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=756000,CODECS="avc1.100.30,mp4a.40.2",RESOLUTION=640x360,SUBTITLES="subtitles",CLOSED-CAPTIONS="captions"
+https://contv.sinclair.wurl.com/manifest/5683d54f8c3f65c65baace486b6ddf37.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=394000,CODECS="avc1.100.30,mp4a.40.2",RESOLUTION=640x360,SUBTITLES="subtitles",CLOSED-CAPTIONS="captions"
+https://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=171800,CODECS="avc1.66.13,mp4a.40.2",RESOLUTION=256x144,SUBTITLES="subtitles",CLOSED-CAPTIONS="captions"
+https://contv.sinclair.wurl.com/manifest/3d1ba3697736d5c25de76d7a6c0ff19e.m3u8
