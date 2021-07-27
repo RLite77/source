@@ -745,6 +745,21 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0KJ6z7m/sporttv-5.png" group-title="Sports",SPORTTV 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sports", Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sports", Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sports", Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sports", Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sports", Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sports", Super Sports 6
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sports", Super Sports 7
+http://93.157.62.180/Supersport7/index.m3u8
+
 //Sports 2
 #EXTM3U
 #EXTINF:-1 group-title="Sports 2" ,LiveSport 1
