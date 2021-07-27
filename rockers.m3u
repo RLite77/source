@@ -13,11 +13,11 @@ http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3	
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXwZHiggSLQ-mmgdDeS4g18)/dm/3/x6qp375/d/live-2.m3u8
+https://raw.githubusercontent.com/RLite77/source/main/tv3.m3u8
 
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXwZHiggSLQ-mmgdDeS4g18)/dm/3/x6qp375/d/live-3.m3u8
+https://raw.githubusercontent.com/RLite77/source/main/tv3hd.m3u8
 
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
@@ -27,19 +27,19 @@ https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHe-K1Qlx0WfE_Mubum7QvQw)/dm/3/x6qp6ou/s/live-4.m3u8
+https://raw.githubusercontent.com/RLite77/source/main/tv7.m3u8
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Malaysia",8TV
 http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Malaysia",8TV
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU82ByUhpDLhK8e0CyTFuR4)/dm/3/x6qud17/s/live-3.m3u8
+https://raw.githubusercontent.com/RLite77/source/main/tv8.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/tBfGBqz/tv9.png" group-title="Malaysia",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/tBfGBqz/tv9.png" group-title="Malaysia",TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQC0ADgD4ZuSKTMOlUGMkB8)/dm/3/x6qqja6/s/live-4.m3u8
+https://raw.githubusercontent.com/RLite77/source/main/tv9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/KFFhB4V/drama-sgt.png" group-title="Malaysia",Drama Sangat
 http://185.180.221.194:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/KFFhB4V/drama-sgt.png" group-title="Malaysia",Drama Sangat
-https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0pKmkFtqiN1bH3Yz-4iZRvE)/dm/3/x6zvnex/s/live-4.m3u8
+https://raw.githubusercontent.com/RLite77/source/main/DS.m3u8
 #EXTINF:-1 tvg-ID="BERITA RTM" tvg-logo="https://i.ibb.co/VgnPjnw/berita-rtm.png" group-title="Malaysia",Berita RTM 
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/L9kMV9V/sukan-RTM.png" group-title="Malaysia",Sukan RTM
