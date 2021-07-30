@@ -357,7 +357,8 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LSSsbgf/cinema-europe.png" group-title="Movies",Cinema Europe
 http://210.210.129.106/uq2663/h/h18/01.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Dt5nQsY/star-movies.png" group-title="Movies",Star Movies HD
+http://tv.pmcon.net/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X4BtvJq/movie-sphere.png" group-title="Movies",Movie Sphere
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YdhR2GH/MCN.png" group-title="Movies",MCN
@@ -439,6 +440,8 @@ http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="TvN" tvg-name="tvN" tvg-logo="https://i.ibb.co/3FftRsV/tvn.png" group-title="Movies",tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 tvg-id="Tvn Movies" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/DrF0MJC/tvn-movies.png" group-title="Movies",tvN Movies
+http://dituduhmaling.xyz/US33T4/MPD/chunklist.m3u8?id=tvnmovies&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="Tvn Movies" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/DrF0MJC/tvn-movies.png" group-title="Movies",tvN Movies
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCM" tvg-logo="https://i.ibb.co/S6wxqTD/ccm.png" group-title="Movies",Celestial Classic Movies
