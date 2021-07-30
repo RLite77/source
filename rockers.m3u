@@ -910,7 +910,27 @@ http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/100
 #EXTINF:-1 group-title="Sports 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supertennis-685.png",SuperTennis ᴴᴰ⁺ *IT
 http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/7
 
-
+//Olimpik
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 1
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/318
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 2
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/319
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 3
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/320
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 4
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/321
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 5
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/322
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 6
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/323
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 7
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/324
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 8
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/325
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 9
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/326
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBArEls.png" group-title="Olympic Tokyo",Olympic 10
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/327
 
 //Sports Total
 #EXTM3U
