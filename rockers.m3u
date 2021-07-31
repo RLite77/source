@@ -190,9 +190,7 @@ http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 tvg-ID="TV SUKAN" tvg-logo="https://i.ibb.co/L9kMV9V/sukan-RTM.png" group-title="Astro",TV Sukan
 http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3dLpjrm/a-arena.png" group-title="Astro",Astro Arena HD
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3dLpjrm/a-arena.png" group-title="Astro",Astro Arena HD
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PYzB1sd/assp1.png" group-title="Astro",Astro SuperSport HD
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p1jXPNN/assp2.png" group-title="Astro",Astro SuperSport 2 HD
@@ -528,7 +526,7 @@ https://radenroro.net/RHS/bangsat.m3u8?channel=vidio-6533|user-agent=Mozilla/5.0
 //Sports
 
 #EXTINF:-1 tvg-id="astro.arena.my"  group-title="Sports" tvg-logo="https://i.ibb.co/3dLpjrm/a-arena.png",Astro Arena HD
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="astro.supersport.my"  group-title="Sports" tvg-logo="https://i.ibb.co/PYzB1sd/assp1.png",Astro SuperSport HD
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="astro.supersport.2.my"  group-title="Sports" tvg-logo="https://i.ibb.co/p1jXPNN/assp2.png",Astro SuperSport 2 HD
