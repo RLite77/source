@@ -78,6 +78,8 @@ http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" tvg-logo="https://i.ibb.co/SR3xTpX/a-warna.png" group-title="Malaysia",Astro Warna HD 
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" tvg-logo="https://i.ibb.co/SR3xTpX/a-warna.png" group-title="Malaysia",Astro Warna HD 
+http://iptv.tvmalaysia.cc:80/737373/737373/6740
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis HD" tvg-logo="https://i.ibb.co/v1gwR8c/a-oasis.png" group-title="Malaysia",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.ibb.co/yRDTjm5/bernama.png" group-title="Malaysia",Bernama 
@@ -290,11 +292,11 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="warner.th" tvg-name="Warner TV TH" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV TH
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="warner.th" tvg-name="Warner TV TH" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV TH
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV HD
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV HD
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18550
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/79
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV VN
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 
