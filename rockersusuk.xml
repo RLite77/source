@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.2 -- Jan van Straaten" site="tvtv.us">
+  <channels>
+    <channel update="i" site="tvtv.us" site_id="2381D/70" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/71" xmltv_id="Game Show Network - East">Game Show Network - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/72" xmltv_id="Jewelry Television">Jewelry Television</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/73" xmltv_id="SHOPHQ">SHOPHQ</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/76" xmltv_id="QVC2">QVC2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/77" xmltv_id="SALE Network">SALE Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/79" xmltv_id="Audience Network">Audience Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/101" xmltv_id="DirecTV Sports 121">DirecTV Sports 121</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/121" xmltv_id="DirecTV Sports 122">DirecTV Sports 122</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/122" xmltv_id="DirecTV Sports 123">DirecTV Sports 123</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/123" xmltv_id="DirecTV Sports 124">DirecTV Sports 124</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/124" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/202" xmltv_id="HLN">HLN</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/204" xmltv_id="ESPN">ESPN</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/206" xmltv_id="ESPN News">ESPN News</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/207" xmltv_id="ESPN U">ESPN U</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/208" xmltv_id="ESPN2">ESPN2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/209" xmltv_id="ESPN Alternate">ESPN Alternate</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/209" xmltv_id="ESPN2 (Alternate)">ESPN2 (Alternate)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/209" xmltv_id="NFL Network">NFL Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/212" xmltv_id="MLB Network">MLB Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/213" xmltv_id="MavTV USA">MavTV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/214" xmltv_id="NHL Network USA">NHL Network USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/215" xmltv_id="NHL Network USA Alternate">NHL Network USA Alternate</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/215" xmltv_id="NBA TV USA">NBA TV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/216" xmltv_id="The Tennis Channel">The Tennis Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/217" xmltv_id="Golf Channel USA">Golf Channel USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/218" xmltv_id="Fox Sports 1">Fox Sports 1</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/219" xmltv_id="NBC Sports Network">NBC Sports Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/220" xmltv_id="CBS Sports Network USA">CBS Sports Network USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/221" xmltv_id="Gem Shopping Network">Gem Shopping Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/228" xmltv_id="HGTV USA - Eastern Feed">HGTV USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/229" xmltv_id="Do It Yourself Network (USA) - East">Do It Yourself Network (USA) - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/230" xmltv_id="Food Network USA - Eastern Feed">Food Network USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/231" xmltv_id="The Cooking Channel">The Cooking Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/232" xmltv_id="E! Entertainment USA - Eastern Feed">E! Entertainment USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/233" xmltv_id="Bravo USA - Eastern Feed">Bravo USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/236" xmltv_id="ReelzChannel">ReelzChannel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/237" xmltv_id="HSN  - Home Shopping Network">HSN  - Home Shopping Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/238" xmltv_id="Paramount Network USA - Eastern Feed">Paramount Network USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/239" xmltv_id="USA Network - East Feed">USA Network - East Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/240" xmltv_id="Syfy - Eastern Feed">Syfy - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/241" xmltv_id="TNT - Eastern Feed">TNT - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/242" xmltv_id="truTV USA - Eastern">truTV USA - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/244" xmltv_id="TBS - East">TBS - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/245" xmltv_id="FX Networks East Coast">FX Networks East Coast</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/246" xmltv_id="Comedy Central (US) - Eastern Feed">Comedy Central (US) - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/247" xmltv_id="Oxygen - Eastern Feed">Oxygen - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/248" xmltv_id="Lifetime Network US - Eastern Feed">Lifetime Network US - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/249" xmltv_id="Lifetime Movies - East">Lifetime Movies - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/251" xmltv_id="AMC - Eastern Feed">AMC - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/252" xmltv_id="Turner Classic Movies USA">Turner Classic Movies USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/253" xmltv_id="FX Movie Channel">FX Movie Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/254" xmltv_id="FXX USA - Eastern">FXX USA - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/256" xmltv_id="WE (Womens Entertainment) - Eastern">WE (Womens Entertainment) - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/258" xmltv_id="Discovery Life Channel">Discovery Life Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/259" xmltv_id="BBC America - East">BBC America - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/260" xmltv_id="A&amp;E US - Eastern Feed">A&amp;E US - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/261" xmltv_id="FYI USA - Eastern">FYI USA - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/264" xmltv_id="History Channel US - Eastern Feed">History Channel US - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/265" xmltv_id="VICE">VICE</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/266" xmltv_id="LOGO - East">LOGO - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/269" xmltv_id="POP - East">POP - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/271" xmltv_id="Ovation">Ovation</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/272" xmltv_id="National Geographic US - Eastern">National Geographic US - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/273" xmltv_id="Travel US - East">Travel US - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/274" xmltv_id="Discovery Channel (US) - Eastern Feed">Discovery Channel (US) - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/275" xmltv_id="Oprah Winfrey Network USA Eastern">Oprah Winfrey Network USA Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/276" xmltv_id="TLC USA - Eastern">TLC USA - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/277" xmltv_id="Motor Trend HD">Motor Trend HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/278" xmltv_id="Animal Planet US - East">Animal Planet US - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/279" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/280" xmltv_id="Science">Science</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/281" xmltv_id="Investigation Discovery USA - Eastern">Investigation Discovery USA - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/282" xmltv_id="Destination America">Destination America</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/283" xmltv_id="American Heroes Channel">American Heroes Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/284" xmltv_id="Disney Junior USA - East">Disney Junior USA - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/285" xmltv_id="Disney - Eastern Feed">Disney - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/286" xmltv_id="Disney - Pacific Feed">Disney - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/287" xmltv_id="Disney XD USA - Eastern Feed">Disney XD USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/289" xmltv_id="Baby First TV">Baby First TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/290" xmltv_id="Discovery Family Channel">Discovery Family Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/291" xmltv_id="Universal Kids">Universal Kids</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/292" xmltv_id="Cartoon Network USA - Eastern Feed">Cartoon Network USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/293" xmltv_id="Cartoon Network USA - Pacific Feed">Cartoon Network USA - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/294" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/295" xmltv_id="Nickelodeon USA - East Feed">Nickelodeon USA - East Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/296" xmltv_id="Nickelodeon USA - Pacific Feed">Nickelodeon USA - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/297" xmltv_id="Nick Jr. - East">Nick Jr. - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/298" xmltv_id="Nicktoons - East">Nicktoons - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/299" xmltv_id="TeenNick - Eastern">TeenNick - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/300" xmltv_id="TV Land - Eastern">TV Land - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/301" xmltv_id="ION  - Eastern Feed">ION  - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/302" xmltv_id="ION  - Pacific Feed">ION  - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/303" xmltv_id="WGN America - Eastern Feed">WGN America - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/304" xmltv_id="Freeform - East Feed">Freeform - East Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/305" xmltv_id="Hallmark - Eastern Feed">Hallmark - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/306" xmltv_id="Family Entertainment TV">Family Entertainment TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/307" xmltv_id="Americas Auction Channel">Americas Auction Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/309" xmltv_id="GAC - Great American Country">GAC - Great American Country</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/311" xmltv_id="CMT US - Eastern Feed">CMT US - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/312" xmltv_id="TV One">TV One</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/313" xmltv_id="BET - Eastern Feed">BET - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/315" xmltv_id="BET Her">BET Her</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/316" xmltv_id="MTV USA - Eastern Feed">MTV USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/317" xmltv_id="MTV 2 - East">MTV 2 - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/323" xmltv_id="VH1 - Eastern Feed">VH1 - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/324" xmltv_id="MTV Classic - East">MTV Classic - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/326" xmltv_id="UP">UP</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/327" xmltv_id="FUSE TV - Eastern feed">FUSE TV - Eastern feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/328" xmltv_id="AXS TV USA HD">AXS TV USA HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/329" xmltv_id="El Rey Network">El Rey Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/330" xmltv_id="Fusion">Fusion</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/331" xmltv_id="SonLife Network">SonLife Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/333" xmltv_id="RFD-TV">RFD-TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/334" xmltv_id="BBC World - North America HD">BBC World - North America HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/335" xmltv_id="Free Speech Network">Free Speech Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/337" xmltv_id="NewsMax TV">NewsMax TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/338" xmltv_id="C-SPAN">C-SPAN</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/339" xmltv_id="C-SPAN 2">C-SPAN 2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/340" xmltv_id="NASA Public Educational Channel">NASA Public Educational Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/341" xmltv_id="Bloomberg TV USA">Bloomberg TV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/342" xmltv_id="CNBC USA">CNBC USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/344" xmltv_id="MSNBC USA">MSNBC USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/345" xmltv_id="CNBC World">CNBC World</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/346" xmltv_id="Fox Business">Fox Business</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/348" xmltv_id="Fox News">Fox News</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/349" xmltv_id="WeatherNation">WeatherNation</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/350" xmltv_id="The Weather Channel">The Weather Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/351" xmltv_id="GEB America">GEB America</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/352" xmltv_id="INSP">INSP</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/353" xmltv_id="God TV USA">God TV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/355" xmltv_id="Jewish Life Television">Jewish Life Television</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/356" xmltv_id="World Harvest Television">World Harvest Television</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/357" xmltv_id="Hope Channel">Hope Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/359" xmltv_id="Daystar  - Network">Daystar  - Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/360" xmltv_id="EWTN USA">EWTN USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/361" xmltv_id="Hillsong (K64FT) Alexandria, LA">Hillsong (K64FT) Alexandria, LA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/362" xmltv_id="TBN  - Trinity Broadcasting Network - East">TBN  - Trinity Broadcasting Network - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/363" xmltv_id="The Word Network">The Word Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/364" xmltv_id="BYU (Brigham Young University)">BYU (Brigham Young University)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/365" xmltv_id="Link TV">Link TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/366" xmltv_id="CTN - Christian Television Network">CTN - Christian Television Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/367" xmltv_id="TCT - Network">TCT - Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/368" xmltv_id="National Religious Broadcasting - East">National Religious Broadcasting - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/369" xmltv_id="Impact Television Network">Impact Television Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/370" xmltv_id="ASPiRE TV">ASPiRE TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/371" xmltv_id="Comedy.TV">Comedy.TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/372" xmltv_id="Justice Central">Justice Central</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/373" xmltv_id="MBC Drama (Korean)">MBC Drama (Korean)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/374" xmltv_id="PBS - Network HD - Eastern">PBS - Network HD - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/375" xmltv_id="CBS (WCBS) New York, NY">CBS (WCBS) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/376" xmltv_id="CBS (KCBS) Los Angeles, CA">CBS (KCBS) Los Angeles, CA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/377" xmltv_id="NBC (WNBC) New York, NY">NBC (WNBC) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/378" xmltv_id="NBC (KNBC) Los Angeles, CA">NBC (KNBC) Los Angeles, CA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/379" xmltv_id="CW (WDCW) District of Columbia">CW (WDCW) District of Columbia</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/380" xmltv_id="CW (KFMB-TV2) San Diego, CA">CW (KFMB-TV2) San Diego, CA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/381" xmltv_id="ABC (WABC) New York, NY">ABC (WABC) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/382" xmltv_id="ABC (KABC) Los Angeles, CA">ABC (KABC) Los Angeles, CA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/383" xmltv_id="FOX (WNYW) New York, NY">FOX (WNYW) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/385" xmltv_id="FOX (KTTV) Los Angeles, CA">FOX (KTTV) Los Angeles, CA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/389" xmltv_id="Univision - Eastern Feed">Univision - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/390" xmltv_id="Univision - Pacific Feed">Univision - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/391" xmltv_id="Galavision - Eastern Feed">Galavision - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/392" xmltv_id="Mega TV">Mega TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/393" xmltv_id="Telemundo  - Eastern Feed">Telemundo  - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/394" xmltv_id="Telemundo  - Pacific Feed">Telemundo  - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/395" xmltv_id="UniMás  - Network Pacific">UniMás  - Network Pacific</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/396" xmltv_id="NBC Universo - Eastern feed">NBC Universo - Eastern feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/397" xmltv_id="Discovery en Espanol">Discovery en Espanol</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/398" xmltv_id="Wapa America">Wapa America</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/399" xmltv_id="RCN Nuestra Tele">RCN Nuestra Tele</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/402" xmltv_id="Caracol TV Internacional">Caracol TV Internacional</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/403" xmltv_id="Nuestra Tele">Nuestra Tele</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/404" xmltv_id="CNN Español">CNN Español</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/405" xmltv_id="IVC Net">IVC Net</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/406" xmltv_id="CentroAmérica TV">CentroAmérica TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/407" xmltv_id="Telecentro">Telecentro</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/408" xmltv_id="Perú Mágico">Perú Mágico</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/410" xmltv_id="Bandamax">Bandamax</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/413" xmltv_id="National Geographic Mundo">National Geographic Mundo</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/414" xmltv_id="Discovery Familia">Discovery Familia</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/416" xmltv_id="V-Me Television HD">V-Me Television HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/417" xmltv_id="Azteca America - East">Azteca America - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/418" xmltv_id="History Channel Espanol - Eastern">History Channel Espanol - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/419" xmltv_id="MTV Tr3s - East">MTV Tr3s - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/427" xmltv_id="Canal Once (Mexico)">Canal Once (Mexico)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/428" xmltv_id="Enlace">Enlace</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/429" xmltv_id="Cine Sony">Cine Sony</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/431" xmltv_id="ViendoMovies">ViendoMovies</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/433" xmltv_id="De Pelicula">De Pelicula</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/435" xmltv_id="FOROtv">FOROtv</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/436" xmltv_id="HITN">HITN</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/440" xmltv_id="Cine Mexicano">Cine Mexicano</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/441" xmltv_id="TUDN">TUDN</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/443" xmltv_id="Fox Deportes">Fox Deportes</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/445" xmltv_id="ESPN Deportes">ESPN Deportes</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/447" xmltv_id="Gol TV USA">Gol TV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/448" xmltv_id="TyC Sports">TyC Sports</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/449" xmltv_id="DirecTV MLS Direct Kick (471)">DirecTV MLS Direct Kick (471)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/450" xmltv_id="DirecTV MLS Direct Kick (472)">DirecTV MLS Direct Kick (472)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/451" xmltv_id="DirecTV MLS Direct Kick (473)">DirecTV MLS Direct Kick (473)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/453" xmltv_id="DirecTV MLS Direct Kick (474)">DirecTV MLS Direct Kick (474)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/461" xmltv_id="DirecTV MLS Direct Kick (475)">DirecTV MLS Direct Kick (475)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/462" xmltv_id="DirecTV MLS Direct Kick (476)">DirecTV MLS Direct Kick (476)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/464" xmltv_id="DirecTV MLS Direct Kick (477)">DirecTV MLS Direct Kick (477)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/465" xmltv_id="DirecTV MLS Direct Kick (478)">DirecTV MLS Direct Kick (478)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/466" xmltv_id="DirecTV MLS Direct Kick (479)">DirecTV MLS Direct Kick (479)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/468" xmltv_id="Premier League Extra Time 1">Premier League Extra Time 1</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/469" xmltv_id="Premier League Extra Time 2">Premier League Extra Time 2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/471" xmltv_id="Premier League Extra Time 3">Premier League Extra Time 3</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/472" xmltv_id="Premier League Extra Time 4">Premier League Extra Time 4</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/473" xmltv_id="Premier League Extra Time 5">Premier League Extra Time 5</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/474" xmltv_id="HBO - Eastern Feed">HBO - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/475" xmltv_id="HBO 2 - Eastern Feed">HBO 2 - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/476" xmltv_id="HBO Signature (HBO 3) - Eastern">HBO Signature (HBO 3) - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/477" xmltv_id="HBO - Pacific Feed">HBO - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/478" xmltv_id="HBO 2 - Pacific Feed">HBO 2 - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/479" xmltv_id="HBO Comedy HD - East">HBO Comedy HD - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/491" xmltv_id="HBO Family - Eastern Feed">HBO Family - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/492" xmltv_id="HBO Family - Pacific Feed">HBO Family - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/493" xmltv_id="HBO Zone HD - East">HBO Zone HD - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/494" xmltv_id="HBO Latino (HBO 7) - Eastern">HBO Latino (HBO 7) - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/495" xmltv_id="Cinemax - Eastern Feed">Cinemax - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/500" xmltv_id="Cinemax - Pacific Feed">Cinemax - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/501" xmltv_id="MoreMax  Eastern">MoreMax  Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/502" xmltv_id="ActionMax - Eastern">ActionMax - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/503" xmltv_id="5 Star Max - Eastern">5 Star Max - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/504" xmltv_id="MovieMax (Max 6) - East">MovieMax (Max 6) - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/505" xmltv_id="ThrillerMax - East">ThrillerMax - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/506" xmltv_id="Cinemax - Eastern HD">Cinemax - Eastern HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/507" xmltv_id="Starz - Eastern">Starz - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/508" xmltv_id="Starz - Pacific">Starz - Pacific</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/509" xmltv_id="Starz Kids &amp; Family - Eastern">Starz Kids &amp; Family - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/511" xmltv_id="Starz Comedy HD - Eastern">Starz Comedy HD - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/515" xmltv_id="Starz Edge - Eastern">Starz Edge - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/516" xmltv_id="Starz In Black - Eastern">Starz In Black - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/517" xmltv_id="Starz Cinema HD - Eastern">Starz Cinema HD - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/519" xmltv_id="Starz Encore - Eastern">Starz Encore - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/520" xmltv_id="Starz Encore - Pacific">Starz Encore - Pacific</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/521" xmltv_id="Starz Encore Classic - Eastern">Starz Encore Classic - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/522" xmltv_id="Starz Encore Westerns - Eastern">Starz Encore Westerns - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/523" xmltv_id="Starz Encore Suspense - Eastern">Starz Encore Suspense - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/525" xmltv_id="Starz Encore Black - Eastern">Starz Encore Black - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/526" xmltv_id="Starz Encore Action - Eastern">Starz Encore Action - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/527" xmltv_id="Starz Encore Family - Eastern">Starz Encore Family - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/528" xmltv_id="Showtime - Eastern Feed">Showtime - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/529" xmltv_id="Showtime West">Showtime West</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/530" xmltv_id="Showtime 2 - Eastern">Showtime 2 - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/531" xmltv_id="Showtime Showcase - Eastern">Showtime Showcase - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/535" xmltv_id="Showtime Extreme - Eastern">Showtime Extreme - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/536" xmltv_id="Showtime Beyond HD - East">Showtime Beyond HD - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/537" xmltv_id="Showtime Next HD - Eastern">Showtime Next HD - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/538" xmltv_id="Showtime Women HD - Eastern">Showtime Women HD - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/539" xmltv_id="TMC (US) - Eastern Feed">TMC (US) - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/540" xmltv_id="TMC (US) - Pacific Feed">TMC (US) - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/541" xmltv_id="TMC Xtra HD - Eastern">TMC Xtra HD - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/542" xmltv_id="FLIX - Eastern">FLIX - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/545" xmltv_id="SundanceTV USA - East">SundanceTV USA - East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/546" xmltv_id="Independent Film Channel US">Independent Film Channel US</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/547" xmltv_id="Hallmark Movies &amp; Mysteries Eastern - HD">Hallmark Movies &amp; Mysteries Eastern - HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/548" xmltv_id="HDNet Movies HD">HDNet Movies HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/549" xmltv_id="MGM HD (USA)">MGM HD (USA)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/550" xmltv_id="Sony Movie Channel">Sony Movie Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/551" xmltv_id="Olympic Channel">Olympic Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/552" xmltv_id="Smithsonian Channel USA HD">Smithsonian Channel USA HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/553" xmltv_id="Crime &amp; Investigation Network USA HD">Crime &amp; Investigation Network USA HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/554" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/555" xmltv_id="Playboy Interactive">Playboy Interactive</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/556" xmltv_id="Playboy HD">Playboy HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/557" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/564" xmltv_id="Hustler TV USA On Demand">Hustler TV USA On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/565" xmltv_id="Penthouse TV USA">Penthouse TV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/566" xmltv_id="Brazzers TV">Brazzers TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/567" xmltv_id="TVG - Television Games Network">TVG - Television Games Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/568" xmltv_id="Pursuit Channel">Pursuit Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/569" xmltv_id="Sportsman Channel">Sportsman Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/570" xmltv_id="Outdoor Channel US">Outdoor Channel US</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/571" xmltv_id="Fox College Sports - Atlantic">Fox College Sports - Atlantic</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/572" xmltv_id="Fox College Sports - Central">Fox College Sports - Central</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/575" xmltv_id="Fox College Sports - Pacific">Fox College Sports - Pacific</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/576" xmltv_id="Big Ten Network">Big Ten Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/577" xmltv_id="Big Ten Network Overflow 1">Big Ten Network Overflow 1</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/588" xmltv_id="Big Ten Network Overflow 2">Big Ten Network Overflow 2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/590" xmltv_id="Big Ten Network Overflow 3">Big Ten Network Overflow 3</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/595" xmltv_id="Big Ten Network Overflow 4">Big Ten Network Overflow 4</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/597" xmltv_id="SEC Network">SEC Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/602" xmltv_id="SEC Network Alternate">SEC Network Alternate</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/604" xmltv_id="ACC Network">ACC Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/605" xmltv_id="ESPN Classics USA">ESPN Classics USA</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/606" xmltv_id="ESPN Goal Line">ESPN Goal Line</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/608" xmltv_id="Fox Sports 2">Fox Sports 2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/608" xmltv_id="FOX Soccer Plus">FOX Soccer Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/608" xmltv_id="FOX Soccer Plus HD">FOX Soccer Plus HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/610" xmltv_id="Eleven Sports">Eleven Sports</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/610" xmltv_id="New England Sports Network">New England Sports Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/610" xmltv_id="New England Sports Network Plus">New England Sports Network Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/610" xmltv_id="NBC Sports Boston">NBC Sports Boston</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/610" xmltv_id="YES Network">YES Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/611" xmltv_id="YES 2 Overflow">YES 2 Overflow</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/611" xmltv_id="MSG (Madison Square Gardens)">MSG (Madison Square Gardens)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/612" xmltv_id="MSG Plus">MSG Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/614" xmltv_id="MSG - Syracuse">MSG - Syracuse</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/615" xmltv_id="MSG Plus - Syracuse">MSG Plus - Syracuse</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/618" xmltv_id="MSG 2">MSG 2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/621" xmltv_id="SNY: SportsNet New York (Comcast)">SNY: SportsNet New York (Comcast)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/621" xmltv_id="Mid-Atlantic Sports Network">Mid-Atlantic Sports Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/623" xmltv_id="Mid-Atlantic Sports Network 2">Mid-Atlantic Sports Network 2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/624" xmltv_id="NBC Sports Washington">NBC Sports Washington</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/628" xmltv_id="NBC Sports Washington Plus">NBC Sports Washington Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/628" xmltv_id="Fox Sports South">Fox Sports South</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/630" xmltv_id="Fox Sports South - Carolinas">Fox Sports South - Carolinas</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/631" xmltv_id="Fox Sports South - TN Nashville">Fox Sports South - TN Nashville</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/631" xmltv_id="Fox Sports Southeast">Fox Sports Southeast</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/634" xmltv_id="Fox Sports Southeast - North Carolina">Fox Sports Southeast - North Carolina</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/635" xmltv_id="Fox Sports Southeast - Tennessee East">Fox Sports Southeast - Tennessee East</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/635" xmltv_id="Fox Sports Southeast - Tennessee">Fox Sports Southeast - Tennessee</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/635" xmltv_id="Fox Sports Southeast - South Carolina">Fox Sports Southeast - South Carolina</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/635" xmltv_id="Fox Sports Southeast - Georgia">Fox Sports Southeast - Georgia</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/639" xmltv_id="Fox Sports Southeast - Tennessee Nashville">Fox Sports Southeast - Tennessee Nashville</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/640" xmltv_id="Fox Sports Sun - Lightning/Magic">Fox Sports Sun - Lightning/Magic</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/640" xmltv_id="Fox Sports Sun - Lightning/Magic HD">Fox Sports Sun - Lightning/Magic HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/642" xmltv_id="Fox Sports Florida">Fox Sports Florida</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/642" xmltv_id="Fox Sports Florida 1">Fox Sports Florida 1</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/646" xmltv_id="Fox Sports Florida 2">Fox Sports Florida 2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/646" xmltv_id="Fox Sports Florida 1 HD">Fox Sports Florida 1 HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/646" xmltv_id="AT&amp;T Sportsnet  Pittsburgh">AT&amp;T Sportsnet  Pittsburgh</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/649" xmltv_id="Fox Sports Ohio - Cleveland">Fox Sports Ohio - Cleveland</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/649" xmltv_id="Fox Sports Ohio - Cleveland HD">Fox Sports Ohio - Cleveland HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/649" xmltv_id="Fox Sports Ohio - Cincinnati (2)">Fox Sports Ohio - Cincinnati (2)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/649" xmltv_id="Fox Sports Ohio - Cincinnati (2) HD">Fox Sports Ohio - Cincinnati (2) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/649" xmltv_id="Sportstime Ohio">Sportstime Ohio</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/649" xmltv_id="Fox Sports Detroit">Fox Sports Detroit</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/649" xmltv_id="Fox Sports Detroit +">Fox Sports Detroit +</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/653" xmltv_id="NBC Sports Chicago">NBC Sports Chicago</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/653" xmltv_id="NBC Sports Chicago Plus">NBC Sports Chicago Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/654" xmltv_id="NBC Sports Chicago Plus 2">NBC Sports Chicago Plus 2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/654" xmltv_id="Fox Sports North">Fox Sports North</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/654" xmltv_id="Fox Sports Wisconsin">Fox Sports Wisconsin</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/654" xmltv_id="Fox Sports Midwest - St. Louis">Fox Sports Midwest - St. Louis</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/659" xmltv_id="Fox Sports Midwest - Kansas State">Fox Sports Midwest - Kansas State</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/660" xmltv_id="Fox Sports Indiana">Fox Sports Indiana</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/660" xmltv_id="Fox Sports Midwest - Kansas City">Fox Sports Midwest - Kansas City</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/661" xmltv_id="AT&amp;T Sportsnet Southwest - Houston">AT&amp;T Sportsnet Southwest - Houston</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/661" xmltv_id="Fox Sports Southwest - OK2">Fox Sports Southwest - OK2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/662" xmltv_id="Fox Sports Southwest - OK2 HD Southwest Plus">Fox Sports Southwest - OK2 HD Southwest Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/663" xmltv_id="Fox Sports Southwest">Fox Sports Southwest</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/663" xmltv_id="Fox Sports Southwest - San Antonio">Fox Sports Southwest - San Antonio</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/665" xmltv_id="FOX Sports Southwest - Houston">FOX Sports Southwest - Houston</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/665" xmltv_id="Fox Sports New Orleans">Fox Sports New Orleans</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/665" xmltv_id="Fox Sports Oklahoma">Fox Sports Oklahoma</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/668" xmltv_id="Longhorn Network">Longhorn Network</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/668" xmltv_id="Altitude Sports">Altitude Sports</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/671" xmltv_id="Altitude 2">Altitude 2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/671" xmltv_id="AT&amp;T Sportsnet Rocky Mountains">AT&amp;T Sportsnet Rocky Mountains</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/671" xmltv_id="AT&amp;T Sportsnet Rocky Mountain - Utah">AT&amp;T Sportsnet Rocky Mountain - Utah</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/671" xmltv_id="AT&amp;T Sportsnet Rocky Mountains - West HD">AT&amp;T Sportsnet Rocky Mountains - West HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/674" xmltv_id="Fox Sports Arizona">Fox Sports Arizona</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/675" xmltv_id="Fox Sports Arizona Plus">Fox Sports Arizona Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/675" xmltv_id="Fox Sports Arizona - N.NM">Fox Sports Arizona - N.NM</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/676" xmltv_id="Fox Sports Arizona - Alt B.">Fox Sports Arizona - Alt B.</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/676" xmltv_id="Root Sports Northwest">Root Sports Northwest</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/676" xmltv_id="Root Sports Northwest - Seattle">Root Sports Northwest - Seattle</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/676" xmltv_id="Spectrum SportsNet">Spectrum SportsNet</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/676" xmltv_id="Fox Sports West">Fox Sports West</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/677" xmltv_id="Fox Sports West Prime Ticket">Fox Sports West Prime Ticket</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/681" xmltv_id="Fox Sports San Diego">Fox Sports San Diego</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/681" xmltv_id="NBC Sports Bay Area">NBC Sports Bay Area</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/683" xmltv_id="NBC Sports Bay Area/California Plus">NBC Sports Bay Area/California Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/683" xmltv_id="NBC Sports California">NBC Sports California</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/684" xmltv_id="NBC Sports Bay Area/California Plus HD">NBC Sports Bay Area/California Plus HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/686" xmltv_id="NFL Red Zone">NFL Red Zone</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/686" xmltv_id="DirecTV Sports 701">DirecTV Sports 701</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/686" xmltv_id="DirecTV Sports 702">DirecTV Sports 702</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/686" xmltv_id="DirecTV Sports 703">DirecTV Sports 703</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/687" xmltv_id="DirecTV Sports 704">DirecTV Sports 704</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/687" xmltv_id="DirecTV Sports 705">DirecTV Sports 705</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/691" xmltv_id="DirecTV Sports 706">DirecTV Sports 706</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/692" xmltv_id="DirecTV Sports 707">DirecTV Sports 707</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/693" xmltv_id="DirecTV Sports 708">DirecTV Sports 708</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/694" xmltv_id="DirecTV Sports 709">DirecTV Sports 709</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/696" xmltv_id="DirecTV Sports 710">DirecTV Sports 710</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/696" xmltv_id="DirecTV Sports 711">DirecTV Sports 711</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/698" xmltv_id="DirecTV Sports 712">DirecTV Sports 712</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/698" xmltv_id="DirecTV Sports 713">DirecTV Sports 713</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/700" xmltv_id="DirecTV Sports 714">DirecTV Sports 714</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/701" xmltv_id="DirecTV Sports 715">DirecTV Sports 715</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/702" xmltv_id="DirecTV Sports 716">DirecTV Sports 716</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/703" xmltv_id="DirecTV Sports 717">DirecTV Sports 717</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/704" xmltv_id="DirecTV Sports 718">DirecTV Sports 718</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/705" xmltv_id="DirecTV Sports 719">DirecTV Sports 719</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/706" xmltv_id="DirecTV Sports 720">DirecTV Sports 720</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/707" xmltv_id="DirecTV MLB Extra Innings (721)">DirecTV MLB Extra Innings (721)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/708" xmltv_id="DirecTV MLB Extra Innings (722)">DirecTV MLB Extra Innings (722)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/709" xmltv_id="DirecTV MLB Extra Innings (723)">DirecTV MLB Extra Innings (723)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/710" xmltv_id="DirecTV MLB Extra Innings (724)">DirecTV MLB Extra Innings (724)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/711" xmltv_id="DirecTV MLB Extra Innings (725)">DirecTV MLB Extra Innings (725)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/712" xmltv_id="DirecTV MLB Extra Innings (726)">DirecTV MLB Extra Innings (726)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/713" xmltv_id="DirecTV MLB Extra Innings (727)">DirecTV MLB Extra Innings (727)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/714" xmltv_id="DirecTV MLB Extra Innings (728)">DirecTV MLB Extra Innings (728)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/715" xmltv_id="DirecTV MLB Extra Innings (729)">DirecTV MLB Extra Innings (729)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/716" xmltv_id="DirecTV MLB Extra Innings (730)">DirecTV MLB Extra Innings (730)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/717" xmltv_id="DirecTV MLB Extra Innings (731)">DirecTV MLB Extra Innings (731)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/718" xmltv_id="DirecTV MLB Extra Innings (732)">DirecTV MLB Extra Innings (732)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/719" xmltv_id="DirecTV MLB Extra Innings (733)">DirecTV MLB Extra Innings (733)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/720" xmltv_id="DirecTV MLB Extra Innings (734)">DirecTV MLB Extra Innings (734)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/721" xmltv_id="DirecTV MLB Extra Innings (735)">DirecTV MLB Extra Innings (735)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/722" xmltv_id="DirecTV MLB Extra Innings (736)">DirecTV MLB Extra Innings (736)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/723" xmltv_id="DirecTV MLB Extra Innings (737)">DirecTV MLB Extra Innings (737)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/724" xmltv_id="DirecTV MLB Extra Innings HD (728)">DirecTV MLB Extra Innings HD (728)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/725" xmltv_id="DirecTV MLB Extra Innings (739)">DirecTV MLB Extra Innings (739)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/726" xmltv_id="DirecTV MLB Extra Innings (740)">DirecTV MLB Extra Innings (740)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/727" xmltv_id="DirecTV MLB Extra Innings (741)">DirecTV MLB Extra Innings (741)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/728" xmltv_id="DirecTV MLB Extra Innings (742)">DirecTV MLB Extra Innings (742)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/729" xmltv_id="DirecTV MLB Extra Innings (743)">DirecTV MLB Extra Innings (743)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/730" xmltv_id="DirecTV MLB Extra Innings (744)">DirecTV MLB Extra Innings (744)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/731" xmltv_id="DirecTV MLB Extra Innings (745)">DirecTV MLB Extra Innings (745)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/732" xmltv_id="DirecTV MLB Extra Innings (746)">DirecTV MLB Extra Innings (746)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/733" xmltv_id="DirecTV MLB Extra Innings (747)">DirecTV MLB Extra Innings (747)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/734" xmltv_id="DirecTV MLB Extra Innings (748)">DirecTV MLB Extra Innings (748)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/735" xmltv_id="DirecTV MLB Extra Innings (749)">DirecTV MLB Extra Innings (749)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/736" xmltv_id="DirecTV NBA League Pass (750)">DirecTV NBA League Pass (750)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/737" xmltv_id="DirecTV NBA League Pass (751)">DirecTV NBA League Pass (751)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/738" xmltv_id="DirecTV NBA League Pass (752)">DirecTV NBA League Pass (752)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/739" xmltv_id="DirecTV NBA League Pass (753)">DirecTV NBA League Pass (753)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/740" xmltv_id="DirecTV NBA League Pass (754)">DirecTV NBA League Pass (754)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/741" xmltv_id="DirecTV NBA League Pass (755)">DirecTV NBA League Pass (755)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/742" xmltv_id="DirecTV NBA League Pass (756)">DirecTV NBA League Pass (756)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/743" xmltv_id="DirecTV NBA League Pass (757)">DirecTV NBA League Pass (757)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/744" xmltv_id="DirecTV NBA League Pass (758)">DirecTV NBA League Pass (758)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/745" xmltv_id="DirecTV NBA League Pass (759)">DirecTV NBA League Pass (759)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/746" xmltv_id="DirecTV NBA League Pass (760)">DirecTV NBA League Pass (760)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/747" xmltv_id="DirecTV NBA League Pass (761)">DirecTV NBA League Pass (761)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/748" xmltv_id="DirecTV NBA League Pass (762)">DirecTV NBA League Pass (762)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/749" xmltv_id="DirecTV NBA League Pass (763)">DirecTV NBA League Pass (763)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/750" xmltv_id="DirecTV NBA League Pass (764)">DirecTV NBA League Pass (764)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/751" xmltv_id="DirecTV NBA League Pass (765)">DirecTV NBA League Pass (765)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/752" xmltv_id="DirecTV NBA League Pass (766)">DirecTV NBA League Pass (766)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/753" xmltv_id="DirecTV NBA League Pass (767)">DirecTV NBA League Pass (767)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/754" xmltv_id="DirecTV NBA League Pass (768)">DirecTV NBA League Pass (768)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/755" xmltv_id="DirecTV NHL Center Ice (769)">DirecTV NHL Center Ice (769)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/756" xmltv_id="DirecTV NHL Center Ice (769) HD">DirecTV NHL Center Ice (769) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/757" xmltv_id="DirecTV NHL Center Ice (770)">DirecTV NHL Center Ice (770)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/758" xmltv_id="DirecTV NHL Center Ice (770) HD">DirecTV NHL Center Ice (770) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/759" xmltv_id="DirecTV NHL Center Ice (771)">DirecTV NHL Center Ice (771)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/760" xmltv_id="DirecTV NHL Center Ice (771) HD">DirecTV NHL Center Ice (771) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/761" xmltv_id="DirecTV NHL Center Ice (772)">DirecTV NHL Center Ice (772)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/762" xmltv_id="DirecTV NHL Center Ice (772) HD">DirecTV NHL Center Ice (772) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/763" xmltv_id="DirecTV NHL Center Ice (773)">DirecTV NHL Center Ice (773)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/764" xmltv_id="DirecTV NHL Center Ice (773) HD">DirecTV NHL Center Ice (773) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/765" xmltv_id="DirecTV NHL Center Ice (774)">DirecTV NHL Center Ice (774)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/766" xmltv_id="DirecTV NHL Center Ice (774) HD">DirecTV NHL Center Ice (774) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/767" xmltv_id="DirecTV NHL Center Ice (775)">DirecTV NHL Center Ice (775)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/768" xmltv_id="DirecTV NHL Center Ice (775) HD">DirecTV NHL Center Ice (775) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/769" xmltv_id="DirecTV NHL Center Ice (776)">DirecTV NHL Center Ice (776)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/769" xmltv_id="DirecTV NHL Center Ice (776) HD">DirecTV NHL Center Ice (776) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/770" xmltv_id="DirecTV NHL Center Ice (777)">DirecTV NHL Center Ice (777)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/770" xmltv_id="DirecTV NHL Center Ice (777) HD">DirecTV NHL Center Ice (777) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/771" xmltv_id="DirecTV NHL Center Ice (778)">DirecTV NHL Center Ice (778)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/771" xmltv_id="DirecTV NHL Center Ice (778) HD">DirecTV NHL Center Ice (778) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/772" xmltv_id="DirecTV NHL Center Ice (779)">DirecTV NHL Center Ice (779)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/772" xmltv_id="DirecTV NHL Center Ice (779) HD">DirecTV NHL Center Ice (779) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/773" xmltv_id="DirecTV NHL Center Ice (780)">DirecTV NHL Center Ice (780)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/773" xmltv_id="DirecTV NHL Center Ice (780) HD">DirecTV NHL Center Ice (780) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/774" xmltv_id="DirecTV NHL Center Ice (781)">DirecTV NHL Center Ice (781)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/774" xmltv_id="DirecTV NHL Center Ice (781) HD">DirecTV NHL Center Ice (781) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/775" xmltv_id="DirecTV NHL Center Ice (782)">DirecTV NHL Center Ice (782)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/775" xmltv_id="DirecTV NHL Center Ice (782) HD">DirecTV NHL Center Ice (782) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/776" xmltv_id="DirecTV NHL Center Ice (783)">DirecTV NHL Center Ice (783)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/776" xmltv_id="DirecTV NHL Center Ice (783) HD">DirecTV NHL Center Ice (783) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/777" xmltv_id="DirecTV NHL Center Ice (784)">DirecTV NHL Center Ice (784)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/777" xmltv_id="DirecTV NHL Center Ice (784) HD">DirecTV NHL Center Ice (784) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/778" xmltv_id="DirecTV NHL Center Ice (785)">DirecTV NHL Center Ice (785)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/778" xmltv_id="DirecTV NHL Center Ice (786)">DirecTV NHL Center Ice (786)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/779" xmltv_id="DirecTV NHL Center Ice (787)">DirecTV NHL Center Ice (787)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/779" xmltv_id="ESPN College Extra 1">ESPN College Extra 1</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/780" xmltv_id="ESPN College Extra 2">ESPN College Extra 2</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/780" xmltv_id="ESPN College Extra 3">ESPN College Extra 3</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/781" xmltv_id="ESPN College Extra 4">ESPN College Extra 4</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/781" xmltv_id="ESPN College Extra 5">ESPN College Extra 5</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/782" xmltv_id="ESPN College Extra 6">ESPN College Extra 6</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/782" xmltv_id="ESPN College Extra 7">ESPN College Extra 7</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/783" xmltv_id="ESPN College Extra 8">ESPN College Extra 8</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/783" xmltv_id="ESPN College Extra 3 HD">ESPN College Extra 3 HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/784" xmltv_id="ESPN College Extra 4 HD">ESPN College Extra 4 HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/784" xmltv_id="ESPN College Extra 5 HD">ESPN College Extra 5 HD</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/785" xmltv_id="CNN on demand">CNN on demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/786" xmltv_id="ESPN On Demand">ESPN On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/787" xmltv_id="ESPNU On Demand">ESPNU On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/788" xmltv_id="TruTV on Demand">TruTV on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/789" xmltv_id="Comedy Central on Demand">Comedy Central on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/790" xmltv_id="Discovery Channel (US) on demand">Discovery Channel (US) on demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/791" xmltv_id="Disney on Demand">Disney on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/792" xmltv_id="Boomerang On Demand">Boomerang On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/793" xmltv_id="Nickelodeon USA On Demand">Nickelodeon USA On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/794" xmltv_id="Freeform On Demand">Freeform On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/795" xmltv_id="CMT US On Demand">CMT US On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/796" xmltv_id="Fuse On Demand">Fuse On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/797" xmltv_id="ESPN Deportes On Demand">ESPN Deportes On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/798" xmltv_id="HBO On Demand">HBO On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1202" xmltv_id="Cinemax on Demand">Cinemax on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1206" xmltv_id="Starz On Demand">Starz On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1208" xmltv_id="Starz Encore on Demand">Starz Encore on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1246" xmltv_id="Showtime on Demand">Showtime on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1249" xmltv_id="TMC on Demand">TMC on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1278" xmltv_id="HDNet Movies On Dmenad">HDNet Movies On Dmenad</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1287" xmltv_id="Playboy On Demand">Playboy On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1290" xmltv_id="Big Ten Network OnDemand">Big Ten Network OnDemand</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1298" xmltv_id="Phoenix InfoNews">Phoenix InfoNews</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1300" xmltv_id="CGTN (CCTV4)">CGTN (CCTV4)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1311" xmltv_id="CCTV-4 America">CCTV-4 America</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1327" xmltv_id="CTI-Zhong Tian Channel">CTI-Zhong Tian Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1339" xmltv_id="TVBS (Mandarin)">TVBS (Mandarin)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1432" xmltv_id="TFC - The Filipino Channel">TFC - The Filipino Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1501" xmltv_id="GMA/Pinoy TV">GMA/Pinoy TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1515" xmltv_id="VGNTV (Saigon Broadcasting Television Network)">VGNTV (Saigon Broadcasting Television Network)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1527" xmltv_id="TVBV (Vietnamese)">TVBV (Vietnamese)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1535" xmltv_id="MBC America (Korean)">MBC America (Korean)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1545" xmltv_id="SBS (Korean)">SBS (Korean)</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1553" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1566" xmltv_id="TV Globo">TV Globo</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1576" xmltv_id="RTVi">RTVi</channel>
+    <channel update="i" site="tvtv.us" site_id="2381D/1610" xmltv_id="MHz Worldview">MHz Worldview</channel>
+  </channels>
+</site>
+
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/53.17 -- Jan van Straaten" site="tvguide.co.uk">
+  <channels>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="965" xmltv_id="&amp;TV">&amp;TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="953" xmltv_id="?TV">?TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="533" xmltv_id="3e">3e</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="506" xmltv_id="4Music">4Music</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="752" xmltv_id="4seven">4seven</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="917" xmltv_id="4seven HD">4seven HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="460" xmltv_id="5* (Freeview)">5* (Freeview)</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="901" xmltv_id="5* +1">5* +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="374" xmltv_id="5STAR">5STAR</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="375" xmltv_id="5USA">5USA</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="572" xmltv_id="5USA +1">5USA +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="935" xmltv_id="ABN TV">ABN TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="537" xmltv_id="AIT International">AIT International</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="444" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="899" xmltv_id="Al Jazeera English HD">Al Jazeera English HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="520" xmltv_id="Alibi">Alibi</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="755" xmltv_id="Alibi HD">Alibi HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="521" xmltv_id="Alibi+1">Alibi+1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="984" xmltv_id="AMC">AMC</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="58" xmltv_id="Animal Planet">Animal Planet</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="59" xmltv_id="Animal Planet +1">Animal Planet +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="735" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="873" xmltv_id="ARY News">ARY News</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="63" xmltv_id="at the races">at the races</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="329" xmltv_id="B4U Movies">B4U Movies</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="836" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="856" xmltv_id="BBC 1 HD Wales">BBC 1 HD Wales</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="508" xmltv_id="BBC Alba">BBC Alba</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="68" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="66" xmltv_id="BBC News">BBC News</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="894" xmltv_id="BBC News HD">BBC News HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="956" xmltv_id="BBC Oxford DAB">BBC Oxford DAB</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="67" xmltv_id="BBC Parliament">BBC Parliament</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="636" xmltv_id="BBC Red Button 1">BBC Red Button 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="840" xmltv_id="BBC Red Button 2">BBC Red Button 2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="767" xmltv_id="BBC Red Button 3">BBC Red Button 3</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="914" xmltv_id="BBC Red Button 4">BBC Red Button 4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="915" xmltv_id="BBC Red Button 5">BBC Red Button 5</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="766" xmltv_id="BBC Red Button HD">BBC Red Button HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="643" xmltv_id="BBC Sport Interactive BBC1">BBC Sport Interactive BBC1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="644" xmltv_id="BBC Sport Interactive BBC2">BBC Sport Interactive BBC2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="651" xmltv_id="BBC Sport Interactive BBC3">BBC Sport Interactive BBC3</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="69" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="86" xmltv_id="BBC1">BBC1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="733" xmltv_id="BBC1 Cambridgeshire">BBC1 Cambridgeshire</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="734" xmltv_id="BBC1 Channel Islands">BBC1 Channel Islands</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="70" xmltv_id="BBC1 Digital">BBC1 Digital</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="73" xmltv_id="BBC1 East">BBC1 East</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="72" xmltv_id="BBC1 East Midlands">BBC1 East Midlands</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="683" xmltv_id="BBC1 HD">BBC1 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="833" xmltv_id="BBC1 HD N Ireland">BBC1 HD N Ireland</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="855" xmltv_id="BBC1 HD Scotland">BBC1 HD Scotland</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="74" xmltv_id="BBC1 London">BBC1 London</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="75" xmltv_id="BBC1 Midlands">BBC1 Midlands</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="76" xmltv_id="BBC1 N East">BBC1 N East</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="80" xmltv_id="BBC1 N Ireland">BBC1 N Ireland</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="77" xmltv_id="BBC1 N West">BBC1 N West</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="78" xmltv_id="BBC1 North">BBC1 North</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="731" xmltv_id="BBC1 Oxfordshire">BBC1 Oxfordshire</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="83" xmltv_id="BBC1 S East">BBC1 S East</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="84" xmltv_id="BBC1 S West">BBC1 S West</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="82" xmltv_id="BBC1 Scotland">BBC1 Scotland</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="71" xmltv_id="BBC1 Scotland Digital">BBC1 Scotland Digital</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="85" xmltv_id="BBC1 South">BBC1 South</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="87" xmltv_id="BBC1 Wales">BBC1 Wales</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="81" xmltv_id="BBC1 Wales Digital">BBC1 Wales Digital</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="88" xmltv_id="BBC1 West">BBC1 West</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="732" xmltv_id="BBC1 Yorkshire and Lincolnshire">BBC1 Yorkshire and Lincolnshire</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="89" xmltv_id="BBC2">BBC2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="90" xmltv_id="BBC2 Digital">BBC2 Digital</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="92" xmltv_id="BBC2 East">BBC2 East</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="91" xmltv_id="BBC2 East Midlands">BBC2 East Midlands</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="387" xmltv_id="BBC2 HD">BBC2 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="93" xmltv_id="BBC2 London">BBC2 London</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="94" xmltv_id="BBC2 Midlands">BBC2 Midlands</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="95" xmltv_id="BBC2 N East">BBC2 N East</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="99" xmltv_id="BBC2 N Ireland">BBC2 N Ireland</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="96" xmltv_id="BBC2 N West">BBC2 N West</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="97" xmltv_id="BBC2 North">BBC2 North</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="102" xmltv_id="BBC2 S East">BBC2 S East</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="103" xmltv_id="BBC2 S West">BBC2 S West</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="101" xmltv_id="BBC2 Scotland">BBC2 Scotland</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="104" xmltv_id="BBC2 South">BBC2 South</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="106" xmltv_id="BBC2 Wales">BBC2 Wales</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="107" xmltv_id="BBC2 West">BBC2 West</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="105" xmltv_id="BBC2 West Midlands">BBC2 West Midlands</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="109" xmltv_id="BBC4">BBC4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="849" xmltv_id="BBC4">BBC4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="893" xmltv_id="BBC4 HD">BBC4 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="936" xmltv_id="BEN">BEN</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="458" xmltv_id="Best Direct">Best Direct</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="110" xmltv_id="BET">BET</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="620" xmltv_id="BET +1">BET +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="111" xmltv_id="bid tv">bid tv</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="388" xmltv_id="Bliss">Bliss</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="112" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="952" xmltv_id="BON TV">BON TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="113" xmltv_id="Boomerang">Boomerang</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="389" xmltv_id="Boomerang +1">Boomerang +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="980" xmltv_id="Boomerang HD">Boomerang HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="875" xmltv_id="BT Sport 1">BT Sport 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="876" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="877" xmltv_id="BT Sport 2">BT Sport 2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="880" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="967" xmltv_id="BT Sport Europe">BT Sport Europe</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="968" xmltv_id="BT Sport Europe HD">BT Sport Europe HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="985" xmltv_id="BT Sport Extra 1">BT Sport Extra 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="986" xmltv_id="BT Sport Extra 2">BT Sport Extra 2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="987" xmltv_id="BT Sport Extra 3">BT Sport Extra 3</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="988" xmltv_id="BT Sport Extra 4">BT Sport Extra 4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="989" xmltv_id="BT Sport Extra 5">BT Sport Extra 5</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="990" xmltv_id="BT Sport Extra 6">BT Sport Extra 6</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="578" xmltv_id="BT Sport//ESPN">BT Sport//ESPN</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="579" xmltv_id="BT Sport//ESPN HD">BT Sport//ESPN HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="942" xmltv_id="Capital TV">Capital TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="116" xmltv_id="Cartoon Network">Cartoon Network</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="457" xmltv_id="Cartoon Network +1">Cartoon Network +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="724" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="391" xmltv_id="Cartoonito">Cartoonito</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="118" xmltv_id="CBBC">CBBC</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="895" xmltv_id="CBBC HD">CBBC HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="119" xmltv_id="CBeebies">CBeebies</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="896" xmltv_id="CBeebies HD">CBeebies HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="498" xmltv_id="CBS Action">CBS Action</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="493" xmltv_id="CBS Drama">CBS Drama</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="385" xmltv_id="CBS Reality">CBS Reality</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="424" xmltv_id="CBS Reality +1">CBS Reality +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="120" xmltv_id="Challenge">Challenge</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="392" xmltv_id="Challenge +1">Challenge +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="121" xmltv_id="Channel 4">Channel 4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="428" xmltv_id="Channel 4 + 1">Channel 4 + 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="476" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="916" xmltv_id="Channel 4 HD +1">Channel 4 HD +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="148" xmltv_id="Channel 5">Channel 5</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="729" xmltv_id="Channel 5 +1">Channel 5 +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="657" xmltv_id="Channel 5 HD">Channel 5 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="571" xmltv_id="Channel 5+24">Channel 5+24</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="903" xmltv_id="Channel 5+24 (Freeview)">Channel 5+24 (Freeview)</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="481" xmltv_id="Channel 7">Channel 7</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="945" xmltv_id="Channel AKA">Channel AKA</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="449" xmltv_id="Channel S">Channel S</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="852" xmltv_id="Chart Show Dance">Chart Show Dance</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="123" xmltv_id="Chart Show TV">Chart Show TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="393" xmltv_id="Chelsea TV">Chelsea TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="969" xmltv_id="Chelsea TV HD">Chelsea TV HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="608" xmltv_id="Christmas 24 +1">Christmas 24 +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="394" xmltv_id="CI">CI</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="575" xmltv_id="CI +1">CI +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="556" xmltv_id="CI HD">CI HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="382" xmltv_id="CITV">CITV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="950" xmltv_id="Clubland TV">Clubland TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="590" xmltv_id="CNBC UK">CNBC UK</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="126" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="881" xmltv_id="Colors">Colors</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="214" xmltv_id="Comedy Central">Comedy Central</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="409" xmltv_id="Comedy Central +1">Comedy Central +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="215" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="617" xmltv_id="Comedy Central Extra +1">Comedy Central Extra +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="664" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="280" xmltv_id="Community Channel">Community Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="908" xmltv_id="Community Channel HD">Community Channel HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="586" xmltv_id="Create and Craft">Create and Craft</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="432" xmltv_id="Dave">Dave</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="727" xmltv_id="Dave HD">Dave HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="455" xmltv_id="Dave ja vu">Dave ja vu</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="503" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="127" xmltv_id="Discovery">Discovery</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="846" xmltv_id="Discovery +1">Discovery +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="395" xmltv_id="Discovery HD">Discovery HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="129" xmltv_id="Discovery History">Discovery History</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="618" xmltv_id="Discovery History +1">Discovery History +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="381" xmltv_id="Discovery Home &amp; Health">Discovery Home &amp; Health</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="396" xmltv_id="Discovery Home &amp; Health +1">Discovery Home &amp; Health +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="134" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="634" xmltv_id="Discovery Science +1">Discovery Science +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="397" xmltv_id="Discovery Shed">Discovery Shed</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="386" xmltv_id="Discovery Turbo">Discovery Turbo</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="281" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="282" xmltv_id="Disney Channel +1">Disney Channel +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="725" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="398" xmltv_id="Disney Cinemagic">Disney Cinemagic</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="399" xmltv_id="Disney Cinemagic +1">Disney Cinemagic +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="554" xmltv_id="Disney Cinemagic HD">Disney Cinemagic HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="713" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="714" xmltv_id="Disney Junior +1">Disney Junior +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="869" xmltv_id="Disney Junior HD">Disney Junior HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="588" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="589" xmltv_id="Disney XD +1">Disney XD +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="682" xmltv_id="Disney XD HD">Disney XD HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="454" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="616" xmltv_id="DMAX+1">DMAX+1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="871" xmltv_id="Drama">Drama</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="138" xmltv_id="E!">E!</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="898" xmltv_id="E! +1">E! +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="473" xmltv_id="E! Entertainment Europe">E! Entertainment Europe</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="831" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="139" xmltv_id="E4">E4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="371" xmltv_id="E4 +1">E4 +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="609" xmltv_id="E4 HD">E4 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="540" xmltv_id="Eden">Eden</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="355" xmltv_id="Eden +1">Eden +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="670" xmltv_id="Eden HD">Eden HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="890" xmltv_id="Estuary TV">Estuary TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="140" xmltv_id="EuroNews">EuroNews</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="142" xmltv_id="Eurosport">Eurosport</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="502" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="400" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="758" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="959" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="143" xmltv_id="Extreme Sports">Extreme Sports</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="631" xmltv_id="FAB TV">FAB TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="145" xmltv_id="Film4">Film4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="146" xmltv_id="Film4 +1">Film4 +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="660" xmltv_id="Film4 HD">Film4 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="947" xmltv_id="FilmOn.TV">FilmOn.TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="569" xmltv_id="Flava">Flava</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="596" xmltv_id="Food Network">Food Network</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="595" xmltv_id="Food Network +1">Food Network +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="913" xmltv_id="Forces TV">Forces TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="154" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="488" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="402" xmltv_id="FOX+1">FOX+1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="834" xmltv_id="FRANCE 24 English">FRANCE 24 English</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="155" xmltv_id="GBC">GBC</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="528" xmltv_id="Gems TV">Gems TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="665" xmltv_id="GOD Channel">GOD Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="517" xmltv_id="GOLD">GOLD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="519" xmltv_id="GOLD +1">GOLD +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="315" xmltv_id="Good Food">Good Food</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="356" xmltv_id="Good Food +1">Good Food +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="669" xmltv_id="Good Food HD">Good Food HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="505" xmltv_id="H2">H2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="946" xmltv_id="Heart TV">Heart TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="756" xmltv_id="Heat TV">Heat TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="160" xmltv_id="HISTORY">HISTORY</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="161" xmltv_id="HISTORY +1">HISTORY +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="527" xmltv_id="HISTORY HD">HISTORY HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="932" xmltv_id="Holiday &amp; Cruise Channel">Holiday &amp; Cruise Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="322" xmltv_id="Home">Home</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="358" xmltv_id="Home +1">Home +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="425" xmltv_id="Horror Channel">Horror Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="504" xmltv_id="Horror Channel +1">Horror Channel +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="624" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="434" xmltv_id="Ideal World">Ideal World</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="757" xmltv_id="Ideal World">Ideal World</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="938" xmltv_id="Information TV">Information TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="941" xmltv_id="Information TV +1">Information TV +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="535" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="870" xmltv_id="Investigation Discovery +1">Investigation Discovery +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="994" xmltv_id="Irish TV +1">Irish TV +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="165" xmltv_id="ITV Anglia">ITV Anglia</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="828" xmltv_id="ITV Anglia +1">ITV Anglia +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="812" xmltv_id="ITV Border">ITV Border</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="973" xmltv_id="ITV Border Scotland">ITV Border Scotland</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="168" xmltv_id="ITV Central">ITV Central</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="700" xmltv_id="ITV Central +1">ITV Central +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="170" xmltv_id="ITV Channel">ITV Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="910" xmltv_id="ITV Encore">ITV Encore</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="912" xmltv_id="ITV Encore HD">ITV Encore HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="171" xmltv_id="ITV Granada">ITV Granada</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="696" xmltv_id="ITV Granada +1">ITV Granada +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="642" xmltv_id="ITV HD">ITV HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="723" xmltv_id="ITV HD Central">ITV HD Central</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="722" xmltv_id="ITV HD Granada">ITV HD Granada</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="721" xmltv_id="ITV HD Meridian">ITV HD Meridian</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="172" xmltv_id="ITV London">ITV London</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="697" xmltv_id="ITV London +1">ITV London +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="173" xmltv_id="ITV Meridian">ITV Meridian</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="832" xmltv_id="ITV Meridian +1">ITV Meridian +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="694" xmltv_id="ITV South East +1">ITV South East +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="438" xmltv_id="ITV Thames Valley North">ITV Thames Valley North</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="472" xmltv_id="ITV Thames Valley South">ITV Thames Valley South</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="174" xmltv_id="ITV Tyne Tees">ITV Tyne Tees</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="829" xmltv_id="ITV Tynes Tees +1">ITV Tynes Tees +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="175" xmltv_id="ITV Wales">ITV Wales</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="830" xmltv_id="ITV Wales +1">ITV Wales +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="176" xmltv_id="ITV West">ITV West</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="699" xmltv_id="ITV West +1">ITV West +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="169" xmltv_id="ITV Westcountry">ITV Westcountry</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="827" xmltv_id="ITV Westcountry +1">ITV Westcountry +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="177" xmltv_id="ITV Yorkshire">ITV Yorkshire</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="695" xmltv_id="ITV Yorkshire +1">ITV Yorkshire +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="180" xmltv_id="ITV2">ITV2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="376" xmltv_id="ITV2 +1">ITV2 +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="671" xmltv_id="ITV2 HD">ITV2 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="360" xmltv_id="ITV3">ITV3</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="690" xmltv_id="ITV3 HD">ITV3 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="474" xmltv_id="ITV3+1">ITV3+1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="902" xmltv_id="ITV3+1 (Freeview)">ITV3+1 (Freeview)</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="367" xmltv_id="ITV4">ITV4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="530" xmltv_id="ITV4 + 1">ITV4 + 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="691" xmltv_id="ITV4 HD">ITV4 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="926" xmltv_id="ITVBe">ITVBe</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="958" xmltv_id="ITVBe HD">ITVBe HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="957" xmltv_id="ITVBe+1">ITVBe+1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="883" xmltv_id="JSTV1">JSTV1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="884" xmltv_id="JSTV2">JSTV2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="181" xmltv_id="Kerrang! TV">Kerrang! TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="182" xmltv_id="Kiss TV">Kiss TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="602" xmltv_id="Kix">Kix</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="955" xmltv_id="LFCTV HD">LFCTV HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="887" xmltv_id="Lifetime">Lifetime</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="891" xmltv_id="Lifetime +1">Lifetime +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="888" xmltv_id="Lifetime HD">Lifetime HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="706" xmltv_id="Liverpool FC TV">Liverpool FC TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="904" xmltv_id="London Live">London Live</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="469" xmltv_id="M95 TV Marbella">M95 TV Marbella</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="974" xmltv_id="Made in Bristol">Made in Bristol</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="976" xmltv_id="Made in Cardiff">Made in Cardiff</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="975" xmltv_id="Made in Leeds">Made in Leeds</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="977" xmltv_id="Made in Tyne &amp; Wear">Made in Tyne &amp; Wear</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="185" xmltv_id="Magic TV">Magic TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="591" xmltv_id="MGM Channel">MGM Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="361" xmltv_id="More4">More4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="429" xmltv_id="More4 +1">More4 +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="859" xmltv_id="More4 HD">More4 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="404" xmltv_id="Motors TV">Motors TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="857" xmltv_id="Movie Mix">Movie Mix</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="601" xmltv_id="Movies 24">Movies 24</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="605" xmltv_id="Movies 24+">Movies 24+</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="500" xmltv_id="Movies4Men">Movies4Men</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="621" xmltv_id="Movies4Men +1">Movies4Men +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="187" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="483" xmltv_id="MTV + 1">MTV + 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="188" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="189" xmltv_id="MTV Dance">MTV Dance</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="739" xmltv_id="MTV HD">MTV HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="190" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="823" xmltv_id="MTV Live">MTV Live</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="531" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="702" xmltv_id="MTV Music">MTV Music</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="191" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="325" xmltv_id="MTV Xmas">MTV Xmas</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="204" xmltv_id="MUTV">MUTV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="920" xmltv_id="MUTV HD">MUTV HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="407" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="557" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="205" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="844" xmltv_id="National Geographic +1">National Geographic +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="408" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="491" xmltv_id="National Geographic HD +1">National Geographic HD +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="929" xmltv_id="News18 India">News18 India</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="610" xmltv_id="NHK World">NHK World</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="720" xmltv_id="NHK World HD">NHK World HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="211" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="826" xmltv_id="Nick Jr +1">Nick Jr +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="611" xmltv_id="Nick Jr Too">Nick Jr Too</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="209" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="625" xmltv_id="Nickelodeon +1">Nickelodeon +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="681" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="212" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="996" xmltv_id="Notts TV">Notts TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="930" xmltv_id="NOW Christmas">NOW Christmas</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="934" xmltv_id="OHTV">OHTV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="882" xmltv_id="OSN Ya Hala!">OSN Ya Hala!</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="751" xmltv_id="PBS America">PBS America</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="566" xmltv_id="Phoenix CNE">Phoenix CNE</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="369" xmltv_id="Pick">Pick</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="667" xmltv_id="Pick+1">Pick+1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="937" xmltv_id="Planet Pop">Planet Pop</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="334" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="709" xmltv_id="Plus 1">Plus 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="468" xmltv_id="Pop">Pop</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="906" xmltv_id="Pop +1">Pop +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="684" xmltv_id="PopGirl">PopGirl</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="715" xmltv_id="Premier Sports">Premier Sports</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="222" xmltv_id="price-drop.tv">price-drop.tv</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="948" xmltv_id="PTV">PTV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="559" xmltv_id="QUEST">QUEST</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="594" xmltv_id="QUEST +1">QUEST +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="223" xmltv_id="QVC">QVC</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="446" xmltv_id="Racing UK">Racing UK</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="403" xmltv_id="Real Lives">Real Lives</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="547" xmltv_id="Real Lives +1">Real Lives +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="422" xmltv_id="Really">Really</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="738" xmltv_id="Red Hot 18s">Red Hot 18s</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="338" xmltv_id="Red Hot Amateur">Red Hot Amateur</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="909" xmltv_id="Revelation TV">Revelation TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="868" xmltv_id="Rishtey">Rishtey</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="707" xmltv_id="RT">RT</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="853" xmltv_id="RT HD">RT HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="716" xmltv_id="RTÉ Jr">RTÉ Jr</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="717" xmltv_id="RTÉ News Now">RTÉ News Now</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="342" xmltv_id="RTÉ One">RTÉ One</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="719" xmltv_id="RTÉ One +1">RTÉ One +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="900" xmltv_id="RTÉ One HD">RTÉ One HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="363" xmltv_id="RTÉ Two">RTÉ Two</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="718" xmltv_id="RTÉ Two HD">RTÉ Two HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="234" xmltv_id="S4C">S4C</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="240" xmltv_id="Scuzz">Scuzz</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="366" xmltv_id="Setanta Ireland">Setanta Ireland</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="426" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="648" xmltv_id="Showcase">Showcase</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="688" xmltv_id="Showcase +1">Showcase +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="258" xmltv_id="Sky 1">Sky 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="259" xmltv_id="Sky 2">Sky 2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="647" xmltv_id="Sky 3D">Sky 3D</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="384" xmltv_id="Sky Arts">Sky Arts</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="525" xmltv_id="Sky Arts 2">Sky Arts 2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="553" xmltv_id="Sky Arts 2 HD">Sky Arts 2 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="484" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="704" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="824" xmltv_id="Sky Atlantic +1">Sky Atlantic +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="703" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="245" xmltv_id="Sky Box Office Digital">Sky Box Office Digital</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="413" xmltv_id="Sky Box Office HD1">Sky Box Office HD1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="414" xmltv_id="Sky Box Office HD2">Sky Box Office HD2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="693" xmltv_id="Sky Box Office HD3">Sky Box Office HD3</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="183" xmltv_id="Sky Living">Sky Living</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="184" xmltv_id="Sky Living +1">Sky Living +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="592" xmltv_id="Sky Living HD">Sky Living HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="251" xmltv_id="Sky Movies Action &amp; Adventure">Sky Movies Action &amp; Adventure</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="514" xmltv_id="Sky Movies Action &amp; Adventure HD">Sky Movies Action &amp; Adventure HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="250" xmltv_id="Sky Movies Comedy">Sky Movies Comedy</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="522" xmltv_id="Sky Movies Comedy HD">Sky Movies Comedy HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="614" xmltv_id="Sky Movies Crime &amp; Thriller">Sky Movies Crime &amp; Thriller</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="247" xmltv_id="Sky Movies Crime &amp; Thriller HD">Sky Movies Crime &amp; Thriller HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="850" xmltv_id="Sky Movies Disney">Sky Movies Disney</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="851" xmltv_id="Sky Movies Disney HD">Sky Movies Disney HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="253" xmltv_id="Sky Movies Drama &amp; Romance">Sky Movies Drama &amp; Romance</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="513" xmltv_id="Sky Movies Drama &amp; Romance HD">Sky Movies Drama &amp; Romance HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="252" xmltv_id="Sky Movies Family">Sky Movies Family</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="523" xmltv_id="Sky Movies Family HD">Sky Movies Family HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="604" xmltv_id="Sky Movies Greats">Sky Movies Greats</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="847" xmltv_id="Sky Movies Greats HD">Sky Movies Greats HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="248" xmltv_id="Sky Movies Premiere">Sky Movies Premiere</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="249" xmltv_id="Sky Movies Premiere +1">Sky Movies Premiere +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="489" xmltv_id="Sky Movies Premiere HD">Sky Movies Premiere HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="524" xmltv_id="Sky Movies Sci-Fi &amp; Horror">Sky Movies Sci-Fi &amp; Horror</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="254" xmltv_id="Sky Movies Sci-Fi &amp; Horror HD">Sky Movies Sci-Fi &amp; Horror HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="380" xmltv_id="Sky Movies Select">Sky Movies Select</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="593" xmltv_id="Sky Movies Select HD">Sky Movies Select HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="637" xmltv_id="Sky Movies Showcase">Sky Movies Showcase</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="638" xmltv_id="Sky Movies Showcase HD">Sky Movies Showcase HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="512" xmltv_id="Sky Movies Superheroes HD">Sky Movies Superheroes HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="257" xmltv_id="Sky News">Sky News</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="649" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="260" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="744" xmltv_id="Sky Sports 1 Interactive">Sky Sports 1 Interactive</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="261" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="416" xmltv_id="Sky Sports 2 HD">Sky Sports 2 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="745" xmltv_id="Sky Sports 2 Interactive">Sky Sports 2 Interactive</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="262" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="746" xmltv_id="Sky Sports 3 Interactive">Sky Sports 3 Interactive</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="264" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="646" xmltv_id="Sky Sports 4 HD">Sky Sports 4 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="860" xmltv_id="Sky Sports 4 Interactive">Sky Sports 4 Interactive</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="918" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="919" xmltv_id="Sky Sports 5 HD">Sky Sports 5 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="970" xmltv_id="Sky Sports Box Office">Sky Sports Box Office</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="971" xmltv_id="Sky Sports Box Office HD">Sky Sports Box Office HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="736" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="737" xmltv_id="Sky Sports F1 HD">Sky Sports F1 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="415" xmltv_id="Sky Sports HD1">Sky Sports HD1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="479" xmltv_id="Sky Sports HD3">Sky Sports HD3</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="263" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="666" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="837" xmltv_id="Sky1 +1">Sky1 +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="478" xmltv_id="Sky1 HD">Sky1 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="267" xmltv_id="Smash Hits!">Smash Hits!</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="712" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="711" xmltv_id="Sony Channel +1">Sony Channel +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="710" xmltv_id="Sony Entertainment TV Asia">Sony Entertainment TV Asia</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="742" xmltv_id="Sony Movie Channel">Sony Movie Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="743" xmltv_id="Sony Movie Channel +1">Sony Movie Channel +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="344" xmltv_id="Sony SAB">Sony SAB</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="964" xmltv_id="Spike">Spike</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="435" xmltv_id="Star Gold">Star Gold</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="872" xmltv_id="Star Jalsha">Star Jalsha</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="874" xmltv_id="Star Life OK">Star Life OK</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="346" xmltv_id="Star Plus">Star Plus</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="821" xmltv_id="Star Plus HD">Star Plus HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="944" xmltv_id="Starz TV">Starz TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="701" xmltv_id="STV +1">STV +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="178" xmltv_id="STV Central">STV Central</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="951" xmltv_id="STV Glasgow">STV Glasgow</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="654" xmltv_id="STV HD">STV HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="164" xmltv_id="STV North">STV North</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="166" xmltv_id="STV North+1">STV North+1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="167" xmltv_id="STV North+1">STV North+1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="238" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="411" xmltv_id="Syfy +1">Syfy +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="545" xmltv_id="Syfy HD">Syfy HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="979" xmltv_id="Talking Pictures">Talking Pictures</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="661" xmltv_id="TCM">TCM</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="447" xmltv_id="TCM +1">TCM +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="820" xmltv_id="TCM HD">TCM HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="348" xmltv_id="Television X">Television X</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="349" xmltv_id="TG4">TG4</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="835" xmltv_id="TG4 HD">TG4 HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="641" xmltv_id="The Active Channel">The Active Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="350" xmltv_id="The Adult Channel">The Adult Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="931" xmltv_id="The Africa Channel">The Africa Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="279" xmltv_id="The Box">The Box</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="966" xmltv_id="The Jewellery Channel">The Jewellery Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="928" xmltv_id="The Vault">The Vault</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="477" xmltv_id="Tiny Pop">Tiny Pop</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="619" xmltv_id="Tiny Pop +1">Tiny Pop +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="865" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="864" xmltv_id="TLC +1">TLC +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="866" xmltv_id="TLC HD">TLC HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="885" xmltv_id="TLC+2">TLC+2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="289" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="565" xmltv_id="Travel Channel +1">Travel Channel +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="453" xmltv_id="True Christmas">True Christmas</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="998" xmltv_id="True Crime">True Crime</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="861" xmltv_id="True Drama">True Drama</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="907" xmltv_id="True Entertainment +1">True Entertainment +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="993" xmltv_id="True Movies 1">True Movies 1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="499" xmltv_id="True Movies 2">True Movies 2</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="633" xmltv_id="TrueEntertainment">TrueEntertainment</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="923" xmltv_id="truTV">truTV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="927" xmltv_id="truTV +1">truTV +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="352" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="471" xmltv_id="TV3 (Spanish)">TV3 (Spanish)</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="353" xmltv_id="TV5">TV5</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="157" xmltv_id="Universal Channel">Universal Channel</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="599" xmltv_id="Universal Channel +1">Universal Channel +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="655" xmltv_id="Universal Channel HD">Universal Channel HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="179" xmltv_id="UTV">UTV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="698" xmltv_id="UTV +1">UTV +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="672" xmltv_id="UTV HD">UTV HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="962" xmltv_id="UTV Ireland">UTV Ireland</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="963" xmltv_id="UTV Ireland HD">UTV Ireland HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="324" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="997" xmltv_id="Viewers' Wives">Viewers' Wives</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="750" xmltv_id="Vijay">Vijay</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="705" xmltv_id="Vintage TV">Vintage TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="822" xmltv_id="Virgin Movies">Virgin Movies</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="286" xmltv_id="Viva">Viva</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="943" xmltv_id="Vox Africa">Vox Africa</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="511" xmltv_id="W">W</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="515" xmltv_id="W (+1)">W (+1)</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="726" xmltv_id="W HD">W HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="995" xmltv_id="Xtreme Filth">Xtreme Filth</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="320" xmltv_id="YESTERDAY">YESTERDAY</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="423" xmltv_id="YESTERDAY +1">YESTERDAY +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="991" xmltv_id="YourTV">YourTV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="992" xmltv_id="YourTV +1">YourTV +1</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="653" xmltv_id="Zee Cinema">Zee Cinema</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="359" xmltv_id="Zee TV">Zee TV</channel>
+    <channel update="i" site="m.tvguide.co.uk-full" site_id="886" xmltv_id="Zing">Zing</channel>
+  </channels>
+</site>
+
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" site="skysports.com">
+  <channels>
+    <channel update="i" site="skysports.com" site_id="1301" xmltv_id="Sky Sports Main Event">Sky Sports Main Event</channel>
+    <channel update="i" site="skysports.com" site_id="1303" xmltv_id="Sky Sports Premier League">Sky Sports Premier League</channel>
+    <channel update="i" site="skysports.com" site_id="3838" xmltv_id="Sky Sports Football">Sky Sports Football</channel>
+    <channel update="i" site="skysports.com" site_id="1302" xmltv_id="Sky Sports Cricket">Sky Sports Cricket</channel>
+    <channel update="i" site="skysports.com" site_id="1322" xmltv_id="Sky Sports Golf">Sky Sports Golf</channel>
+    <channel update="i" site="skysports.com" site_id="1354" xmltv_id="Sky Sports Racing">Sky Sports Racing</channel>
+    <channel update="i" site="skysports.com" site_id="1306" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel update="i" site="skysports.com" site_id="1333" xmltv_id="Sky Sports NFL">Sky Sports NFL</channel>
+    <channel update="i" site="skysports.com" site_id="3839" xmltv_id="Sky Sports Arena">Sky Sports Arena</channel>
+    <channel update="i" site="skysports.com" site_id="1314" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel update="i" site="skysports.com" site_id="4091" xmltv_id="Sky Sports Mix">Sky Sports Mix</channel>
+  </channels>
+</site>
