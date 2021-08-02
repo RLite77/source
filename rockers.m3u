@@ -1444,6 +1444,18 @@ https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/index.m3u8
 
 //USA
 #EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_US1.xml.gz"
+#EXTINF:-1 tvg-logo="" group-title="USA", US: A&E HD
+http://31.220.41.88:8081/live/us-ae.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L08vTxR/abc.png" group-title="USA", US: ABC
+http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0R0Yzw/amc.png" group-title="USA", US: AMC HD
+http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C76Rt9M/cbs.png" group-title="USA", US: CBS
+http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA", US: DAVE
+http://31.220.41.88:8081/live/dave.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA", US: Freeform hd
+http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BET.US" tvg-name="BET" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="USA",BET
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
