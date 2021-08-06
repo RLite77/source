@@ -10,29 +10,24 @@
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/vHqJMrW/tv2.png" group-title="Malaysia",TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3	
 https://raw.githubusercontent.com/RLite77/source/main/tv3.m3u8
 
-
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
 https://raw.githubusercontent.com/RLite77/source/main/tv3hd.m3u8
-
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/zSknYzS/tv6.png" group-title="Malaysia",TV6
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
 https://raw.githubusercontent.com/RLite77/source/main/tv7.m3u8
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Malaysia",8TV
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Malaysia",8TV
 https://raw.githubusercontent.com/RLite77/source/main/tv8.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/tBfGBqz/tv9.png" group-title="Malaysia",TV9
@@ -40,13 +35,13 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/tBfGBqz/tv9.png" group-title="Malaysia",TV9
 https://raw.githubusercontent.com/RLite77/source/main/tv9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/KFFhB4V/drama-sgt.png" group-title="Malaysia",Drama Sangat
-http://185.180.221.194:8278/streams/d/Dsangat/playlist.m3u8
+https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0g2Nr5Z0A-hdCj0pt6-yBiY)/dm/3/x6zvnex/s/live-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/KFFhB4V/drama-sgt.png" group-title="Malaysia",Drama Sangat
 https://raw.githubusercontent.com/RLite77/source/main/DS.m3u8
 #EXTINF:-1 tvg-ID="BERITA RTM" tvg-logo="https://i.ibb.co/VgnPjnw/berita-rtm.png" group-title="Malaysia",Berita RTM 
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/L9kMV9V/sukan-RTM.png" group-title="Malaysia",Sukan RTM
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/L9kMV9V/sukan-RTM.png" group-title="Malaysia",Sukan RTM
 https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/YRshqHz/okey.png" group-title="Malaysia",TV Okey
@@ -55,7 +50,7 @@ https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.m3u8|referer=https://
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/YRshqHz/okey.png" group-title="Malaysia",TV Okey
 https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
 #EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="Naura HD" tvg-logo="https://i.ibb.co/CWj35Kt/a-naura.png" group-title="Malaysia",Naura HD
-http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello HD" tvg-logo="https://i.ibb.co/5RPVB4T/hello.png" group-title="Malaysia",Hello HD
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-id="go.shop.111.my" group-title="Malaysia" tvg-logo="https://i.ibb.co/d0g5fjt/go-shop.png",Go Shop 111
@@ -74,11 +69,11 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria HD" tvg-logo="https://i.ibb.co/CHkSRCM/a-ceria.png" group-title="Malaysia",Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima HD" tvg-logo="https://i.ibb.co/6FK3ccs/a-prima.png" group-title="Malaysia",Astro Prima HD
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/QJgk34M/a-ris.png" group-title="Malaysia",Astro Ria HD 
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria HD" tvg-logo="https://i.ibb.co/QJgk34M/a-ris.png" group-title="Malaysia",Astro Ria HD 
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" tvg-logo="https://i.ibb.co/SR3xTpX/a-warna.png" group-title="Malaysia",Astro Warna HD 
 http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb181482
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna HD" tvg-logo="https://i.ibb.co/SR3xTpX/a-warna.png" group-title="Malaysia",Astro Warna HD 
@@ -97,85 +92,67 @@ https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
 //Astro
 #EXTINF:-1 tvg-ID="tv1.my" tvg-logo="https://i.ibb.co/9T1fWWx/tv1.png" group-title="Astro",TV1 HD
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-ID="tv1.my" tvg-logo="https://i.ibb.co/9T1fWWx/tv1.png" group-title="Astro",TV1 HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-ID="tv2.my" tvg-logo="https://i.ibb.co/vHqJMrW/tv2.png" group-title="Astro",TV2
-http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="tv2.my" tvg-logo="https://i.ibb.co/vHqJMrW/tv2.png" group-title="Astro",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" tvg-chno="3" channel-id="3" group-title="Astro",TV3
-http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" tvg-chno="3" channel-id="3" group-title="Astro",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-ID="ntv7.my" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Astro",NTV7
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="ntv7.my" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Astro",NTV7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1 tvg-ID="8tv.my" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Astro",8TV
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="8tv.my" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Astro",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-ID="tv9.my" tvg-logo="https://i.ibb.co/tBfGBqz/tv9.png" group-title="Astro",TV9
-http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="tv9.my" tvg-logo="https://i.ibb.co/tBfGBqz/tv9.png" group-title="Astro",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P9zsYjD/al-hijrah.png" group-title="Astro",Al-Hijrah
-http://185.180.221.194:8278/streams/d/Alhijrah/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P9zsYjD/al-hijrah.png" group-title="Astro",Al-Hijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d0g5fjt/go-shop.png" group-title="Astro",Go Shop GAAYA
-http://185.180.221.194:8278/streams/d/Goshop2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0g5fjt/go-shop.png" group-title="Astro",Go Shop GAAYA
 http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5RPVB4T/hello.png" group-title="Astro",Hello HD
-http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RPVB4T/hello.png" group-title="Astro",Hello HD
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CWj35Kt/a-naura.png" group-title="Astro",Naura HD
-http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CWj35Kt/a-naura.png" group-title="Astro",Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xCZzwk6/a-awani.png" group-title="Astro",Astro Awani
-http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCZzwk6/a-awani.png" group-title="Astro",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yRDTjm5/bernama.png" group-title="Astro",BERNAMA
-http://185.180.221.194:8278/streams/d/Bernama/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRDTjm5/bernama.png" group-title="Astro",BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whY7nYZ/boo.png" group-title="Astro",BOO HD
-http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whY7nYZ/boo.png" group-title="Astro",BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/47zGYyP/a-citra.png" group-title="Astro",Astro Citra HD
-http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/47zGYyP/a-citra.png" group-title="Astro",Astro Citra HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJgk34M/a-ris.png" group-title="Astro",Astro Ria HD
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1gwR8c/a-oasis.png" group-title="Astro",Astro Oasis HD
-http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1gwR8c/a-oasis.png" group-title="Astro",Astro Oasis HD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6FK3ccs/a-prima.png" group-title="Astro",Astro Prima HD
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FK3ccs/a-prima.png" group-title="Astro",Astro Prima HD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SR3xTpX/a-warna.png" group-title="Astro",Astro Warna HD
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CHkSRCM/a-ceria.png" group-title="Astro",Astro Ceria HD
-http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb181482
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHkSRCM/a-ceria.png" group-title="Astro",Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cCdpgL9/animax.png" group-title="Astro",Animax
-http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QkTjqFq/hbo.png" group-title="Astro",HBO HD
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Animax/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QkTjqFq/hbo.png" group-title="Astro",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KmRGMJg/hbo-hits.png" group-title="Astro",HBO Hits HD
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT0Zcp3/FOX-ASIA.png" group-title="Astro",Fox HD
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d46ZD34/fox-movies.png" group-title="Astro",FOX Movies HD
@@ -209,18 +186,18 @@ http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RcNKffr/bein-asia-2.png" group-title="Astro",beIN SPORTS 2 HD
 http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-1.png" group-title="Astro",FOX Sports HD
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-2.png" group-title="Astro",FOX Sports 2 HD
-http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-3.png" group-title="Astro",FOX Sports 3 HD
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WVcDVn6/hgtv.png" group-title="Astro",HGTV HD
-http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WVcDVn6/hgtv.png" group-title="Astro",HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QNyFPwb/animal-planet.png" group-title="Astro",Animal Planet HD
-http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QNyFPwb/animal-planet.png" group-title="Astro",Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6ScVhB/nat-geo.png" group-title="Astro",National Geographic HD
@@ -228,52 +205,52 @@ http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBV4QS7/nat-geo-people.png" group-title="Astro",Nat Geo People HD
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/txzCp0s/nat-geo-wild.png" group-title="Astro",Nat Geo Wild HD
-http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/txzCp0s/nat-geo-wild.png" group-title="Astro",Nat Geo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S6wxqTD/ccm.png" group-title="Astro",Celestial Classic Movies
-http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S6wxqTD/ccm.png" group-title="Astro",Celestial Classic Movies
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZKT8Jjq/celestial-mov.png" group-title="Astro",Celestial Movies HD
-http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZKT8Jjq/celestial-mov.png" group-title="Astro",Celestial Movies HD
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKXmpGd/ohk.png" group-title="Astro",Oh!K HD
-http://185.180.221.194:8278/streams/d/Ohk/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKXmpGd/ohk.png" group-title="Astro",Oh!K HD
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DrF0MJC/tvn-movies.png" group-title="Astro",tvN Movies HD
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W2WL5yF/kbs-world.png" group-title="Astro",KBS World HD
-http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W2WL5yF/kbs-world.png" group-title="Astro",KBS World HD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dtDnW7R/astro-AOD.png" group-title="Astro",Astro AOD HD 311
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VCp042/tvb-classic.png" group-title="Astro",TVB Classic HD
-http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VCp042/tvb-classic.png" group-title="Astro",TVB Classic HD
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mDcCsr2/TVB-Jade.png" group-title="Astro",TVB Jade
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mDcCsr2/TVB-Jade.png" group-title="Astro",TVB Jade
 http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4SpR5Ky/astro-xty.png" group-title="Astro",Astro Xiao Tai Yang HD
-http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4SpR5Ky/astro-xty.png" group-title="Astro",Astro Xiao Tai Yang HD
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c6rv697/astro-huahee-dai.png" group-title="Astro",Astro Hua Hee Dai HD
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c6rv697/astro-huahee-dai.png" group-title="Astro",Astro Hua Hee Dai HD
 http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c6rv697/astro-huahee-dai.png" group-title="Astro",Astro Hua Hee Dai HD
-http://185.180.221.194:8278/streams/d/Astro Hua Hee Dai HD/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sH5YpG/a-quanjia.png" group-title="Astro",Astro Quan Jia HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbmcWJt/astro-shx.png" group-title="Astro",Astro Shuang Xing HD
-http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbmcWJt/astro-shx.png" group-title="Astro",Astro Shuang Xing HD
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
@@ -281,23 +258,23 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 //Movies
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.ibb.co/GT0Zcp3/FOX-ASIA.png" group-title="Movies",FOX HD
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX" tvg-logo="https://i.ibb.co/GT0Zcp3/FOX-ASIA.png" group-title="Movies",FOX VN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/chunks.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="axn.vn" tvg-name="AXN VN" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Movies",AXN VN
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Movies",AXN HD
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+
 #EXTINF:-1 tvg-id="" tvg-name="AXN.id" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Movies",AXN ID
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-id="warner.th" tvg-name="Warner TV TH" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV TH
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="warner.th" tvg-name="Warner TV TH" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV TH
-#https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV HD
-http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/79
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV VN
