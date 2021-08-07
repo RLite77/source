@@ -2,6 +2,45 @@
 #EXTM3U x-tvg-url="http://iptv.tvmalaysia.cc/xmltv.php?username=penang172&password=penang172"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 
+
+//MALAYSIA
+#EXTINF:-1 tvg-ID="tv1.my" tvg-logo="https://i.ibb.co/9T1fWWx/tv1.png" group-title="Malaysia",TV1
+http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+#EXTINF:-1 tvg-ID="tv2.my" tvg-logo="https://i.ibb.co/vHqJMrW/tv2.png" group-title="Malaysia",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
+http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+#EXTINF:-1 tvg-ID="ntv7.my" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
+http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+#EXTINF:-1 tvg-ID="8tv.my" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Malaysia",8TV
+http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8 
+#EXTINF:-1 tvg-ID="tv9.my" tvg-logo="https://i.ibb.co/tBfGBqz/tv9.png" group-title="Malaysia",TV9
+http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KFFhB4V/drama-sgt.png" group-title="Malaysia",Drama Sangat
+http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RPVB4T/hello.png" group-title="Malaysia",Astro Hello
+http://50.7.161.82:8278/streams/d/hello_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CWj35Kt/a-naura.png" group-title="Malaysia",Astro Naura
+http://50.7.161.82:8278/streams/d/naura_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P9zsYjD/al-hijrah.png" group-title="Malaysia",AlHijrah
+http://50.7.161.82:8278/streams/d/alhijrah_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xCZzwk6/a-awani.png" group-title="Malaysia",Astro Awani
+http://50.7.161.82:8278/streams/d/awani_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FK3ccs/a-prima.png" group-title="Malaysia",Astro Prima
+http://50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJgk34M/a-ris.png" group-title="Malaysia",Astro Ria
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dtDnW7R/astro-AOD.png" group-title="Malaysia",Astro AOD
+http://50.7.161.82:8278/streams/d/aod_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8Q6NM1/astro-qiyi.png" group-title="Malaysia",iQiyi
+http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4SpR5Ky/astro-xty.png" group-title="Malaysia",Astro Xiao Tai Yang
+http://50.7.161.82:8278/streams/d/xiaotaiyang_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKXmpGd/ohk.png" group-title="Malaysia",Oh!K HD
+http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
+
+
+//SINGAPORE
 #EXTINF:-1 tvg-id="Channel8" group-title="Singapore" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
@@ -346,6 +385,11 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png" group-title="Sports",FOX Sports 2
 #https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-1.png" group-title="Sports",FOX Sports 1
+http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJzkZHP/fox-sp-2.png" group-title="Sports",FOX Sports 2
+http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-logo="https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png" group-title="Sports",FOX Sports 3
