@@ -138,7 +138,7 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8fJTSwn/400x400-3hbo-signature.jpg" group-title="Movies",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd
+#https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd
 
 #EXTINF:-1 tvg-logo="https://s26.postimg.cc/67sagi4nd/400x400_15fox_movies.jpg" group-title="Movies",FOX Movies Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
