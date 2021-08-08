@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/RLite77/source/main/tv3.m3u8
 https://raw.githubusercontent.com/RLite77/source/main/tv3hd.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/zSknYzS/tv6.png" group-title="Malaysia",TV6
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
