@@ -606,6 +606,12 @@ http://212.224.98.208:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=RED?h
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zf2mjJ8/bt-espn.png" group-title="Sports",BT SPORT ESPN
 http://212.224.98.208:2200/EX/BT_Sport_ESPN_HD-uk/tracks-v1a1/mono.m3u8?token=RED?hubtvapp.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3j8dNz/lfc-tv.png" group-title="Sports",LFC TV
+http://mcktv.xyz:8080/jamesjudge2/32gardenave/197
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3j8dNz/lfc-tv.png" group-title="Sports",LFC TV
+https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9qdGRP/mutv.png" group-title="Sports",MU TV
+https://www.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="espn1.us" tvg-logo="https://i.ibb.co/BnCkSGf/espn.png" group-title="Sports",ESPN
 http://85.203.33.88:80/XYOsknnjHBZ392/UfM14DRnTfUD91/9023
 #EXTINF:-1 tvg-id="espn1.us" tvg-logo="https://i.ibb.co/BnCkSGf/espn.png" group-title="Sports",ESPN
