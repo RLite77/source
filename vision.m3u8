@@ -5,7 +5,8 @@
 
 //MALAYSIA
 #EXTINF:-1 tvg-ID="tv1.my" tvg-logo="https://i.ibb.co/9T1fWWx/tv1.png" group-title="Malaysia",TV1
-http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|referer=https://myklikstatic.secureswiftcontent.com/live.php?ch=1
+#http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
 #EXTINF:-1 tvg-ID="tv2.my" tvg-logo="https://i.ibb.co/vHqJMrW/tv2.png" group-title="Malaysia",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
