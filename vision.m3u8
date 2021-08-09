@@ -11,6 +11,8 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|r
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/zSknYzS/tv6.png" group-title="Malaysia",TV6
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|referer=https://myklikstatic.secureswiftcontent.com/live.php?ch=6
 #EXTINF:-1 tvg-ID="ntv7.my" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
 http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 #EXTINF:-1 tvg-ID="8tv.my" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Malaysia",8TV
@@ -19,6 +21,12 @@ http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KFFhB4V/drama-sgt.png" group-title="Malaysia",Drama Sangat
 http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8
+#EXTINF:-1 tvg-ID="BERITA RTM" tvg-logo="https://i.ibb.co/VgnPjnw/berita-rtm.png" group-title="Malaysia",Berita RTM 
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|referer=https://myklikstatic.secureswiftcontent.com/live.php?ch=5
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/YRshqHz/okey.png" group-title="Malaysia",TV Okey
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.m3u8|referer=https://myklikstatic.secureswiftcontent.com/live.php?ch=3
+#EXTINF:-1 tvg-id="RTM Sports" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/L9kMV9V/sukan-RTM.png" group-title="Malaysia",Sukan RTM
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02_720.m3u8|referer=https://myklikstatic.secureswiftcontent.com/live.php?ch=4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RPVB4T/hello.png" group-title="Malaysia",Astro Hello
 http://50.7.161.82:8278/streams/d/hello_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CWj35Kt/a-naura.png" group-title="Malaysia",Astro Naura
