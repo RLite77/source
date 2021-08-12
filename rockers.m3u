@@ -219,7 +219,7 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 //Movies
 #EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX" tvg-logo="https://i.ibb.co/GT0Zcp3/FOX-ASIA.png" group-title="Movies",FOX VN
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX" tvg-logo="https://i.ibb.co/GT0Zcp3/FOX-ASIA.png" group-title="Movies",AXN TH
+#EXTINF:-1 tvg-id="axn.th" tvg-name="AXN TH" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Movies",AXN TH
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="axn.vn" tvg-name="AXN VN" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Movies",AXN VN
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
