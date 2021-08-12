@@ -219,15 +219,14 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 //Movies
 #EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX" tvg-logo="https://i.ibb.co/GT0Zcp3/FOX-ASIA.png" group-title="Movies",FOX VN
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX" tvg-logo="https://i.ibb.co/GT0Zcp3/FOX-ASIA.png" group-title="Movies",AXN TH
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="axn.vn" tvg-name="AXN VN" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Movies",AXN VN
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="AXN.id" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Movies",AXN ID
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="warner.th" tvg-name="Warner TV TH" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV TH
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="warner.th" tvg-name="Warner TV TH" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV TH
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/79
 #EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV VN
@@ -243,8 +242,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="&prive.in" tvg-name="&Prive" tvg-logo="https://i.ibb.co/VNQKYMM/prive.png" group-title="Movies",&Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX" tvg-logo="https://i.ibb.co/vJf3v5X/sony-pix.png" group-title="Movies",SONY PIX
-#http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2abaccf665cea2a8b27f47525d555cfcf4f6a89c54f39dfadd61248f84db4f0f33ce7ffb285c725ac82fb695731e8c178a80874ef978bf9954d2463ae85776d5a3016c96f961438f6665a521804afde21d9fd2187f&mac=00:1A:79:32:15:A7&ip=118.101.224.193&magic_server=MAIN_MP
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/87221
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2abaccf665cea2a8b27f47525d555cfcf4f6a89c54f39dfadd61248f84db4f0f33ce7ffb285c725ac82fb695731e8c178a80874ef978bf9954d2463ae85776d5a3016c96f961438f6665a521804afde21d9fd2187f&mac=00:1A:79:32:15:A7&ip=118.101.224.193&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX" tvg-logo="https://i.ibb.co/vJf3v5X/sony-pix.png" group-title="Movies",SONY PIX
 http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44995
 #EXTINF:-1 tvg-id="Cinema world" tvg-name="Cinema world" tvg-logo="https://i.ibb.co/mJkNywB/cinemaworld.png" group-title="Movies",Cinema world
@@ -1697,6 +1695,299 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Indonesia 2" tvg-logo="https://i.imgur.com/wIh3qZo.png",TVRI Sumatra Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
+
+
+//Vietnam
+#EXTM3U FPTPlay url-tvg="http://gg.gg/epgmytv"
+
+#EXTINF:-1 group-title="Vietnam",VTV7 HD
+https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",VTV8 HD
+https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",VTV9 HD
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",HTV1
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",HTV2-Vie Channel
+https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",HTV3
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",HTV Key
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",HTVC Phim HD
+https://livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",HTVC Thuần Việt HD
+https://livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",HTVC Ca Nhạc
+https://livecdn.fptplay.net/sdb/htvcmusic_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",HTVC+
+https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",HTV Co.op
+https://livecdn.fptplay.net/sda/htvcoop_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",FBNC HD
+https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",Blue Ant Entertainment HD
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",Blue Ant Extreme HD
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",KIX HD
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",Channel V HD
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",Asian Food Network HD
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",Da Vinci HD
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",NHK World Japan HD
+https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",DW (English)
+https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",Arirang Korea
+https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",CNA
+https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",France 24 English
+https://livecdn.fptplay.net/world/france24_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",TV5 MONDE ASIE
+https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",NGC HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",Outdoor Channel HD
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://vthanh.live/ic/187.png",FOX Movies HD
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://vthanh.live/ic/188.png",FOX Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://vthanh.live/ic/189.png",FOX Sports HD
+https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://vthanh.live/ic/190.png",FOX Sports 2 HD
+https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam" tvg-logo="http://vthanh.live/ic/191.png",FOX Sports 3 HD
+https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",Animax HD
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",Boomerang
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",Baby First
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",BBC Cbeebies HD
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BBC Earth HD
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",Discovery Channel HD
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",Discovery Asia HD
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",Animal Planet HD
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",TLC HD
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",THVL2 HD (Vĩnh Long)
+https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC1 HD
+https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC2
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC4 HD
+https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC5
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC6
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC7-Today TV
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC8
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC10
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC11
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC12-VTCK
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC13 HD
+https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC14 HD
+https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VTC16 HD
+https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VOV TV
+https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",H1 (Hà Nội)
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",H2 HD (Hà Nội)
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BTV9-An Viên HD (Bình Dương)
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BTV10-NCM (Bình Dương)
+https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BTV11-TOP Homeshopping (Bình Dương)
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",Quốc Hội HD
+https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",QPVN HD
+https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",ANTV HD
+https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",TTXVN-VNEWS HD
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",Nhân Dân TV HD
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",ATV (An Giang)
+https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BRT HD (Bà Rịa-Vũng Tàu)
+https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BGTV HD (Bắc Giang)
+https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BLTV HD (Bạc Liêu)
+https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BTV HD (Bắc Ninh)
+https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",THBT (Bến Tre)
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BTV (Bình Định)
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BTV6 (Bình Dương)
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BPTV1 (Bình Phước)
+https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BPTV2-Home TV (Bình Phước)
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",BTV (Bình Thuận)
+https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",CTV HD (Cà Mau)
+https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",THTPCT (TP. Cần Thơ)
+https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",CRTV (Cao Bằng)
+https://livecdn.fptplay.net/sda/caobang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",DaNang TV1 HD (Đà Nẵng)
+https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",DaNang TV2 HD (Đà Nẵng)
+https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",DRT (Đắk Lắk)
+https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",ĐTV (Điện Biên)
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",ĐNRTV1 HD (Đồng Nai)
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",ĐNRTV2 HD (Đồng Nai)
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",THĐT1 (Đồng Tháp)
+https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",THGL (Gia Lai)
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",HGTV (Hà Giang)
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",THHN (Hà Nam)
+https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",HTTV (Hà Tĩnh)
+https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",THD (Hải Dương)
+https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",THP HD (Hải Phòng)
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",HGTV (Hậu Giang)
+https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",HBTV (Hòa Bình)
+https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",HY (Hưng Yên)
+https://livecdn.fptplay.net/sdc/hungyen_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",KTV HD (Khánh Hòa)
+https://livecdn.fptplay.net/sda/khanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",KG1 (Kiên Giang)
+https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",KRT (Kon Tum)
+https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",LTV (Lâm Đồng)
+https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",LTV (Lai Châu)
+https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",LSTV (Lạng Sơn)
+https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",THLC (Lào Cai)
+https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",LA34 (Long An)
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",NTV (Nam Định)
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",NTV (Nghệ An)
+https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",NTV (Ninh Bình)
+https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",NTV (Ninh Thuận)
+https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",PTV HD (Phú Thọ)
+https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",PTP HD (Phú Yên)
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",QBTV (Quảng Bình)
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",QRT (Quảng Nam)
+https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",PTQ HD (Quảng Ngãi)
+https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",QTV1 (Quảng Ninh)
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",QTV3 (Quảng Ninh)
+https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",QRTV (Quảng Trị)
+https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",STV1 (Sóc Trăng)
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",STV (Sơn La)
+https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",TTV11 HD (Tây Ninh)
+https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",TBTV (Thái Bình)
+https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",TN1 HD (Thái Nguyên)
+https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",TTV (Thanh Hóa)
+https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",TRT (Thừa Thiên Huế)
+https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",THTG (Tiền Giang)
+https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",THTV HD (Trà Vinh)
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",TTV HD (Tuyên Quang)
+https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",VP (Vĩnh Phúc)
+https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam",YTV (Yên Bái)
+https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",AFC Cup 1
+http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",AFC Cup 2
+http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",AFC Cup 3
+http://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",AFC Cup 4
+http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",AFC Cup 5
+http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",AFC Cup 6
+http://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",AFC Cup 7
+http://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",AFC Cup 8
+http://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",AFC Cup 9
+http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",AFC Cup 10
+http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",eSports
+http://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
+
+
 
 
 //India
