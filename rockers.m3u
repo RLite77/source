@@ -345,9 +345,9 @@ http://stream.tvtap.live:8081/live/us-cinemaxaction.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/us-cinemax-thrillermax.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Epix.us" tvg-name="Epix East US" tvg-logo="https://i.ibb.co/fxSWkNC/epix.png" group-title="Movies",US: Epix East HD
-https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+http://bestsave.ltd:8011/1020304050/5040302010/81102
 #EXTINF:-1 tvg-id="EPIX2.us" tvg-name="Epix 2 East US" tvg-logo="https://i.ibb.co/wrLcbv6/epix2.png" group-title="Movies",US: Epix 2 East HD
-https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+http://bestsave.ltd:8011/1020304050/5040302010/81101
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Movies" tvg-logo="https://i.ibb.co/PtbbFkP/action-movies.png" group-title="Movies",24/7 Movies
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&IASHttpSessionId=OTT841620200412213924091774
@@ -709,11 +709,11 @@ https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8|user-agent=Mozilla/5.
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fox.sports.th" tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-1.png" group-title="Sports",FOX Sports HD
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="fox.sports.2.th" tvg-logo="https://i.ibb.co/FJzkZHP/fox-sp-2.png" group-title="Sports",FOX Sports 2 HD
-http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="fox.sports.3.th" tvg-logo="https://i.ibb.co/MZYmLQs/fox-sp-3.png" group-title="Sports",FOX Sports 3 HD
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/foxsports3_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fox.sports.th" tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-1.png",Fox Sports 1 TH
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
@@ -748,13 +748,13 @@ http://93.190.139.35:8278/streams/d/beethree/playlist.m3u8
 http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PwLQGLx/bt-1.png" group-title="Sports",BT SPORT HD1
-http://212.224.98.208:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=RED?hubtvapp.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4J81bCd/bt-2.png" group-title="Sports",BT SPORT HD2
-http://212.224.98.208:2200/EX/BT_Sport_2_HD-uk/tracks-v1a1/mono.m3u8?token=RED?hubtvapp.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fHcrB4k/bt-3.png" group-title="Sports",BT SPORT HD3
-http://212.224.98.208:2200/EX/BT_Sport_3_HD-uk/tracks-v1a1/mono.m3u8?token=RED?hubtvapp.m3u8
+http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zf2mjJ8/bt-espn.png" group-title="Sports",BT SPORT ESPN
-http://212.224.98.208:2200/EX/BT_Sport_ESPN_HD-uk/tracks-v1a1/mono.m3u8?token=RED?hubtvapp.m3u8
+http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3j8dNz/lfc-tv.png" group-title="Sports",LFC TV
 http://mcktv.xyz:8080/jamesjudge2/32gardenave/197
@@ -762,22 +762,19 @@ http://mcktv.xyz:8080/jamesjudge2/32gardenave/197
 https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9qdGRP/mutv.png" group-title="Sports",MU TV
 https://www.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="espn1.us" tvg-logo="https://i.ibb.co/BnCkSGf/espn.png" group-title="Sports",ESPN
-http://85.203.33.88:80/XYOsknnjHBZ392/UfM14DRnTfUD91/9023
-#EXTINF:-1 tvg-id="espn1.us" tvg-logo="https://i.ibb.co/BnCkSGf/espn.png" group-title="Sports",ESPN
-http://stream2.grandma.fit/fs2.m3u8
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="espn2.us" tvg-logo="https://i.ibb.co/T12dx25/espn-2.png" group-title="Sports",ESPN 2
-http://164.68.124.111/espn2.m3u8
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="espnu.us" tvg-logo="https://i.ibb.co/PFYyfRX/ESPN-U.png" group-title="Sports",ESPN U
 http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="espnacc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png" group-title="Sports",ESPN ACC
-https://gma2.blab.email/acc.m3u8
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/29664
 #EXTINF:-1 tvg-id="espnsec.us" tvg-logo="https://i.ibb.co/hBcw4SS/sec.png" group-title="Sports",ESPN SEC
 https://gma2.blab.email/sec.m3u8
 #EXTINF:-1 tvg-id="big.ten.network.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/360px-Big_Ten_Network_Logo.svg.png" group-title="Sports",Big Ten Network
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/330px-FOX_Deportes_logo.svg.png" group-title="Sports",FOX DEPORTES HD
-
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/2279
 #EXTINF:-1 tvg-id="fs1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1
 http://stream.tvtap.live:8081/live/foxsports1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="fs2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/300px-FS2_logo_2015.svg.png" group-title="Sports",FS2
