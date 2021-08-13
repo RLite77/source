@@ -43,12 +43,17 @@ https://raw.githubusercontent.com/RLite77/source/main/DS.m3u8
 #EXTINF:-1 tvg-ID="BERITA RTM" tvg-logo="https://i.ibb.co/VgnPjnw/berita-rtm.png" group-title="Malaysia",Berita RTM 
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/L9kMV9V/sukan-RTM.png" group-title="Malaysia",Sukan RTM
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#EXTINF:-1 tvg-id="RTM Sports" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/L9kMV9V/sukan-RTM.png" group-title="Malaysia",Sukan RTM
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8|referer=https://rtmklik.rtm.gov.my
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/YRshqHz/okey.png" group-title="Malaysia",TV Okey
-https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
-#https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/YRshqHz/okey.png" group-title="Malaysia",TV Okey
-https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8|referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-id="RTM Parlimen Rakyat" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/JpV54L2/bbc-parlimen.png" group-title="Malaysia",Parlimen Dewan Rakyat
+https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b4064000.m3u8
+#EXTINF:-1 tvg-id="RTM Parlimen Negara" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/JpV54L2/bbc-parlimen.png" group-title="Malaysia",Parlimen Dewan Negara
+https://parlimennegara.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b4064000.m3u8
 #EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="Naura HD" tvg-logo="https://i.ibb.co/CWj35Kt/a-naura.png" group-title="Malaysia",Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello HD" tvg-logo="https://i.ibb.co/5RPVB4T/hello.png" group-title="Malaysia",Hello HD
