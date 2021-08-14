@@ -858,188 +858,89 @@ http://93.157.62.180/Supersport6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sports", Super Sports 7
 http://93.157.62.180/Supersport7/index.m3u8
 
-//Sports 2
-#EXTM3U
-#EXTINF:-1 group-title="Sports 2" ,LiveSport 1
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/106
-#EXTINF:-1 group-title="Sports 2" ,LiveSport 2
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/107
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114",Arena Sport 1 ᴴᴰ⁺ *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/1
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114" ,Arena Sport 2 ᴴᴰ⁺ *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/2
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114" ,Arena Sport 3 ᴴᴰ⁺ *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/3
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114" ,Arena Sport 4 ᴴᴰ⁺ *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114" ,Arena Sport 5 ᴴᴰ⁺ *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/20
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114" ,Arena Sport 6 ᴴᴰ⁺ *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/31
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114" ,Arena Sport 1 ᴴᴰ⁺ *SR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/22
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114" ,Arena Sport 2 ᴴᴰ⁺ *SR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/23
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114",Arena Sport 3 ᴴᴰ⁺ *SR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/24
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114",Arena Sport 4 ᴴᴰ⁺ *SR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/78
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114",Arena Sport 5 ᴴᴰ⁺ *SR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/79
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Arena-sport.jpg/revision/latest/scale-to-width-down/300?cb=20191123171114",Arena Sport 1 ᴴᴰ⁺ *BiH
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/342
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub ᴴᴰ⁺
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/46
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 1 ᴴᴰ⁺
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/4
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 2 ᴴᴰ⁺
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/159
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 3 ᴴᴰ⁺
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/6
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 4
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/9
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 5
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/10
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 7
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/101
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub 9
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/103
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",Sport Klub Start *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/108
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://img.favpng.com/11/0/19/planet-sport-logo-sports-font-brand-png-favpng-DET3GPg4yMQCVA1y5Sk8HecB8.jpg",Planet Sport 1 ᴴᴰ⁺
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/14
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://img.favpng.com/11/0/19/planet-sport-logo-sports-font-brand-png-favpng-DET3GPg4yMQCVA1y5Sk8HecB8.jpg",Planet Sport 2 ᴴᴰ⁺
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/15
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://img.favpng.com/11/0/19/planet-sport-logo-sports-font-brand-png-favpng-DET3GPg4yMQCVA1y5Sk8HecB8.jpg",Planet Sport 3 ᴴᴰ⁺
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/80
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://img.favpng.com/11/0/19/planet-sport-logo-sports-font-brand-png-favpng-DET3GPg4yMQCVA1y5Sk8HecB8.jpg",Planet Sport 4 ᴴᴰ⁺
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/81
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://img.favpng.com/11/0/19/planet-sport-logo-sports-font-brand-png-favpng-DET3GPg4yMQCVA1y5Sk8HecB8.jpg",Planet Sport 5 ᴴᴰ⁺
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/82
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s400/Digi+Sport+logo+2012.jpg",Digi Sport 1 ᴴᴰ⁺ *RO
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/12
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s400/Digi+Sport+logo+2012.jpg",Digi Sport 2 ᴴᴰ⁺ *RO
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/18
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s400/Digi+Sport+logo+2012.jpg",Digi Sport 3 ᴴᴰ⁺ *RO
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/19
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://4.bp.blogspot.com/-9I_UaO0O0MQ/ULNNf0fMx_I/AAAAAAAAQjQ/BU6lHZX6Cb0/s400/Digi+Sport+logo+2012.jpg",Digi Sport 4 ᴴᴰ⁺ *RO
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/21
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(webp):focal(1161x775:1163x773)/origin-imgresizer.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg",EuroSport 1 *SR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/26
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(webp):focal(1161x775:1163x773)/origin-imgresizer.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg",EuroSport 2 *SR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/27
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hrt-1-logo-png-transparent.png",HRT 1 ᴴᴰ⁺ *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/29
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hrt-1-logo-png-transparent.png",HRT 2 ᴴᴰ⁺ *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/30
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RTL_Logo_ab_dem_1._September_2017.png/1200px-RTL_Logo_ab_dem_1._September_2017.png",RTL *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/35
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png",NOVA ᴴᴰ⁺ *HR
-http://84.22.107.232:8081/Cor-Net/Nova-HR-ᴴᴰ⁺/mpeg.2ts
-#EXTINF:-1 group-title="Sports 2" ,DOMA TV *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/105
-#EXTINF:-1 group-title="Sports 2" ,Sportska TV *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/72
-#EXTINF:-1 group-title="Sports 2" ,HNTV *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/17
-#EXTINF:-1 group-title="Sports 2" ,Fight Channel *HR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/47
-#EXTINF:-1 group-title="Sports 2" ,BHT 1 *BiH
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/65
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png",NOVA *BiH
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/74
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png",NOVA Sport *BiH
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/83
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",RTS 1 *SR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png",NOVA TV *SR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/71
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png",Sky Sport News ᴴᴰ⁺ *DE
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/132
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png",DAZN 1 Bar ᴴᴰ⁺ *DE
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/76
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png",DAZN 2 Bar ᴴᴰ⁺ *DE
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/77
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Sky_Sport_Austria_Logo_2016.png",Sky Sport Austria ᴴᴰ⁺ *DE
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/131
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Sky_Sport_Austria_Logo_2016.png",Sky Sport Austria 1 ᴴᴰ⁺ *DE
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/349
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Sky_Sport_Austria_Logo_2016.png",Sky Sport Austria 2 ᴴᴰ⁺ *DE
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/350
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Sky_Sport_Austria_Logo_2016.png",Sky Sport Austria 3 ᴴᴰ⁺ *DE
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/351
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Sky_Sport_Austria_Logo_2016.png",Sky Sport Austria 4 ᴴᴰ⁺ *DE
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/352
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sport 1 ᴴᴰ⁺ *DE
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/133
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sport 2 ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/134
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sport 3 ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/135
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sport 4 ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/136
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sport 5 ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/137
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sport 6 ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/138
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sport 7 ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/139
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sport 8 ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/140
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png",Sky Sport 1 Bundesliga ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/141
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png",Sky Sport 2 Bundesliga ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/142
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png",Sky Sport 3 Bundesliga ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/143
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png",Sky Sport 4 Bundesliga ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/144
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png",Sky Sport 5 Bundesliga ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/145
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png",Sky Sport 6 Bundesliga ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/146
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png",Sky Sport 7 Bundesliga ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/147
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png",Sky Sport 8 Bundesliga ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/148
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png",Sky Sport 9 Bundesliga ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/149
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sport_Bundesliga_Logo_2016.png/1200px-Sky_Sport_Bundesliga_Logo_2016.png",Sky Sport X Bundesliga ᴴᴰ⁺ *DE *ONLY ON WEEKENDS*
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/150
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(webp):focal(1161x775:1163x773)/origin-imgresizer.eurosport.com/2015/11/12/1731141-36621046-2560-1440.jpg",EuroSport 2 XTRA ᴴᴰ⁺ *DE
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/28
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TRT_Spor_logo.svg/2560px-TRT_Spor_logo.svg.png",TRT SPOR Fᴴᴰ⁺ *TR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/112
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tivibu-spor-648.png",Tivibu Spor 1 Fᴴᴰ⁺ *TR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/109
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tivibu-spor-648.png",Tivibu Spor 2 Fᴴᴰ⁺ *TR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/110
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tivibu-spor-648.png",Tivibu Spor 3 *TR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/111
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sports 1 Fᴴᴰ⁺ *TR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/73
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sport 2 *TR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/64
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sports 3 Fᴴᴰ⁺ *TR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/86
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sports 2 ᴴᴰ⁺ *FR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/57
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sports 3 ᴴᴰ⁺ *FR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/58
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sports 1 ᴴᴰ⁺ *AR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/94
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sports 2 ᴴᴰ⁺ *AR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/95
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sports 3 ᴴᴰ⁺ *AR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/96
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sports 4 ᴴᴰ⁺ *AR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/97
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sports 5 ᴴᴰ⁺ *AR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/98
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png",Bein Sports 7 ᴴᴰ⁺ *AR
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/100
-#EXTINF:-1 group-title="Sports 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supertennis-685.png",SuperTennis ᴴᴰ⁺ *IT
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/7
+//UK Sports
+#EXTINF:-1 tvg-id="I101.25554.schedulesdirect.org" tvg-name="Sky Sports News FHD" tvg-logo="" group-title="UK Sports",Sky Sports News FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/146.m3u8
+#EXTINF:-1 tvg-id="I101.25554.schedulesdirect.org" tvg-name="Sky Sports News HD" tvg-logo="" group-title="UK Sports",Sky Sports News HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/147.m3u8
+#EXTINF:-1 tvg-id="I863.20643.schedulesdirect.org" tvg-name="Sky Sports News" tvg-logo="" group-title="UK Sports",Sky Sports News
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/148.m3u8
+#EXTINF:-1 tvg-id="I401.49609.schedulesdirect.org" tvg-name="Sky Sports Main Event FHD" tvg-logo="" group-title="UK Sports",Sky Sports Main Event FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/149.m3u8
+#EXTINF:-1 tvg-id="I401.49609.schedulesdirect.org" tvg-name="Sky Sports Main Event HD" tvg-logo="" group-title="UK Sports",Sky Sports Main Event HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/150.m3u8
+#EXTINF:-1 tvg-id="I401.49609.schedulesdirect.org" tvg-name="Sky Sports Main Event SD" tvg-logo="" group-title="UK Sports",Sky Sports Main Event SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/151.m3u8
+#EXTINF:-1 tvg-id="I101.25554.schedulesdirect.org" tvg-name="Sky Sports Premier League FHD" tvg-logo="" group-title="UK Sports",Sky Sports Premier League FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/152.m3u8
+#EXTINF:-1 tvg-id="I856.89362.schedulesdirect.org" tvg-name="Sky Sports Premier League HD" tvg-logo="" group-title="UK Sports",Sky Sports Premier League HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/153.m3u8
+#EXTINF:-1 tvg-id="I856.89362.schedulesdirect.org" tvg-name="Sky Sports Premier League SD" tvg-logo="" group-title="UK Sports",Sky Sports Premier League SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/154.m3u8
+#EXTINF:-1 tvg-id="I402.104327.schedulesdirect.org" tvg-name="Sky Sports Football FHD" tvg-logo="" group-title="UK Sports",Sky Sports Football FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/155.m3u8
+#EXTINF:-1 tvg-id="I101.25554.schedulesdirect.org" tvg-name="Sky Sports Football SD" tvg-logo="" group-title="UK Sports",Sky Sports Football SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/157.m3u8
+#EXTINF:-1 tvg-id="I402.104327.schedulesdirect.org" tvg-name="Sky Sports Football HD" tvg-logo="" group-title="UK Sports",Sky Sports Football HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/156.m3u8
+#EXTINF:-1 tvg-id="I403.51204.schedulesdirect.org" tvg-name="Sky Sports Cricket FHD" tvg-logo="" group-title="UK Sports",Sky Sports Cricket FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/158.m3u8
+#EXTINF:-1 tvg-id="I403.51204.schedulesdirect.org" tvg-name="Sky Sports Cricket HD" tvg-logo="" group-title="UK Sports",Sky Sports Cricket HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/159.m3u8
+#EXTINF:-1 tvg-id="I403.51204.schedulesdirect.org" tvg-name="Sky Sports Cricket SD" tvg-logo="" group-title="UK Sports",Sky Sports Cricket SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/160.m3u8
+#EXTINF:-1 tvg-id="I859.24216.schedulesdirect.org" tvg-name="Sky Sports Golf FHD" tvg-logo="" group-title="UK Sports",Sky Sports Golf FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/161.m3u8
+#EXTINF:-1 tvg-id="I404.67695.schedulesdirect.org" tvg-name="Sky Sports Golf HD" tvg-logo="" group-title="UK Sports",Sky Sports Golf HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/162.m3u8
+#EXTINF:-1 tvg-id="I859.24216.schedulesdirect.org" tvg-name="Sky Sports Golf SD" tvg-logo="" group-title="UK Sports",Sky Sports Golf SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/163.m3u8
+#EXTINF:-1 tvg-id="I101.25554.schedulesdirect.org" tvg-name="Sky Sports F1 FHD" tvg-logo="" group-title="UK Sports",Sky Sports F1 FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/164.m3u8
+#EXTINF:-1 tvg-id="I405.87578.schedulesdirect.org" tvg-name="Sky Sports F1 HD" tvg-logo="" group-title="UK Sports",Sky Sports F1 HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/165.m3u8
+#EXTINF:-1 tvg-id="I405.87578.schedulesdirect.org" tvg-name="Sky Sports F1 SD" tvg-logo="" group-title="UK Sports",Sky Sports F1 SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/166.m3u8
+#EXTINF:-1 tvg-id="I406.59533.schedulesdirect.org" tvg-name="Sky Sports NFL FHD" tvg-logo="" group-title="UK Sports",Sky Sports NFL FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/167.m3u8
+#EXTINF:-1 tvg-id="I406.59533.schedulesdirect.org" tvg-name="Sky Sports NFL SD" tvg-logo="" group-title="UK Sports",Sky Sports NFL SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/169.m3u8
+#EXTINF:-1 tvg-id="I407.104324.schedulesdirect.org" tvg-name="Sky Sports Arena FHD" tvg-logo="" group-title="UK Sports",Sky Sports Arena FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/170.m3u8
+#EXTINF:-1 tvg-id="I101.25554.schedulesdirect.org" tvg-name="Sky Sports Arena SD" tvg-logo="" group-title="UK Sports",Sky Sports Arena SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/172.m3u8
+#EXTINF:-1 tvg-id="I895.100265.schedulesdirect.org" tvg-name="Sky Sports Mix HD" tvg-logo="" group-title="UK Sports",Sky Sports Mix HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/173.m3u8
+#EXTINF:-1 tvg-id="I895.100265.schedulesdirect.org" tvg-name="Sky Sports Mix" tvg-logo="" group-title="UK Sports",Sky Sports Mix
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/174.m3u8
+#EXTINF:-1 tvg-id="I101.25554.schedulesdirect.org" tvg-name="Sky Sports Racing HD" tvg-logo="" group-title="UK Sports",Sky Sports Racing HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/175.m3u8
+#EXTINF:-1 tvg-id="I415.30505.schedulesdirect.org" tvg-name="Sky Sports Racing" tvg-logo="" group-title="UK Sports",Sky Sports Racing
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/176.m3u8
+#EXTINF:-1 tvg-id="I413.97542.schedulesdirect.org" tvg-name="BT Sport 1 FHD" tvg-logo="" group-title="UK Sports",BT Sport 1 FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/177.m3u8
+#EXTINF:-1 tvg-id="I413.97542.schedulesdirect.org" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="UK Sports",BT Sport 1 HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/178.m3u8
+#EXTINF:-1 tvg-id="I413.97542.schedulesdirect.org" tvg-name="BT Sport 1 SD" tvg-logo="" group-title="UK Sports",BT Sport 1 SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/179.m3u8
+#EXTINF:-1 tvg-id="I868.82451.schedulesdirect.org" tvg-name="BT Sport 2 FHD" tvg-logo="" group-title="UK Sports",BT Sport 2 FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/180.m3u8
+#EXTINF:-1 tvg-id="I868.82451.schedulesdirect.org" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="UK Sports",BT Sport 2 HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/181.m3u8
+#EXTINF:-1 tvg-id="I868.82451.schedulesdirect.org" tvg-name="BT Sport 2 SD" tvg-logo="" group-title="UK Sports",BT Sport 2 SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/182.m3u8
+#EXTINF:-1 tvg-id="I869.95772.schedulesdirect.org" tvg-name="BT Sport 3 FHD" tvg-logo="" group-title="UK Sports",BT Sport 3 FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/183.m3u8
+#EXTINF:-1 tvg-id="I869.95772.schedulesdirect.org" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="UK Sports",BT Sport 3 HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/184.m3u8
+#EXTINF:-1 tvg-id="I869.95772.schedulesdirect.org" tvg-name="BT Sport 3 SD" tvg-logo="" group-title="UK Sports",BT Sport 3 SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/185.m3u8
+#EXTINF:-1 tvg-id="I423.64572.schedulesdirect.org" tvg-name="BT Sport ESPN FHD" tvg-logo="" group-title="UK Sports",BT Sport ESPN FHD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/186.m3u8
+#EXTINF:-1 tvg-id="I423.64572.schedulesdirect.org" tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="UK Sports",BT Sport ESPN HD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/187.m3u8
+#EXTINF:-1 tvg-id="I423.64572.schedulesdirect.org" tvg-name="BT Sport ESPN SD" tvg-logo="" group-title="UK Sports",BT Sport ESPN SD
+http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/188.m3u8
 
 //Sports 3
 #EXTINF:-1 group-title="Sports 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png",beIN Sport 1 ID
