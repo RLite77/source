@@ -233,12 +233,11 @@ http://bestsave.ltd:8011/live/1020304050/5040302010/121610.ts
 #EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://i.ibb.co/prCJCgT/kix.png" group-title="Entertainment",KIX HD
 http://bestsave.ltd:8011/live/1020304050/5040302010/121651.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MyHq037/hits.png" group-title="Entertainment",HITS HD
-HD
 http://bestsave.ltd:8011/live/1020304050/5040302010/74491.ts
 #EXTINF:-1 tvg-id="colors.in" tvg-name="Colors" tvg-logo="https://i.ibb.co/yQjcDHr/colors.png" group-title="Entertainment",Colors
 https://raw.githubusercontent.com/RLite77/source/main/colors.m3u8
 #EXTINF:-1 tvg-id="KBS World" tvg-name="KBS WORLD HD" tvg-logo="https://i.ibb.co/W2WL5yF/kbs-world.png" group-title="Entertainment",KBS WORLD HD
-http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
+https://raw.githubusercontent.com/RLite77/source/main/kbsw.m3u8
 #EXTINF:-1 tvg-id="Sony One" tvg-name="Sony One" tvg-logo="https://i.ibb.co/jMhX9xs/one.png" group-title="Entertainment",Sony One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-id="OhK!" tvg-name="OhK!" tvg-logo="https://i.ibb.co/dKXmpGd/ohk.png" group-title="Entertainment",OhK!
