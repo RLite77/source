@@ -219,27 +219,34 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbmcWJt/astro-shx.png" group-title="Astro",Astro Shuang Xing HD
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
-
+//Entertainment
+#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX" tvg-logo="https://i.ibb.co/GT0Zcp3/FOX-ASIA.png" group-title="Entertainment",FOX VN
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="axn.th" tvg-name="AXN TH" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Entertainment",AXN TH
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="AXN.id" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Entertainment",AXN ID
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="warner.th" tvg-name="Warner TV TH" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Entertainment",Warner TV TH
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Entertainment",Warner TV HD
+http://bestsave.ltd:8011/live/1020304050/5040302010/121610.ts
+#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://i.ibb.co/prCJCgT/kix.png" group-title="Entertainment",KIX HD
+http://bestsave.ltd:8011/live/1020304050/5040302010/121651.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MyHq037/hits.png" group-title="Entertainment",HITS HD
+HD
+http://bestsave.ltd:8011/live/1020304050/5040302010/74491.ts
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors" tvg-logo="https://i.ibb.co/yQjcDHr/colors.png" group-title="Entertainment",Colors
+https://raw.githubusercontent.com/RLite77/source/main/colors.m3u8
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS WORLD HD" tvg-logo="https://i.ibb.co/W2WL5yF/kbs-world.png" group-title="Entertainment",KBS WORLD HD
+http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1 tvg-id="Sony One" tvg-name="Sony One" tvg-logo="https://i.ibb.co/jMhX9xs/one.png" group-title="Entertainment",Sony One
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-id="OhK!" tvg-name="OhK!" tvg-logo="https://i.ibb.co/dKXmpGd/ohk.png" group-title="Entertainment",OhK!
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 tvg-id="TvN" tvg-name="tvN" tvg-logo="https://i.ibb.co/3FftRsV/tvn.png" group-title="Entertainment",tvN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 //Movies
-#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX" tvg-logo="https://i.ibb.co/GT0Zcp3/FOX-ASIA.png" group-title="Movies",FOX VN
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="axn.th" tvg-name="AXN TH" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Movies",AXN TH
-https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="axn.vn" tvg-name="AXN VN" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Movies",AXN VN
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="AXN.id" tvg-logo="https://i.ibb.co/FXwPy3N/AXN.png" group-title="Movies",AXN ID
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
-#EXTINF:-1 tvg-id="warner.th" tvg-name="Warner TV TH" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV TH
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/79
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/FHN3TG3/wb.png" group-title="Movies",Warner TV VN
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="kix.vn" tvg-name="KIX VN" tvg-logo="https://i.ibb.co/prCJCgT/kix.png" group-title="Movies",KIX VN
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://i.ibb.co/prCJCgT/kix.png" group-title="Movies",KIX HD
-http://185.180.221.194:8278/streams/d/KiX/playlist.m3u8
 #EXTINF:-1 tvg-id="fli.in" tvg-name="Flix" tvg-logo="https://i.ibb.co/k97y1wq/flixcircle-logo.png" group-title="Movies",Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="&flix.in" tvg-name="&Flix" tvg-logo="https://i.ibb.co/bRmQV22/flix.png" group-title="Movies",&Flix
@@ -249,19 +256,13 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX" tvg-logo="https://i.ibb.co/vJf3v5X/sony-pix.png" group-title="Movies",SONY PIX
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2abaccf665cea2a8b27f47525d555cfcf4f6a89c54f39dfadd61248f84db4f0f33ce7ffb285c725ac82fb695731e8c178a80874ef978bf9954d2463ae85776d5a3016c96f961438f6665a521804afde21d9fd2187f&mac=00:1A:79:32:15:A7&ip=118.101.224.193&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX" tvg-logo="https://i.ibb.co/vJf3v5X/sony-pix.png" group-title="Movies",SONY PIX
-http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/44995
+http://watchindia.net:8880/live/60275/20486/2101.ts
 #EXTINF:-1 tvg-id="Cinema world" tvg-name="Cinema world" tvg-logo="https://i.ibb.co/mJkNywB/cinemaworld.png" group-title="Movies",Cinema world
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="Fox Movies Premium" tvg-logo="https://i.ibb.co/d46ZD34/fox-movies.png" group-title="Movies",Fox Movies HD
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-id="fox.movies.vn" tvg-name="FOX Movies" tvg-logo="https://i.ibb.co/d46ZD34/fox-movies.png" group-title="Movies",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="FOX Action Movies" tvg-logo="https://i.ibb.co/stgkJx0/fox-action.png" group-title="Movies",FOX Action Movies HD
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action Movies" tvg-logo="https://i.ibb.co/stgkJx0/fox-action.png" group-title="Movies",FOX Action Movies HK
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies" tvg-logo="https://i.ibb.co/ccF4974/fox-family.png" group-title="Movies",Fox Family Movies HD
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies" tvg-logo="https://i.ibb.co/ccF4974/fox-family.png" group-title="Movies",Fox Family Movies VN
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/0CtmkWG/cinemax.png" group-title="Movies",Cinemax HD
@@ -269,32 +270,28 @@ https://raw.githubusercontent.com/RLite77/source/main/cinemax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/QkTjqFq/hbo.png" group-title="Movies",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/QkTjqFq/hbo.png" group-title="Movies",HBO HD
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+https://raw.githubusercontent.com/RLite77/source/main/hb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/KKqjv5J/hbo-family.png" group-title="Movies",HBO Family Movies HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/KmRGMJg/hbo-hits.png" group-title="Movies",HBO Hits HD
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/KmRGMJg/hbo-hits.png" group-title="Movies",HBO Hits HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/KmRGMJg/hbo-hits.png" group-title="Movies",HBO Hits HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/KmRGMJg/hbo-hits.png" group-title="Movies",HBO Hits ID
 http://golive.gq/movie/hbohit.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/rZZYSVH/hbo-sig.png" group-title="Movies",HBO Signature HD
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/rZZYSVH/hbo-sig.png" group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
-#EXTINF:-1 tvg-id="Red by HBO" tvg-name="Red by HBO" tvg-logo="https://i.ibb.co/9n8Rhbx/red-hbo.png" group-title="Movies",Red by HBO
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5pNgSg/hits-movies.png" group-title="Movies",Hits Movies HD
+http://bestsave.ltd:8011/live/1020304050/5040302010/74490.ts
 #EXTINF:-1 tvg-id="SonyMoviesAction.uk" tvg-name="Sony Movies Action" tvg-logo="https://i.ibb.co/KjjqGK7/sony-movies.png" group-title="Movies",Sony Movies Action
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="boo.my" tvg-name="BOO" tvg-logo="https://i.ibb.co/whY7nYZ/boo.png" group-title="Movies",BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LSSsbgf/cinema-europe.png" group-title="Movies",Cinema Europe
 http://210.210.129.106/uq2663/h/h18/01.m3u8
-
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now HD" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png" group-title="Movies",Movies Now HD
+http://watchindia.net:8880/live/60275/20486/2102.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Dt5nQsY/star-movies.png" group-title="Movies",Star Movies HD
-http://tv.pmcon.net/hls/stream3.m3u8
+http://watchindia.net:8880/live/60275/20486/2080.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X4BtvJq/movie-sphere.png" group-title="Movies",Movie Sphere
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YdhR2GH/MCN.png" group-title="Movies",MCN
@@ -357,25 +354,8 @@ http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.z
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian Cinema" tvg-logo="https://asiancinemas.in/images/logo.png" group-title="Movies",Asian Cinema
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MyHq037/hits.png" group-title="Movies",HITS HD
-http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q5pNgSg/hits-movies.png" group-title="Movies",Hits Movies HD
-http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
-
-#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors" tvg-logo="https://i.ibb.co/yQjcDHr/colors.png" group-title="Movies",Colors
-https://raw.githubusercontent.com/RLite77/source/main/colors.m3u8
 #EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Zee Cinema" tvg-logo="https://i.ibb.co/RNsPvv6/zee-cinema.png" group-title="Movies",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS WORLD HD" tvg-logo="https://i.ibb.co/W2WL5yF/kbs-world.png" group-title="Movies",KBS WORLD HD
-http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 tvg-id="Sony One" tvg-name="Sony One" tvg-logo="https://i.ibb.co/jMhX9xs/one.png" group-title="Movies",Sony One
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-id="OhK!" tvg-name="OhK!" tvg-logo="https://i.ibb.co/dKXmpGd/ohk.png" group-title="Movies",OhK!
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-id="TvN" tvg-name="tvN" tvg-logo="https://i.ibb.co/3FftRsV/tvn.png" group-title="Movies",tvN
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvn Movies" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/DrF0MJC/tvn-movies.png" group-title="Movies",tvN Movies
 http://dituduhmaling.xyz/US33T4/MPD/chunklist.m3u8?id=tvnmovies&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="Tvn Movies" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/DrF0MJC/tvn-movies.png" group-title="Movies",tvN Movies
@@ -387,7 +367,6 @@ http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://i.ibb.co/2PC92nr/thrill.png" group-title="Movies",Thrill
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7220
 #http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
-#EXTINF:-1 tvg-id="LotusMacau.id" tvg-name="Lotus Macau" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="Movies",Lotus Macau
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4sC1S9/hbo-us.png" group-title="Movies", US: HBO East HD
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
