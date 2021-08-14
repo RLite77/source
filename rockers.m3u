@@ -689,12 +689,18 @@ https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8|user-agent=Mozilla/5.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZSDxjM/nbcsn.png" group-title="Sports",NBC Sports Network
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fox.sports.th" tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-1.png" group-title="Sports",FOX Sports HD
+#EXTINF:-1 tvg-id="fox.sports.id" tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-1.png" group-title="Sports",FOX Sports HD
 http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="fox.sports.2.th" tvg-logo="https://i.ibb.co/FJzkZHP/fox-sp-2.png" group-title="Sports",FOX Sports 2 HD
+#EXTINF:-1 tvg-id="fox.sports.2.id" tvg-logo="https://i.ibb.co/FJzkZHP/fox-sp-2.png" group-title="Sports",FOX Sports 2 HD
 http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="fox.sports.3.th" tvg-logo="https://i.ibb.co/MZYmLQs/fox-sp-3.png" group-title="Sports",FOX Sports 3 HD
+#EXTINF:-1 tvg-id="fox.sports.3.id" tvg-logo="https://i.ibb.co/MZYmLQs/fox-sp-3.png" group-title="Sports",FOX Sports 3 HD
 http://50.7.161.82:8278/streams/d/foxsports3_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="fox.sports.id" tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-1.png" group-title="Sports",FOX Sports ID
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="fox.sports.2.id" tvg-logo="https://i.ibb.co/FJzkZHP/fox-sp-2.png" group-title="Sports",FOX Sports 2 ID
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="fox.sports.3.id" tvg-logo="https://i.ibb.co/MZYmLQs/fox-sp-3.png" group-title="Sports",FOX Sports 3 ID
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-id="fox.sports.th" tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-1.png",Fox Sports 1 TH
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
