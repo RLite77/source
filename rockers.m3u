@@ -4,6 +4,7 @@
 #EXTM3U x-tvg-url="https://weareblahs.ga/epg/unifitv.xml"
 #EXTM3U x-tvg-url="http://iptv.tvmalaysia.cc/xmltv.php?username=932633&password=932633"
 #EXTM3U x-tvg-url="http://iptvtree.net:8080/xmltv.php?username=aumaleiptv&password=d051xyzaef399hp56"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/MuazT/EPG-Guide/master/ArabicEPG.xml"
 
 
 
@@ -3890,99 +3891,21 @@ http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/276044
 
 
 //UK
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VtFnqdS/bbc1.png" group-title="UK",BBC One
-http://ent.lw-hosting.net:8080/jamesjudge2/32gardenave/2?token=SxEJUxVZFl9BW19WDgMFBFBaBlRWBFUDUAFQVAdXUVNRC1cCVgcMAFVBFRdERxRRUg5vWFERDQMfEBBDVxA7CFQRWxBeBQ1TQU8bQV5eAxYJUgYDAAoOCAcGURwQEg0FEgkPRwpdGEcGG01QRV0HWGwHVUdcUFITCVwQXF5ORg5ebAVXC1BaAUFZGwQVH0RdQBMSC1tGW10fEAdZRhAFFVURW1wTXVhJQQBWQFlHFE0RWRJ8bBEbE1ZKEVVcEQ0OXhFbEBJCFklBCkpqRVYVQEEGUVxQQRULEQJHHBAPBRlvUA5cCFRXEQoMV0YVCUQFEU8SXFpdXkVcQDpAWwZGW15GDV4b
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VtFnqdS/bbc1.png" group-title="UK",BBC One
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/1
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VtFnqdS/bbc1.png" group-title="UK",BBC One
-http://ipflix.click:8080/kmazkygcxd/a10ivdfp6/656966
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VtFnqdS/bbc1.png" group-title="UK",BBC One
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VtFnqdS/bbc1.png" group-title="UK",UK: BBC 1
 http://213.7.193.54:4000/play/bbc1/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/phLqP8F/bbc-2.png" group-title="UK",BBC Two
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/3
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/yXBHWhj/bbc-3.png" group-title="UK",BBC Three
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/pWJK5hh/bbc-4.png" group-title="UK",BBC Four
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N39qphb/itv.png" group-title="UK",ITV
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N39qphb/itv.png" group-title="UK",UK: ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/NVtZRRg/itv-2.png" group-title="UK",ITV 2
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/NVtZRRg/itv-2.png" group-title="UK",UK: ITV 2
 http://nwbz1u.ecm.tm/806B6CF/89111e/GL_ITV2/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8d30e201782c3de4599e48d7d5d0a1700999439dbdb1e04d8554ea44bb5d3b5962b379bc7a5fa841d03f52411295166c2b21e72f30d9ce37c2f4bf67f9b992fe7b9eaa649ff5a1e6c2dea7aa048cb4b1c8e9ba3c6fa2b501&mac=00:1A:79:32:15:A7&ip=175.139.58.189&magic_server=MAIN_MP
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/pRQP50g/itv-3.png" group-title="UK",ITV 3
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/pRQP50g/itv-3.png" group-title="UK",UK: ITV 3
 http://nwbz1u.ecm.tm/806B6CF/89111e/GL_ITV3/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8d30e201782c3de4599e48d7d5d0a1700999439dbdb1ef4c8554ea44bb5d413fa9e023549147b7b7db76fb0caa4e28de4f403f2b72a1e17eae1851d06b77d4253bcce911b5ccf6ae678e84c59fdc70e84c9b2dcdc97136cc&mac=00:1A:79:32:15:A7&ip=175.139.58.189&magic_server=MAIN_MP
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/ZzNSQjS/itv-4.png" group-title="UK",ITV 4
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/ZzNSQjS/itv-4.png" group-title="UK",UK: ITV 4
 http://nwbz1u.ecm.tm/806B6CF/89111e/GL_ITV4/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8d30e201782c3de4599e48d7d5d0a1700999439dbdb1ee4b8554ea44bb5ddac30a9ae5c3ee5acaee4622942cf432f130ed93deaa571da8ca573ea0941ad5a4458da2dad183233294a10839b95ec74d105fe1f284f9603baa&mac=00:1A:79:32:15:A7&ip=175.139.58.189&magic_server=MAIN_MP
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/2ZnRJVX/itv-be.png" group-title="UK",ITV Be
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/21
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/ZWMF2Xc/citv.png" group-title="UK",C-ITV
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/g44LmmQ/sky-one.png" group-title="UK",Sky One
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/34
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/qRJKdWg/sky-atlantic.png" group-title="UK",SKY Atlantic
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/38
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/d0h82yS/sky-crime.png" group-title="UK",Sky Crime
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/455
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/896Jp7Y/sky-witness.png" group-title="UK",Sky Witness
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/36
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/Jc77D4D/5-USA.png" group-title="UK",5 USA
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/62
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/J3xH7px/5-star.png" group-title="UK",5 Star
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/61
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/DQ7M9q7/4-music-uk.png" group-title="UK",4 Music
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/29
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/f1bh4jW/syfy.png" group-title="UK",SYFY
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/f1bh4jW/syfy.png" group-title="UK",UK: SYFY
 http://stream.tvtap.live:8081/live/uk-syfy.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="I428.21494.schedulesdirect.org" tvg-name="Film4 HD" tvg-logo="https://i.ibb.co/qNgHN3f/film-4.png" group-title="UK",Film 4 HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/120
-#EXTINF:-1 tvg-id="I415.20726.schedulesdirect.org" tvg-name="TCM HD" tvg-logo="https://i.ibb.co/FKb34Vb/tcm.png" group-title="UK",TCM HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/122
-#EXTINF:-1 tvg-id="I306.24040.schedulesdirect.org" tvg-name="Sky Cinema Animation HD" tvg-logo="https://i.ibb.co/8x34DTP/sky-cinema-animation.png" group-title="UK",Sky Cinema Animation HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/2446
-#EXTINF:-1 tvg-id="I407.61177.schedulesdirect.org" tvg-name="Sky Cinema Action HD" tvg-logo="https://i.ibb.co/Z620f75/sky-cinema-action.png" group-title="UK",Sky Cinema Action HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/124
-#EXTINF:-1 tvg-id="I309.24039.schedulesdirect.org" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://i.ibb.co/mDh37Y7/sky-cinema-comedy.png" group-title="UK",Sky Cinema Comedy HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/126
-#EXTINF:-1 tvg-id="I307.24034.schedulesdirect.org" tvg-name="Sky Cinema Disney HD" tvg-logo="https://i.ibb.co/TwJ8K3W/sky-cinema-disney.png" group-title="UK",Sky Cinema Disney HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/128
-#EXTINF:-1 tvg-id="I311.24032.schedulesdirect.org" tvg-name="Sky Cinema Drama HD" tvg-logo="https://i.ibb.co/6yQvcqw/sky-cinema-drama.png" group-title="UK",Sky Cinema Drama HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/130
-#EXTINF:-1 tvg-id="I306.24040.schedulesdirect.org" tvg-name="Sky Cinema Family HD" tvg-logo="https://i.ibb.co/TPQ8Nfv/sky-cinema-family.png" group-title="UK",Sky Cinema Family HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/132
-#EXTINF:-1 tvg-id="I304.24042.schedulesdirect.org" tvg-name="Sky Cinema Greats HD" tvg-logo="https://i.ibb.co/f2182Zt/sky-cinema-greats.png" group-title="UK",Sky Cinema Greats HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/134
-#EXTINF:-1 tvg-id="I303.56141.schedulesdirect.org" tvg-name="Sky Cinema Hits HD" tvg-logo="https://i.ibb.co/hm39nzK/sky-cinema-hits.png" group-title="UK",Sky Cinema Hits HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/136
-#EXTINF:-1 tvg-id="I301.21107.schedulesdirect.org" tvg-name="Sky Cinema Premiere HD" tvg-logo="https://i.ibb.co/yq0NgxD/sky-cinema-premiere.png" group-title="UK",Sky Cinema Premiere HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/138
-#EXTINF:-1 tvg-id="I312.24041.schedulesdirect.org" tvg-name="Sky Cinema Sci-Fi HD" tvg-logo="https://i.ibb.co/zHKm7Bd/sky-cinema-sci-fi.png" group-title="UK",Sky Cinema Sci-Fi HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/140
-#EXTINF:-1 tvg-id="I302.49139.schedulesdirect.org" tvg-name="Sky Cinema Select HD" tvg-logo="https://i.ibb.co/Jn5jqNm/sky-cinema-select.png" group-title="UK",Sky Cinema Select HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/142
-#EXTINF:-1 tvg-id="I310.56140.schedulesdirect.org" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://i.ibb.co/Bzytcsx/sky-cinema-thriller.png" group-title="UK",Sky Cinema Thriller HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/144
-#EXTINF:-1 tvg-id="I101.25554.schedulesdirect.org" tvg-name="Sky Sports News HD" tvg-logo="https://i.ibb.co/fx5yytw/sky-sposrts-news.png" group-title="UK",Sky Sports News HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/147
-#EXTINF:-1 tvg-id="I401.49609.schedulesdirect.org" tvg-name="Sky Sports Main Event HD" tvg-logo="https://i.ibb.co/8jm6TcT/sky-main-event.png" group-title="UK",Sky Sports Main Event HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/150
-#EXTINF:-1 tvg-id="I856.89362.schedulesdirect.org" tvg-name="Sky Sports Premier League HD" tvg-logo="https://i.ibb.co/3SBjt9k/sky-epl.png" group-title="UK",Sky Sports Premier League HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/153
-#EXTINF:-1 tvg-id="I402.104327.schedulesdirect.org" tvg-name="Sky Sports Football HD" tvg-logo="https://i.ibb.co/gVFgkCY/sky-football.png" group-title="UK",Sky Sports Football HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/156
-#EXTINF:-1 tvg-id="I403.51204.schedulesdirect.org" tvg-name="Sky Sports Cricket HD" tvg-logo="https://i.ibb.co/ZdhxX2p/sky-cricket.png" group-title="UK",Sky Sports Cricket HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/159
-#EXTINF:-1 tvg-id="I404.67695.schedulesdirect.org" tvg-name="Sky Sports Golf HD" tvg-logo="https://i.ibb.co/d5zCKrV/sky-golf.png" group-title="UK",Sky Sports Golf HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/162
-#EXTINF:-1 tvg-id="I101.25554.schedulesdirect.org" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/mhX3Zmh/sky-f1.png" group-title="UK",Sky Sports F1 FHD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/164
-#EXTINF:-1 tvg-id="I405.87578.schedulesdirect.org" tvg-name="Sky Sports F1 HD" tvg-logo="https://i.ibb.co/mhX3Zmh/sky-f1.png" group-title="UK",Sky Sports F1 HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/165
-#EXTINF:-1 tvg-id="I406.59533.schedulesdirect.org" tvg-name="Sky Sports NFL FHD" tvg-logo="https://i.ibb.co/8YJt3Hm/sky-sports-nfl.png" group-title="UK",Sky Sports NFL FHD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/167
-#EXTINF:-1 tvg-id="I407.104324.schedulesdirect.org" tvg-name="Sky Sports Arena FHD" tvg-logo="https://i.ibb.co/tYRrTWn/sky-sports-arena.png" group-title="UK",Sky Sports Arena FHD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/170
-#EXTINF:-1 tvg-id="I895.100265.schedulesdirect.org" tvg-name="Sky Sports Mix HD" tvg-logo="https://i.ibb.co/LCHFRQK/sky-mix.png" group-title="UK",Sky Sports Mix HD
-http://mcktv.xyz:8080/jamesjudge2/32gardenave/173
-
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: 5 Select" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5dfb64af3558d04a8f3f03908fe6409.png" group-title="UK",UK: 5 Select
 http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/4631
@@ -4460,61 +4383,6 @@ http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/1065
 
 
 //Arab TV
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/MuazT/EPG-Guide/master/ArabicEPG.xml"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="Arab TV",3eesh Al Aan TV
-https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Drama" tvg-name="Abu Dhabi Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Arab TV",Abu Dhabi Drama
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Arab TV",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Arab TV",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Arab TV",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4" tvg-name="Abu Dhabi Sports 4" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Arab TV",Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="Arab TV",Abu Dhabi TV
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" group-title="Arab TV",Al Aan TV
-https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="Arab TV",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya Al Hadath" tvg-name="Al Arabiya Al Hadath" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="Arab TV",Al Arabiya Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="Arab TV",Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Arab TV",Cartoon Network Arabic
-https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
-#EXTINF:-1 tvg-id="Citruss TV" tvg-name="Citruss TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" group-title="Arab TV",Citruss TV
-https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
-#EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Arab TV",Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Racing" tvg-name="Dubai Racing" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Arab TV",Dubai Racing
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Arab TV",Dubai Racing 2
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Arab TV",Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Arab TV",Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Arab TV",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Arab TV",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai TV" tvg-name="Dubai TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="Arab TV",Dubai TV
-https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Arab TV",Dubai Zaman
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV" tvg-name="Etisalat Dubai Zaman TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Arab TV",Dubai Zaman
-https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Emarat TV" tvg-name="Al Emarat TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="Arab TV",Emarat TV
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="Arab TV",Hawas TV
-https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Arab TV",Majid TV
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Majid Kids TV" tvg-name="Majid Kids TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RiJULAe.png" group-title="Arab TV",Majid TV
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="MBC 1" tvg-name="MBC 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Arab TV",MBC
 https://p-mysat-live.ercdn.net/mbc1/mbc1.m3u8
 #EXTINF:-1 tvg-id="MBC 1" tvg-name="MBC 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Arab TV",MBC
@@ -4541,6 +4409,66 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="Arab TV",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+
+#EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Arab TV",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="Arab TV",3eesh Al Aan TV
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Drama" tvg-name="Abu Dhabi Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Arab TV",Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Arab TV",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Arab TV",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Arab TV",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 4" tvg-name="Abu Dhabi Sports 4" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Arab TV",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="Arab TV",Abu Dhabi TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" group-title="Arab TV",Al Aan TV
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="Arab TV",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath" tvg-name="Al Arabiya Al Hadath" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="Arab TV",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="Arab TV",Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Arab TV",Cartoon Network Arabic
+https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
+#EXTINF:-1 tvg-id="Citruss TV" tvg-name="Citruss TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" group-title="Arab TV",Citruss TV
+https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dubai Racing" tvg-name="Dubai Racing" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Arab TV",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Arab TV",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Arab TV",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Arab TV",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Arab TV",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Arab TV",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai TV" tvg-name="Dubai TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="Arab TV",Dubai TV
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Arab TV",Dubai Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV" tvg-name="Etisalat Dubai Zaman TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Arab TV",Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Emarat TV" tvg-name="Al Emarat TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="Arab TV",Emarat TV
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="Arab TV",Hawas TV
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Arab TV",Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Majid Kids TV" tvg-name="Majid Kids TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RiJULAe.png" group-title="Arab TV",Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv
+
+
+
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR" tvg-name="National Geographic Abu Dhabi AR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Arab TV",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Noor Dubai" tvg-name="Noor Dubai" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="Arab TV",Noor Dubai
