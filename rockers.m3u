@@ -10,7 +10,7 @@
 
 //Malaysia
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/9T1fWWx/tv1.png" group-title="Malaysia",TV1 HD
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/vHqJMrW/tv2.png" group-title="Malaysia",TV2
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/RLite77/source/main/tv3hd.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
 http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/zSknYzS/tv6.png" group-title="Malaysia",TV6
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
@@ -30,11 +31,11 @@ http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/gSDG6mC/didik.png" group-title="Malaysia",NTV7
 https://raw.githubusercontent.com/RLite77/source/main/tv7.m3u8
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Malaysia",8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/qx81hsH/8tv.png" group-title="Malaysia",8TV
 https://raw.githubusercontent.com/RLite77/source/main/tv8.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/tBfGBqz/tv9.png" group-title="Malaysia",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/tBfGBqz/tv9.png" group-title="Malaysia",TV9
 https://raw.githubusercontent.com/RLite77/source/main/tv9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/KFFhB4V/drama-sgt.png" group-title="Malaysia",Drama Sangat
@@ -62,10 +63,10 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-id="go.shop.111.my" group-title="Malaysia" tvg-logo="https://i.ibb.co/d0g5fjt/go-shop.png",Go Shop 111
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-hijrah" tvg-logo="https://i.ibb.co/P9zsYjD/al-hijrah.png" group-title="Malaysia",Al-hijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+http://50.7.161.82:8278/streams/d/alhijrah_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/xCZzwk6/a-awani.png" group-title="Malaysia",Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+http://50.7.161.82:8278/streams/d/awani_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/xCZzwk6/a-awani.png" group-title="Malaysia",Astro Awani
 https://raw.githubusercontent.com/RLite77/source/main/awani.m3u8
 
