@@ -52,9 +52,9 @@ https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="TV Okey" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/YRshqHz/okey.png" group-title="Malaysia",TV Okey
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8|referer=https://rtmklik.rtm.gov.my
-#EXTINF:-1 tvg-id="RTM Parlimen Rakyat" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/JpV54L2/bbc-parlimen.png" group-title="Malaysia",Parlimen Dewan Rakyat
+#EXTINF:-1 tvg-id="RTM Parlimen Rakyat" tvg-name="RTM Parlimen Rakyat" tvg-logo="https://i.ibb.co/JpV54L2/bbc-parlimen.png" group-title="Malaysia",Parlimen Dewan Rakyat
 https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b4064000.m3u8
-#EXTINF:-1 tvg-id="RTM Parlimen Negara" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/JpV54L2/bbc-parlimen.png" group-title="Malaysia",Parlimen Dewan Negara
+#EXTINF:-1 tvg-id="RTM Parlimen Negara" tvg-name="RTM Parlimen Negara" tvg-logo="https://i.ibb.co/JpV54L2/bbc-parlimen.png" group-title="Malaysia",Parlimen Dewan Negara
 https://parlimennegara.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b4064000.m3u8
 #EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="Naura HD" tvg-logo="https://i.ibb.co/CWj35Kt/a-naura.png" group-title="Malaysia",Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
