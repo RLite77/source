@@ -528,6 +528,97 @@ https://iptvid.cgflix.xyz/vidio/cbioskop.m3u8
 #EXTINF:-1 group-title="Movies 2" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oANgznd8LKnwF939_hOA75mnXEo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
 https://iptvid.cgflix.xyz/vidio/cdrama.m3u8
 
+//English Movies
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-name="& Prive HD"  group-title="English Movies",& Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/WWTsTa6.png" tvg-name="Dove Channel"  group-title="English Movies",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AMiJBP6.png" tvg-name="& Prive HD"  group-title="English Movies",& Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2g1RZpU.png" tvg-name="Blue Ant Entertainment"  group-title="English Movies",Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/02.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AMiJBP6.png" tvg-name="& Prive HD (Ersupport Proxy)"  group-title="English Movies",& Prive HD (Ersupport Proxy)
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RgM8EXt.png" tvg-name="MBC 1"  group-title="English Movies",MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/IVNGmVh.png" tvg-name="Romedy Now"  group-title="English Movies",Romedy Now
+http://103.153.39.34:8000/play/a052/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" tvg-name="Movies Now"  group-title="English Movies",Movies Now
+http://103.153.39.34:8000/play/a050/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/TYVhJDr/priv-HD.png" tvg-name="&Prive"  group-title="English Movies",&Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v3a1/index.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/gUu2nMa.png" tvg-name="HBO"  group-title="English Movies",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/oWmEXpL.png" tvg-name="Thrill"  group-title="English Movies",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/hX7qQFf.png" tvg-name="Fox Life HD"  group-title="English Movies",Fox Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/CiwKvEl.png" tvg-name="Fox HD"  group-title="English Movies",Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is.gd/EgS8JD" tvg-name="HBO Family"  group-title="English Movies",HBO Family
+https://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/zaL3xeP.png" tvg-name="Great Movies"  group-title="English Movies",Great Movies
+http://5.101.140.110:8000/play/a02e/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.pngsumo.com/thrill-india-dream-logos-wiki-fandom-thrill-png-240_135.png" tvg-name="Thrill Tv"  group-title="English Movies",Thrill Tv
+http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/tD8b5nh.png" tvg-name="Fox Movies HD"  group-title="English Movies",Fox Movies HD
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/bBfuIVs.png" tvg-name="Zee Cafe HD"  group-title="English Movies",Zee Cafe HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/nOiPsyr.png" tvg-name="HBO Hits"  group-title="English Movies",HBO Hits
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.desifree.tv/wp-content/uploads/horror-channel.jpg" tvg-name="Horror Channel"  group-title="English Movies",Horror Channel
+https://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/uk-horror.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/M/mbc-max-logo-E35C319311-seeklogo.com.png" tvg-name="MBC Max"  group-title="English Movies",MBC Max
+http://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
+
+#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/diJCR16.png" tvg-name="MBC Action FHD"  group-title="English Movies",MBC Action FHD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.imgur.com/euauPCp.png" tvg-name="Redbull TV"  group-title="English Movies",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://tbivision.com/files/2017/03/paramount-channel.png" tvg-name="Paramount Channel (SD)"  group-title="English Movies",Paramount Channel (SD)
+https://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/UGwEyKM.jpg" tvg-name="Rasi Hollywood"  group-title="English Movies",Rasi Hollywood
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/qshsTyG.png" tvg-name="MBC Drama"  group-title="English Movies",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/BPtN337.png" tvg-name="Family Flix"  group-title="English Movies",Family Flix
+http://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/0ydC4La.png" tvg-name="MBC HD 2"  group-title="English Movies",MBC HD 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/qcldbWZ.png" tvg-name="MBC Action"  group-title="English Movies",MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/MBCAction.png" tvg-name="MBC Action HD"  group-title="English Movies",MBC Action HD
+http://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_4.m3u8
+
 
 
 //Kids
