@@ -1753,101 +1753,101 @@ https://akamai.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/7cdb6pzttmazt7p/1200px-ABC_Australia_logo.svg.png?dl=1", ABC AUSTRALIA
+#EXTINF:-1 group-title="News" tvg-logo = "https://www.dropbox.com/s/7cdb6pzttmazt7p/1200px-ABC_Australia_logo.svg.png?dl=1", ABC AUSTRALIA
 https://akamai.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/j7h8rmihekty1b5/BeritaSatu.png?dl=1", Berita Satu
+#EXTINF:-1 group-title="News" tvg-logo="https://www.dropbox.com/s/j7h8rmihekty1b5/BeritaSatu.png?dl=1", Berita Satu
 https://akamai.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="berita satu" tvg-logo="https://www.dropbox.com/s/73b46mpi1tfigim/MNC_News.png?dl=1", MNC NEWS
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="berita satu" tvg-logo="https://www.dropbox.com/s/73b46mpi1tfigim/MNC_News.png?dl=1", MNC NEWS
 https://akamai.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.dropbox.com/s/7qwu5aspmfr69db/IDX_Channel.png?dl=1", IDX
+#EXTINF:-1 group-title="News" tvg-logo="https://www.dropbox.com/s/7qwu5aspmfr69db/IDX_Channel.png?dl=1", IDX
 https://akamai.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/wfdsqkc0a879sqy/nhk.png?dl=1", NHK World Japan
+#EXTINF:-1 group-title="News" tvg-logo = "https://www.dropbox.com/s/wfdsqkc0a879sqy/nhk.png?dl=1", NHK World Japan
 https://akamai.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo ="https://www.dropbox.com/s/7hju1jc4vhbt1rd/cna.png?dl=1", Channel News Asia
+#EXTINF:-1 group-title="News" tvg-logo ="https://www.dropbox.com/s/7hju1jc4vhbt1rd/cna.png?dl=1", Channel News Asia
 https://akamai.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/7oj0h2ezjt801cm/aljazeera.png?dl=1", Aljazeera
+#EXTINF:-1 group-title="News" tvg-logo = "https://www.dropbox.com/s/7oj0h2ezjt801cm/aljazeera.png?dl=1", Aljazeera
 https://akamai.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS"tvg-logo = "https://www.dropbox.com/s/1dvzpz043gofc90/bbc%20news.png?dl=1", BBC World News
+#EXTINF:-1 group-title="News"tvg-logo = "https://www.dropbox.com/s/1dvzpz043gofc90/bbc%20news.png?dl=1", BBC World News
 https://akamai.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/clar8k3cfbs4h7k/cnn.png?dl=1", CNN International
+#EXTINF:-1 group-title="News" tvg-logo = "https://www.dropbox.com/s/clar8k3cfbs4h7k/cnn.png?dl=1", CNN International
 https://akamai.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="berita satu" tvg-logo="https://www.dropbox.com/s/7mm2zfwhlhr2c8i/Euronews_%282016-.n.v.%29.png?dl=1", EURO NEWS
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="berita satu" tvg-logo="https://www.dropbox.com/s/7mm2zfwhlhr2c8i/Euronews_%282016-.n.v.%29.png?dl=1", EURO NEWS
 https://akamai.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-id="" tvg-name="berita satu" tvg-logo="https://www.dropbox.com/s/ikkqnkf8i1d6io0/FOXNEWS.png?dl=1", FOX NEWS
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="berita satu" tvg-logo="https://www.dropbox.com/s/ikkqnkf8i1d6io0/FOXNEWS.png?dl=1", FOX NEWS
 https://akamai.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/odn5vpd8tzg7hpy/cnbc.png?dl=1", CNBC
+#EXTINF:-1 group-title="News" tvg-logo = "https://www.dropbox.com/s/odn5vpd8tzg7hpy/cnbc.png?dl=1", CNBC
 https://akamai.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/cbsyo8mcn8mm2fy/bloomberg.png?dl=1", Bloomberg
+#EXTINF:-1 group-title="News" tvg-logo = "https://www.dropbox.com/s/cbsyo8mcn8mm2fy/bloomberg.png?dl=1", Bloomberg
 https://akamai.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1  tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="NEWS",RT
+#EXTINF:-1  tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="News",RT
 https://akamai.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/bnqpwc1t1tjpdaa/france%2024.png?dl=1", FRANCE 24
+#EXTINF:-1 group-title="News" tvg-logo = "https://www.dropbox.com/s/bnqpwc1t1tjpdaa/france%2024.png?dl=1", FRANCE 24
 https://akamai.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/bnqpwc1t1tjpdaa/france%2024.png?dl=1", TV5MONDE INFO V
+#EXTINF:-1 group-title="News" tvg-logo = "https://www.dropbox.com/s/bnqpwc1t1tjpdaa/france%2024.png?dl=1", TV5MONDE INFO V
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="NEWS",TV5 Monde Asie
+#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="News",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
-#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="NEWS",TV5 Monde Style
+#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="News",TV5 Monde Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="NEWS",TV5 Monde Pacifique
+#EXTINF:0 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="News",TV5 Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/wfdsqkc0a879sqy/nhk.png?dl=1", NHK WORLD PREMIUM
+#EXTINF:-1 group-title="News" tvg-logo = "https://www.dropbox.com/s/wfdsqkc0a879sqy/nhk.png?dl=1", NHK WORLD PREMIUM
 https://akamai.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://www.dropbox.com/s/h0vc329rgb3nhws/dw.png?dl=1", DW
+#EXTINF:-1 group-title="News" tvg-logo = "https://www.dropbox.com/s/h0vc329rgb3nhws/dw.png?dl=1", DW
 https://akamai.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="NEWS" tvg-logo = "https://i.imgur.com/ZbISY58.jpg", CGTN
+#EXTINF:-1 group-title="News" tvg-logo = "https://i.imgur.com/ZbISY58.jpg", CGTN
 https://akamai.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 ///// ENTERTAINMENT /////
@@ -3503,120 +3503,9 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd/index.m3u8?f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTgRdHoFxazzoHwu46fdNBMW9z1rLM8JzUfc3Tg2JVsp5UqvTlUIKvLvemutXN6za__M&usqp=CAU" group-title="BeIN Sports",TV爱尔达奥运3
 #http://198.16.106.62:8278/streams/d/elta_olymp3/playlist.m3u8
 rtmp://59.124.75.153/sat/md051
-#EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 ,3HD
-https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
-#EXTINF:-1 ,5HD
-https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1 ,7HD
-https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1 ,AnimalPlanet
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 ,AXN HD
-https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/1.png",BT Sport 1 HD
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/2.png",BT Sport 2 HD
-https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 ,Discovery Asia
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",EURO Sports 1
-https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",EURO Sports 2
-https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
-#EXTINF:-1 ,FoxMovies
-https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 ,FoxMovies_TH
-https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Sport1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Sport2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Sport3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Thai_TH
-https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 ,Golf HD
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 ,H2 HD
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 ,HISTORY HD
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC TV
-https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
-#EXTINF:-1 ,MCOT HD
-https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png",MU TV
-https://www.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
-#EXTINF:-1 ,NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 ,PPTV HD
-https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://tinyurl.com/yxjocrq4",PremierHD1
-https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:-1 ,PremierHD1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://tinyurl.com/yxjocrq4",PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1 ,PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 ,PremierHD3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 ,PremierHD4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 ,PremierHD5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://tinyurl.com/yxjocrq4",TrueSport2
 
-https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 5
-https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 6
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Sport_TV1_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153201",Sport TV 1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Sport_TV2_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153212",Sport TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Sport_TV3_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153252",Sport TV 3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Sport_TV4_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153303",Sport TV 4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 ,Tennis HD
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 ,THAIRATH HD
-https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
-#EXTINF:-1 ,TRUE4U
-https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
-#EXTINF:-1 ,WarnerTV HD
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 ,Skynetsport1
-https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 ,Skynetsport2
-https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 ,Skynetsport3
-https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 ,Skynetsport4
-https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 ,Skynetsport5
-https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 ,Skynetsport6
-https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 ,SkynetsportHD
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 ,Bein1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 ,Bein2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2xcwP9r/dmax.png" group-title="Knowledge & Documentary", DMAX
@@ -4209,3 +4098,119 @@ https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKaree
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/muslimtv.png" group-title="Islamic",Muslim TV
 https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",3HD
+https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",5HD
+https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",7HD
+https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",AnimalPlanet
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",AXN HD
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/1.png",BT Sport 1 HD
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/2.png",BT Sport 2 HD
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Discovery Asia
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",EURO Sports 1
+https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",EURO Sports 2
+https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",FoxMovies
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",FoxMovies_TH
+https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Fox Sport2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Fox Sport3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Fox Thai_TH
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Golf HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",H2 HD
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",HISTORY HD
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC TV
+https://www.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",MCOT HD
+https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png",MU TV
+https://www.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",PPTV HD
+https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://tinyurl.com/yxjocrq4",PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://tinyurl.com/yxjocrq4",PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",PremierHD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",PremierHD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",PremierHD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://tinyurl.com/yxjocrq4",TrueSport2
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Sport_TV1_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153201",Sport TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Sport_TV2_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153212",Sport TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Sport_TV3_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153252",Sport TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Sport_TV4_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153303",Sport TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",THAIRATH HD
+https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",TRUE4U
+https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",WarnerTV HD
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Skynetsport1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Skynetsport2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Skynetsport3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Skynetsport4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Skynetsport5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Skynetsport6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",SkynetsportHD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Bein1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand",Bein2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
