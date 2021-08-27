@@ -1153,11 +1153,11 @@ http://50.7.161.82:8278/streams/d/goshop2_pye/playlist.m3u8
 #EXTINF:-1 tvg-ID="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png" group-title="Astro Go",Astro Go Gaaya
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 #http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
-#https://nonton.site:8443/live/Ainamanja/SHFTZRKFrF/37339.ts
+#https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37339.ts
 
 #EXTINF:-1 tvg-ID="303" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/303_300.png" group-title="Astro Go",Astro Go Chinese
 https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
-#https://nonton.site:8443/live/Ainamanja/SHFTZRKFrF/37350.ts
+#https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37350.ts
 
 
 #EXTINF:-1 tvg-ID="122" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg"group-title="Astro Go",TVS
@@ -1177,18 +1177,18 @@ http://iptv.tvmalaysia.cc:80/live/932633/932633/6713.ts
 
 #EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="Astro Go",Astro 欢喜台 (Astro Hua Hee Dai)
 #http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-https://nonton.site:8443/live/Ainamanja/SHFTZRKFrF/37363.ts
+https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37363.ts
 
 #EXTINF:-1 tvg-id="251" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AstroWahLaiToihdlogo.jpg/300px-AstroWahLaiToihdlogo.jpg" group-title="Astro Go",BollyOne HD
 http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="211" tvg-name="Astro SunTv" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png" tvg-url="" group-title="Astro Go",Astro SunTv
 #http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
-https://nonton.site:8443/live/Ainamanja/SHFTZRKFrF/37347.ts
+https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37347.ts
 
 #EXTINF:-1 tvg-ID="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_300.png" group-title="Astro Go", Astro Warna
 #http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-https://nonton.site:8443/live/Ainamanja/SHFTZRKFrF/37335.ts
+https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37335.ts
 
 #EXTINF:-1 tvg-ID="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/330px-Colors_tv2017.png" group-title="Astro Go",Color HD
 http://185.180.221.194:8278/streams/d/Colorhd/playlist.m3u8
