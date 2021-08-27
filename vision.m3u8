@@ -1178,7 +1178,8 @@ http://iptv.tvmalaysia.cc:80/live/932633/932633/6713.ts
 #EXTINF:-1 tvg-id="333" tvg-name="Astro Hua Hee Dai" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="Astro Go",Astro 欢喜台 (Astro Hua Hee Dai)
 #http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 https://nonton.site:8443/live/Ainamanja/RPLf79Gusm/37363.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AstroWahLaiToihdlogo.jpg/300px-AstroWahLaiToihdlogo.jpg" group-title="Astro Go",Astro bolly one
+
+#EXTINF:-1 tvg-id="251" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AstroWahLaiToihdlogo.jpg/300px-AstroWahLaiToihdlogo.jpg" group-title="Astro Go",BollyOne HD
 http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="211" tvg-name="Astro SunTv" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png" tvg-url="" group-title="Astro Go",Astro SunTv
