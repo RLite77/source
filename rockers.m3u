@@ -1534,31 +1534,130 @@ http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/HGTV_Tv.png",HGTV (Asia)
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
+
+
 //Radio
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/74499hotfm.png",HOT FM
-http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/sinarfm.png",SINAR FM
-http://astro2.rastream.com/sinar
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/erafm.png",ERA FM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/j5w2hJh/quran-radio.png",Quran Radio 
+http://quraan.us:9932/;stream.nsv
+#EXTINF:-1 tvg-id="856" tvg-name="Era FM" group-title="Radio" tvg-logo="https://i.ibb.co/d6MZwKg/era-fm.png",Era FM
 http://astro2.rastream.com/era
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/suria.gif",SURIA FM
-http://starrfm.rastream.com/starrfm-suria.android
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/gegarfm.png",THR GEGAR
-http://astro2.rastream.com/gegar
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/hitz.gif",HITZ FM
+#EXTINF:-1 tvg-id="857" tvg-name="Sinar FM" group-title="Radio" tvg-logo="https://i.ibb.co/D8n91HQ/sinar-fm.png",Sinar FM 
+http://astro2.rastream.com/sinar
+#EXTINF:-1 tvg-id="852" tvg-name="Hitz FM" group-title="Radio" tvg-logo="https://i.ibb.co/D1qPmLD/hitz-fm.png",Hitz FM
 http://astro1.rastream.com/hitz
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/mixfm.gif",MIX FM
-https://astro2.rastream.com/mix
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/thr-raaga-100x47.jpg",RAAGA FM
-https://astro3.rastream.com/raaga
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/myfm.gif",MY FM
-https://astro1.rastream.com/myfm
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/66092koolfm.jpg",KOOL FM
-https://mediaprima.rastream.com/mediaprima-koolfm
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/xfresh.gif",XFRESH FM
-http://audri.rastream.com/amp-xfm_audri?type=.flv
-#EXTINF:-1 group-title="Radio" tvg-logo="https://www.radiomalaysia.net/radio/thumbs/litefm.gif",LITE FM
+#EXTINF:-1 tvg-id="863" tvg-name="THR Gegar" group-title="Radio" tvg-logo="https://i.ibb.co/p4NwQhT/thr-gegar.png",THR Gegar 
+http://astro2.rastream.com/gegar
+#EXTINF:-1 tvg-id="860" tvg-name="Classic Rock" group-title="Radio" tvg-logo="https://i.ibb.co/51sPnNR/classic-rock.png",Classic Rock 
+https://astro4.rastream.com/rock
+#EXTINF:-1 tvg-id="872" tvg-name="Traxx FM" group-title="Radio" tvg-logo="https://i.ibb.co/QbJsBCb/traxx-fm.png",Traxx FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
+#EXTINF:-1 tvg-id="882" tvg-name="Radio Arena" group-title="Radio" tvg-logo="https://i.ibb.co/71252KY/a-arena.png",Radio Arena
+http://astro1.rastream.com/amp-arena
+#EXTINF:-1 tvg-id="017" tvg-name="Nasional FM" group-title="Radio" tvg-logo="https://i.ibb.co/y8t55Yq/nasional-fm.png",Nasional FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+#EXTINF:-1 tvg-id="865" tvg-name="Jazz" group-title="Radio" tvg-logo="https://i.ibb.co/zS2K22j/jazz-fm.png",Jazz
+http://astro4.rastream.com/jazz
+#EXTINF:-1 tvg-id="854" tvg-name="Lite FM" group-title="Radio" tvg-logo="https://i.ibb.co/1LyJrnb/lite-fm.png",Lite FM 
 http://astro1.rastream.com/lite?type=.flv
+#EXTINF:-1 tvg-id="858" tvg-name="Melody FM" group-title="Radio" tvg-logo="https://i.ibb.co/cXfbST3/melody.png",Melody FM 
+https://astro3.rastream.com/melody
+#EXTINF:-1 tvg-id="855" tvg-name="Mix FM" group-title="Radio" tvg-logo="https://i.ibb.co/1vn48Lb/mix-fm.png",Mix FM 
+https://astro2.rastream.com/mix
+#EXTINF:-1 tvg-id="853" tvg-name="My FM" group-title="Radio" tvg-logo="https://i.ibb.co/VQrkPBw/my-fm.png",My FM 
+https://astro1.rastream.com/myfm
+#EXTINF:-1 tvg-id="862" tvg-name="Opus" group-title="Radio" tvg-logo="https://i.ibb.co/5Tg3tJp/opus-fm.png",Opus
+http://astro4.rastream.com/opus
+#EXTINF:-1 tvg-id="859" tvg-name="THR Raaga" group-title="Radio" tvg-logo="https://i.ibb.co/GHmHxt4/raaga.png",THR Raaga
+https://astro3.rastream.com/raaga
+#EXTINF:-1 tvg-id="873" tvg-name="Minnal FM" group-title="Radio" tvg-logo="https://i.ibb.co/MVxFpKp/minnal-fm.png",Minnal FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
+#EXTINF:-1 tvg-id="861" tvg-name="Gold" group-title="Radio" tvg-logo="https://i.ibb.co/HNnDSsm/gold-fm.png",Gold
+http://astro4.rastream.com/gold
+#EXTINF:-1 tvg-id="876" tvg-name="Zayan" group-title="Radio" tvg-logo="https://i.ibb.co/SR8QPZb/zayanFM.png",Zayan 
+https://astro3.rastream.com/astro-zayan.web.hls/playlist.m3u8?listeningSessionID=5fec0256fb09261c_20346010_BgQwoixb_MTAzLjIxLjgxLjM6ODA!_000000DvtaP&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Azayan&playerid=Listen%20to%20ZAYAN%20on%20SYOK_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2Mjk2NDg1MTMsImV4cCI6MTYyOTczNDkxM30.5biuw8F9hsZtDNVnLhxaPshF4UjbFXyegQJ8NjsQhho&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=593cf42425
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/m6pnGwM/ikimFM.png",Ikim FM 
+https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=5f9ebd11f7c31651_25410222_WT1uaVHv_MTAzLjIxLjgxLjk6ODA!_000000Qmjwh&downloadSessionID=0&awparams=companionads%3Afalse%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2Mjk2NDg3NjIsImV4cCI6MTYyOTczNTE2Mn0.WMlFixl-95AFkjEQHsli0V9IFXk3MQW2ugy_vv7m2xs&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=593cf4242509859
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/tcv2phn/lagenda-fm.png",Radio Lagenda
+http://procyon.shoutca.st:8346/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/4WZTwVW/Radio-Lagenda-BBest.png",Radio Lagenda BBest 
+http://philae.shoutca.st:8418/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/KqC0J86/radio-lagenda-persona.png",Radio Lagenda Persona 
+http://curiosity.shoutca.st:6997/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/RpWzhgM/radio-lagenda-retro.png",Radio Lagenda Retro 
+http://188.165.237.19:8366/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/RBB5b2W/radio-lagenda-rock.png",Radio Lagenda Rock 
+http://procyon.shoutca.st:8346/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/LkNygyJ/suria-fm.png",Suria FM
+https://22253.live.streamtheworld.com/SURIA_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=808889bc-bbf2-4532-cd20-23dba7772a88
+#EXTINF:-1 tvg-id="016" tvg-name="Klasik FM" group-title="Radio" tvg-logo="https://i.ibb.co/VQ0PtC2/klasik-fm.png",Klasik FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/2MNPwfk/kool-fm.png",Kool FM 
+https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/80SGD9p/bapakku-fm.png",Bapakku FM
+http://radio.bapakku.fm:8000/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/VWL6SH2/best-fm.png",Best FM
+http://s8.voscast.com:8686/;stream1524468271750/1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/pv9p073/best-104.png",Best 104 
+http://s8.voscast.com:8686/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/hM8Pf7b/dunia-muzik-fm.png",Dunia Muzik FM
+http://185.109.169.80:8009/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/PzVcMT3/fly-fm.png",Fly FM
+http://mediaprima.rastream.com/mediaprima-flyfm.android
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/jwh84Hs/havoc-fm.png",Havoc FM 
+http://nebula.shoutca.st:8098/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/8gD8kYY/salam-fm.png",Salam FM 
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/9yNb0Nt/xfresh.png",XFresh FM 
+http://audri.rastream.com/amp-xfm_audri?type=.flv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/dknWwR1/my-ummah.png",My Ummah FM 
+http://cloud.tujuh.my:8073/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/ZSTC7VY/one-fm.png",One FM 
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/YWPygbH/hot-fm.png",Hot FM 
+http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/p1BJ07R/perak-fm.png",Perak FM 
+https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/k8FdPWN/kedah-fm.png",Kedah FM 
+https://kedahfmmobile.secureswiftcontent.com/rtm-ch031/rtm-ch031/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/BTPXZgS/tganu-fm.png",Terengganu FM 
+https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/CHX2V5h/100hitz-Heavy-Metal.png",100 Hits-Heavy Metal
+http://pureplay.cdnstream1.com/6015_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/HFsQwZV/classic-rock-109.png",Classic Rock 109 UK
+http://jenny.torontocast.com:8028/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/6XWG5bs/KRock.png",KRock Syracuse
+https://prod-35-197-88-50.wostreaming.net/galaxy-wkrlfmmp3-ibc1?session-id=86c70246a5dc96236a462d9ea7952257&source=TuneIn&gdpr=0&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/wgjkJd6/Metal-Shop-Rocks.png",Metal Shop Rocks 
+https://daniel.torontocast.com:1675/stream
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/GC9G5d4/muzzikrockroll.png",Muzzik Rock & Roll 
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/98XB8Bb/Planet-rock-radio.png",Planet Rock 
+https://stream-mz.planetradio.co.uk/planetrock.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/bNZT2N5/Pure-Rock-US.png",Pure Rock US 
+http://167.114.64.181:8524/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/tLfn1pb/rock-tv.png",Rock Radio
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/zHPq4kr/RMF-Classic-Rock.png",RMF Classic Rock 
+https://rs6-krk2-cyfronet.rmfstream.pl/CLASSICROCKVT
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/fkwBMrZ/rock-92.png",Rock 92 US 
+http://18163.live.streamtheworld.com/WKRRFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjE4MTQwODgzLCJ0ZC1yZWciOmZhbHNlfQ.JeH4wWtKIrz23THpApBcr3K9srZlvPFrBdRPcJCVFlc&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxODE0MDg4MywiaXNzIjoidGlzcnYifQ.U5SzrbCnAXZaBRYtJr9ZwxFwNK1HA4-hdCII84bFLhA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/QN2BCtV/4u-classic-rock.png",4U Classic Rock
+https://str4uice.streamakaci.com/4uclassicrock320.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/3TMHZBh/HD-Classic-Rock.png",HD Classic Rock
+http://rosetta.shoutca.st:8352/;
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/KN3kRF3/The-Metal-MIXX.png",The Metal Mixx 
+http://ais-sa2.cdnstream1.com/1987_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/gZRqKnj/radiom2o.png",Radiom2o 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/sCqQ6mm/smash-radio.png",Smash Radio 
+http://a3.smashmalta.com:82/live/smash/smash/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/vhMkh5m/smash-rock-radio.png",Smash Rock Radio 
+http://a3.smashmalta.com:82/live/smash/smash/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="https://i.ibb.co/T1fccVS/smash-retro-radio.png",Smash Retro Radio 
+http://a3.smashmalta.com:82/live/smash/smash/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Radio" tvg-logo="",Smash Indie Radio 
+http://a3.smashmalta.com:82/live/smash/smash/38.ts
+
 
 //Music
 #EXTINF:-1 group-title="Music Channels" tvg-logo="https://img1.wsimg.com/isteam/ip/d657f278-1d55-4f25-8434-d92320aeffc0/Smash%20Communications%20Logo%20White.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true",SMASH Retro
