@@ -1242,91 +1242,13 @@ http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbk9tcag4U9ryrBGFUMDbeBcmDCRH6wxrTBA&usqp=CAU",UFC Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-//UK SPORTS
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport 1" tvg-logo="http://185.165.243.195/logo_plus/UK/BTSPORTS1.png" group-title="UK SPORTS",|UK| BT Sport 1
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/224060|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport 2" tvg-logo="http://185.165.243.195/logo_plus/UK/BTSPORTS2.png" group-title="UK SPORTS",|UK| BT Sport 2
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/224061|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BT Sport 3" tvg-logo="http://185.165.243.195/logo_plus/UK/BTSPORTS3.png" group-title="UK SPORTS",|UK| BT Sport 3
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/224062|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="|UK| BT Sport 1 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS1.png" group-title="UK SPORTS",|UK| BT Sport 1 FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50866|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="|UK| BT SPORTS FHD 1" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS1.png" group-title="UK SPORTS",|UK| BT SPORTS FHD 1
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50867|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="|UK| BT Sport 2 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS2.png" group-title="UK SPORTS",|UK| BT Sport 2 FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50868|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="|UK| BT SPORTS FHD 2" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS2.png" group-title="UK SPORTS",|UK| BT SPORTS FHD 2
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50869|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="|UK| BT Sport 3 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS3.png" group-title="UK SPORTS",|UK| BT Sport 3 FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50870|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="|UK| BT SPORTS FHD 3" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS3.png" group-title="UK SPORTS",|UK| BT SPORTS FHD 3
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50871|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="|UK| BT Sport ESPN FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTSESPN.png" group-title="UK SPORTS",|UK| BT Sport ESPN FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50872|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="eir Sport 1 UK" tvg-name="|UK| Eir Sports 1 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EIRSPORTS1.png" group-title="UK SPORTS",|UK| Eir Sports 1 FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50873|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="eir Sport 2 UK" tvg-name="|UK| Eir Sports 2 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EIRSPORTS2.png" group-title="UK SPORTS",|UK| Eir Sports 2 FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50874|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="|UK.VIP| Sky Sports News FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSNEWS.png" group-title="UK SPORTS",|UK.VIP| Sky Sports News FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50835|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="|UK| SKY SPORTS RACING FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RACINGUKHD.png" group-title="UK SPORTS",|UK| SKY SPORTS RACING FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50836|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="|UK| SKY SPORTS RACING HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RACINGUKHD.png" group-title="UK SPORTS",|UK| SKY SPORTS RACING HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50837|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="Sky Sports News UK" tvg-name="|UK| SKY SPORTS NEWS HD" tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/SKYNEWSS.jpeg" group-title="UK SPORTS",|UK| SKY SPORTS NEWS HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50838|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="|UK| SKY SPORTS CRICKET HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSCRICKET.png" group-title="UK SPORTS",|UK| SKY SPORTS CRICKET HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50839|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="|UK| SKY SPORTS CRICKET SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSCRICKET.png" group-title="UK SPORTS",|UK| SKY SPORTS CRICKET SD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50840|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="|UK| SKY SPORTS F1 HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSF1.png" group-title="UK SPORTS",|UK| SKY SPORTS F1 HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50841|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="|UK| SKY SPORTS ARENA HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSARENA.png" group-title="UK SPORTS",|UK| SKY SPORTS ARENA HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50842|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSFOOTBALL.png" group-title="UK SPORTS",|UK| SKY SPORTS FOOTBALL HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50843|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="|UK| SKY SPORTS ACTION HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSACTION.png" group-title="UK SPORTS",|UK| SKY SPORTS ACTION HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50844|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAPREMIERE.png" group-title="UK SPORTS",|UK| SKY SPORTS PREMIER LEAGUE HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50845|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSMAINEVENT.png" group-title="UK SPORTS",|UK| SKY SPORTS MAIN EVENT HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50846|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="|UK| SKY SPORTS GOLF HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT-GOLF.png" group-title="UK SPORTS",|UK| SKY SPORTS GOLF HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50847|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="|UK| Sky Sports Mix FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSMIX.png" group-title="UK SPORTS",|UK| Sky Sports Mix FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50848|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="|UK| SKY SPORTS MIX FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSMIX.png" group-title="UK SPORTS",|UK| SKY SPORTS MIX FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50849|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="|UK| BT SPORTS ESPN HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTSESPN.png" group-title="UK SPORTS",|UK| BT SPORTS ESPN HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50850|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="|UK| Eurosport 1 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORTS1.png" group-title="UK SPORTS",|UK| Eurosport 1 FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50851|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="|UK| Eurosport 2 FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT2.png" group-title="UK SPORTS",|UK| Eurosport 2 FHD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50852|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="|UK| EUROSPORTS HD 2" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT2.png" group-title="UK SPORTS",|UK| EUROSPORTS HD 2
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50853|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="|UK| PREMIER SPORTS HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMIERSPORT.png" group-title="UK SPORTS",|UK| PREMIER SPORTS HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50854|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="|UK| EUROSPORTS HD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT.png" group-title="UK SPORTS",|UK| EUROSPORTS HD
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50855|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="|UK| SKY SPORTS FHD ACTION" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSACTION.png" group-title="UK SPORTS",|UK| SKY SPORTS FHD ACTION
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50856|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="|UK| SKY SPORTS FHD ARENA" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSARENA.png" group-title="UK SPORTS",|UK| SKY SPORTS FHD ARENA
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50857|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS FHD CRICKET" tvg-logo="http://185.165.243.195/logo_plus/UK/SKYSPORTSCRICKET.png" group-title="UK SPORTS",|UK| SKY SPORTS FHD CRICKET
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50858|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="|UK| SKY SPORTS FHD F1" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSF1.png" group-title="UK SPORTS",|UK| SKY SPORTS FHD F1
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50859|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="|UK| SKY SPORTS FHD FOOTBALL" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT-FOOTBALL.png" group-title="UK SPORTS",|UK| SKY SPORTS FHD FOOTBALL
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50860|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="|UK| SKY SPORTS FHD GOLF" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT-GOLF.png" group-title="UK SPORTS",|UK| SKY SPORTS FHD GOLF
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50861|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="|UK| SKY SPORTS FHD MAIN EVENT" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSMAINEVENT.png" group-title="UK SPORTS",|UK| SKY SPORTS FHD MAIN EVENT
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50862|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
-#EXTINF:-1 tvg-id="Sky Sports Premier League HD UK" tvg-name="|UK| SKY SPORTS FHD PREMIER LEAGUE" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSPREMIERLEAGUE.png" group-title="UK SPORTS",|UK| SKY SPORTS FHD PREMIER LEAGUE
-http://armada123.ddns.net:2082/DM_UNITEDKINGDOOM/gbU78hyg/50863|user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
+//Bein Premium
+#EXTINF:-1 tvg-name="beINSports 1 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BeIN Sports Premium",BeIN Sports 1 Premium
+http://55.1-bour.xyz/live/6161655/index.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="beINSports 2 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="BeIN Sports Premium",BeIN Sports 2 Premium
+http://55.1-bour.xyz/live/616194987/index.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-name="beINSports 3 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BeIN Sports Premium",BeIN Sports 3 Premium
+http://55.1-bour.xyz/live/6151278887/index.m3u8|user-agent=Mozilla/5.0
 
 
 //Sports Total
