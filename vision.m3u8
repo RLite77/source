@@ -674,17 +674,17 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_96.png" group-title="Lifestyle",Infotainment ID
+#EXTINF:0 tvg-id="" tvg-name="Infotainment" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_96.png" group-title="Lifestyle",Infotainment ID
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="Waku Waku" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_wakuwaku_small.png?v=2.0.0.13" group-title="Lifestyle",Waku Waku Japan
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="Waku Waku Japan" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_wakuwaku_small.png?v=2.0.0.13" group-title="Lifestyle",Waku Waku Japan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_86.png" group-title="Lifestyle",MNC Entertainment
+#EXTINF:0 tvg-id="" tvg-name="Entertainment" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_86.png" group-title="Lifestyle",MNC Entertainment
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 
@@ -1961,17 +1961,17 @@ https://akamai.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.dropbox.com/s/w4rdtu7d846orp0/mncinfo.png?dl=1", MNC INFOTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="Infotainment" group-title="Lifestyle" tvg-logo="https://www.dropbox.com/s/w4rdtu7d846orp0/mncinfo.png?dl=1", MNC INFOTAINMENT
 https://akamai.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.dropbox.com/s/xjtphtnzk0gfu23/mnc%20shop.png?dl=1", MNC SHOP
+#EXTINF:-1 tvg-id="" tvg-name="MSHOP Signature" group-title="Lifestyle" tvg-logo="https://www.dropbox.com/s/xjtphtnzk0gfu23/mnc%20shop.png?dl=1", MNC SHOP
 https://akamai.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.dropbox.com/s/xjtphtnzk0gfu23/mnc%20shop.png?dl=1", MNC SHOP SMART
+#EXTINF:-1 tvg-id="" tvg-name="MSHOP Super Sale" group-title="Lifestyle" tvg-logo="https://www.dropbox.com/s/xjtphtnzk0gfu23/mnc%20shop.png?dl=1", MNC SHOP SMART
 https://akamai.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 
 ///// MUSIK /////
