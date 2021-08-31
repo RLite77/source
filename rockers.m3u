@@ -81,7 +81,7 @@ https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 #EXTINF:-1 tvg-ID="303" tvg-logo="https://i.ibb.co/d0g5fjt/go-shop.png" group-title="Malaysia",Go Shop 303
 https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="Al-hijrah" tvg-logo="https://i.ibb.co/P9zsYjD/al-hijrah.png" group-title="Malaysia",Al-hijrah
+#EXTINF:-1 tvg-id="114" tvg-name="Al-hijrah" tvg-logo="https://i.ibb.co/P9zsYjD/al-hijrah.png" group-title="Malaysia",Al-Hijrah
 http://50.7.161.82:8278/streams/d/alhijrah_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" tvg-logo="https://i.ibb.co/CHkSRCM/a-ceria.png" group-title="Malaysia",Astro Ceria HD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
