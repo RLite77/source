@@ -4741,7 +4741,7 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 
 //Mix
 #EXTM3U
-EXTINF:-1 tvg-logo="" group-title="Mix",US Animal Planet
+#EXTINF:-1 tvg-logo="" group-title="Mix",US Animal Planet
 http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Mix",US Discovery Channel
 http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
