@@ -435,7 +435,7 @@ http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.ibb.co/5kVDkPw/usa-net.png" group-title="Movies", US: ‎USA Network  HD
 http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-logo="https://i.ibb.co/Z620f75/sky-cinema-action.png" group-title="Movies", UK: Sky.Action.uk HD
+#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-logo="https://i.ibb.co/Z620f75/sky-cinema-action.png" group-title="Movies", UK: Sky Cinema Action HD
 http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://i.ibb.co/mDh37Y7/sky-cinema-comedy.png" group-title="Movies", UK: Sky Cinema Comedy HD 
 http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
