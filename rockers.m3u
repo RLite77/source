@@ -2430,6 +2430,124 @@ http://nwbz1u.ecm.tm/806B6CF/89111e/GL_ITV4/tracks-v1a1/index.m3u8?token=0558356
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/f1bh4jW/syfy.png" group-title="UK",UK: SYFY
 http://stream.tvtap.live:8081/live/uk-syfy.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="UK:ITV 1" tvg-logo="" group-title="UK",UK:ITV 1
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3450
+#EXTINF:-1 tvg-id="" tvg-name="UK:ITV 2" tvg-logo="" group-title="UK",UK:ITV 2
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3451
+#EXTINF:-1 tvg-id="" tvg-name="UK:ITV 3" tvg-logo="" group-title="UK",UK:ITV 3
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3452
+#EXTINF:-1 tvg-id="" tvg-name="UK:ITV 4" tvg-logo="" group-title="UK",UK:ITV 4
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3453
+#EXTINF:-1 tvg-id="" tvg-name="UK:ITVBE" tvg-logo="" group-title="UK",UK:ITVBE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3454
+#EXTINF:-1 tvg-id="" tvg-name="UK:TLC" tvg-logo="" group-title="UK",UK:TLC
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3496
+#EXTINF:-1 tvg-id="" tvg-name="UK:SYFY" tvg-logo="" group-title="UK",UK:SYFY
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3494
+#EXTINF:-1 tvg-id="" tvg-name="UK:FOX" tvg-logo="" group-title="UK",UK:FOX
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3445
+#EXTINF:-1 tvg-id="" tvg-name="UK:HBO HD" tvg-logo="" group-title="UK",UK:HBO HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3446
+#EXTINF:-1 tvg-id="" tvg-name="UK:BBC ONE" tvg-logo="" group-title="UK",UK:BBC ONE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3412
+#EXTINF:-1 tvg-id="" tvg-name="UK:BBC TWO" tvg-logo="" group-title="UK",UK:BBC TWO
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3414
+#EXTINF:-1 tvg-id="" tvg-name="UK:BBC 4 HD" tvg-logo="" group-title="UK",UK:BBC 4 HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3411
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY MOVIES SCI-FI HORROR HD" tvg-logo="" group-title="UK",UK:SKY MOVIES SCI-FI HORROR HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3480
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY MOVIES PREMIER HD" tvg-logo="" group-title="UK",UK:SKY MOVIES PREMIER HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3479
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY MOVIES SCI-FI AND HORROR " tvg-logo="" group-title="UK",UK:SKY MOVIES SCI-FI AND HORROR 
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3477
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY MOVIES GREATS HD" tvg-logo="" group-title="UK",UK:SKY MOVIES GREATS HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3476
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY MOVIES DRAMA ROMANCE" tvg-logo="" group-title="UK",UK:SKY MOVIES DRAMA ROMANCE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3475
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY MOVIES DISNEY HD" tvg-logo="" group-title="UK",UK:SKY MOVIES DISNEY HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3474
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY MOVIES CRIME THRILLER HD" tvg-logo="" group-title="UK",UK:SKY MOVIES CRIME THRILLER HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3473
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY MOVIES COMEDY HD" tvg-logo="" group-title="UK",UK:SKY MOVIES COMEDY HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3472
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY MOVIES ACTION ADVENTURE HD" tvg-logo="" group-title="UK",UK:SKY MOVIES ACTION ADVENTURE HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3471
+#EXTINF:-1 tvg-id="" tvg-name="UK:HBO COMEDY HD" tvg-logo="" group-title="UK",UK:HBO COMEDY HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3447
+#EXTINF:-1 tvg-id="" tvg-name="UK:BBC NEWS" tvg-logo="" group-title="UK",UK:BBC NEWS
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3440
+#EXTINF:-1 tvg-id="" tvg-name="UK:CBS REALTY" tvg-logo="" group-title="UK",UK:CBS REALTY
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3429
+#EXTINF:-1 tvg-id="" tvg-name="UK:CBS DRAMA" tvg-logo="" group-title="UK",UK:CBS DRAMA
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3428
+#EXTINF:-1 tvg-id="" tvg-name="UK:CBS ACTION" tvg-logo="" group-title="UK",UK:CBS ACTION
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3427
+#EXTINF:-1 tvg-id="" tvg-name="UK:BABY TV" tvg-logo="" group-title="UK",UK:BABY TV
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3410
+#EXTINF:-1 tvg-id="" tvg-name="UK:DISNEY XD" tvg-logo="" group-title="UK",UK:DISNEY XD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3437
+#EXTINF:-1 tvg-id="" tvg-name="UK:DISNEY JUNIOR" tvg-logo="" group-title="UK",UK:DISNEY JUNIOR
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3436
+#EXTINF:-1 tvg-id="" tvg-name="UK:DISNEY CHANNEL" tvg-logo="" group-title="UK",UK:DISNEY CHANNEL
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3462
+#EXTINF:-1 tvg-id="" tvg-name="UK:NICKTOONS" tvg-logo="" group-title="UK",UK:NICKTOONS
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3466
+#EXTINF:-1 tvg-id="" tvg-name="UK:NICKELODEON" tvg-logo="" group-title="UK",UK:NICKELODEON
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3465
+#EXTINF:-1 tvg-id="" tvg-name="UK:BOOMERANG" tvg-logo="" group-title="UK",UK:BOOMERANG
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3417
+#EXTINF:-1 tvg-id="" tvg-name="UK:COMEDY CENTRAL" tvg-logo="" group-title="UK",UK:COMEDY CENTRAL
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3431
+#EXTINF:-1 tvg-id="" tvg-name="UK:CARTOON NETWORK" tvg-logo="" group-title="UK",UK:CARTOON NETWORK
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3426
+#EXTINF:-1 tvg-id="" tvg-name="UK:NAT GEO WILD" tvg-logo="" group-title="UK",UK:NAT GEO WILD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3406
+#EXTINF:-1 tvg-id="" tvg-name="UK:NAT GEO CH" tvg-logo="" group-title="UK",UK:NAT GEO CH
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3460
+#EXTINF:-1 tvg-id="" tvg-name="UK:HISTORY CAHNNEL" tvg-logo="" group-title="UK",UK:HISTORY CAHNNEL
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3448
+#EXTINF:-1 tvg-id="" tvg-name="UK:DISCOVERY SCIENCE" tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png" group-title="UK",UK:DISCOVERY SCIENCE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3434
+#EXTINF:-1 tvg-id="" tvg-name="UK:DISCOVERY HISTORY" tvg-logo="" group-title="UK",UK:DISCOVERY HISTORY
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3433
+#EXTINF:-1 tvg-id="" tvg-name="UK:DISCOVERY HD" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="UK",UK:DISCOVERY HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3432
+#EXTINF:-1 tvg-id="" tvg-name="UK:ANIMAL PLANET" tvg-logo="" group-title="UK",UK:ANIMAL PLANET
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3409
+#EXTINF:-1 tvg-id="" tvg-name="UK:NBA TV" tvg-logo="" group-title="UK",UK:NBA TV
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3461
+#EXTINF:-1 tvg-id="" tvg-name="UK:EUROSPORT 1HD" tvg-logo="" group-title="UK",UK:EUROSPORT 1HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3441
+#EXTINF:-1 tvg-id="" tvg-name="UK:EUROSPORT 2HD" tvg-logo="" group-title="UK",UK:EUROSPORT 2HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3442
+#EXTINF:-1 tvg-id="" tvg-name="UK:BBC CBEESE" tvg-logo="" group-title="UK",UK:BBC CBEESE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3365
+#EXTINF:-1 tvg-id="" tvg-name="UK:ESPN 2 HD" tvg-logo="" group-title="UK",UK:ESPN 2 HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1092
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY SPORTS NEWS HD" tvg-logo="" group-title="UK",UK:SKY SPORTS NEWS HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3487
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY SPORTS MIX" tvg-logo="" group-title="UK",UK:SKY SPORTS MIX
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3486
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY SPORTS F1" tvg-logo="" group-title="UK",UK:SKY SPORTS F1
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3483
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="UK",UK:SKY SPORTS PREMIER LEAGUE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3488
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY SPORTS MAIN EVENT" tvg-logo="" group-title="UK",UK:SKY SPORTS MAIN EVENT
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3485
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY SPORTS FOOTBALL" tvg-logo="" group-title="UK",UK:SKY SPORTS FOOTBALL
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3484
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY SPORTS CRICKET" tvg-logo="" group-title="UK",UK:SKY SPORTS CRICKET
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3482
+#EXTINF:-1 tvg-id="" tvg-name="UK:SKY SPORTS ACTION" tvg-logo="" group-title="UK",UK:SKY SPORTS ACTION
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3481
+#EXTINF:-1 tvg-id="" tvg-name="UK:BT SPORT 1 HD" tvg-logo="" group-title="UK",UK:BT SPORT 1 HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3418
+#EXTINF:-1 tvg-id="" tvg-name="UK:BT SPORT 2 HD" tvg-logo="" group-title="UK",UK:BT SPORT 2 HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3419
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="UK:BT SPORT 3 HD" tvg-logo="" group-title="UK",UK:BT SPORT 3 HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3420
+
+
 
 
 
