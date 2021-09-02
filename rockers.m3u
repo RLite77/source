@@ -434,17 +434,18 @@ http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.ibb.co/5kVDkPw/usa-net.png" group-title="Movies", US: ‎USA Network  HD
 http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z620f75/sky-cinema-action.png" group-title="Movies", UK: Sky Cinema Action HD
+
+#EXTINF:-1 tvg-id="Sky.Action.uk" tvg-logo="https://i.ibb.co/Z620f75/sky-cinema-action.png" group-title="Movies", UK: Sky.Action.uk HD
 http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mDh37Y7/sky-cinema-comedy.png" group-title="Movies", UK: Sky Cinema Comedy HD 
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://i.ibb.co/mDh37Y7/sky-cinema-comedy.png" group-title="Movies", UK: Sky Cinema Comedy HD 
 http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Bzytcsx/sky-cinema-thriller.png" group-title="Movies", UK: Sky Cinema Crime & Thriller HD
+#EXTINF:-1 tvg-id="Sky.Thriller.uk" tvg-logo="https://i.ibb.co/Bzytcsx/sky-cinema-thriller.png" group-title="Movies", UK: Sky Cinema Crime & Thriller HD
 http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TwJ8K3W/sky-cinema-disney.png" group-title="Movies", UK: Sky Cinema Disney HD
+#EXTINF:-1 tvg-id="Sky.Disney.HD.uk" tvg-logo="https://i.ibb.co/TwJ8K3W/sky-cinema-disney.png" group-title="Movies", UK: Sky Cinema Disney HD
 http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TPQ8Nfv/sky-cinema-family.png" group-title="Movies", UK: Sky Cinema Family FHD
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://i.ibb.co/TPQ8Nfv/sky-cinema-family.png" group-title="Movies", UK: Sky Cinema Family FHD
 http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yq0NgxD/sky-cinema-premiere.png" group-title="Movies", UK: Sky Cinema Premiere HD
+#EXTINF:-1 tvg-id="Sky.Premiere.uk" tvg-logo="https://i.ibb.co/yq0NgxD/sky-cinema-premiere.png" group-title="Movies", UK: Sky Cinema Premiere HD
 http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
 
 
