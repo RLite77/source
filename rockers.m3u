@@ -330,56 +330,45 @@ https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YdhR2GH/MCN.png" group-title="Movies",MCN
 http://210.210.129.106/uq2663/h/h90/S1/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p0dQbgp/rakuten.png" group-title="Movies",Rakuten TV
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.es" tvg-name="Rakuten TV Action Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/NTtFBwx/rakuten-action.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Movies",Rakuten TV Action Movies UK
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.es" tvg-name="Rakuten TV Comedy Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/1zH5pTx/rakuten-comedy.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Movies",Rakuten TV Comedy Movies UK
-https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaUK.es" tvg-name="Rakuten TV Drama UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/h1dJmRS/rakuten-drama.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Movies",Rakuten TV Drama UK
-https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.es" tvg-name="Rakuten TV Family Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/k6PdMN6/rakuten-family.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Movies",Rakuten TV Family Movies UK
-https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightUK.es" tvg-name="Rakuten TV Spotlight UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/W5xQcmT/rakuten-spotlight.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Movies",Rakuten TV Spotlight UK
-https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSNKnJP/hallmar-more.png" group-title="Movies",US: Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L67rrJr/stirr.png" group-title="Movies",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
-#EXTINF:-1 tvg-id="SHOWHD" tvg-name="Showtime East US" tvg-logo="https://i.ibb.co/F7wTTbG/showtime.png" group-title="Movies",US: Showtime East HD
+#EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-name="Showtime East US" tvg-logo="https://i.ibb.co/F7wTTbG/showtime.png" group-title="Movies",US: Showtime East HD
 http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBO East US" tvg-logo="https://i.ibb.co/p4sC1S9/hbo-us.png" group-title="Movies",US: HBO East HD
+#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-name="HBO East US" tvg-logo="https://i.ibb.co/p4sC1S9/hbo-us.png" group-title="Movies",US: HBO East HD
 http://stream.tvtap.live:8081/live/us-hbo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOFHD" tvg-name="HBO Family US" tvg-logo="https://i.ibb.co/KKqjv5J/hbo-family.png" group-title="Movies",US: HBO Family HD
+#EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-name="HBO Family US" tvg-logo="https://i.ibb.co/KKqjv5J/hbo-family.png" group-title="Movies",US: HBO Family HD
 http://stream.tvtap.live:8081/live/us-hbofamily.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOZHD" tvg-name="HBO Zone US" tvg-logo="https://i.ibb.co/NFGk5sP/hbo-zone.png" group-title="Movies",US: HBO Zone HD
+#EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-name="HBO Zone US" tvg-logo="https://i.ibb.co/NFGk5sP/hbo-zone.png" group-title="Movies",US: HBO Zone HD
 http://stream.tvtap.live:8081/live/us-hbozone.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STZHD" tvg-name="Starz East US" tvg-logo="https://i.ibb.co/Rzj1HWv/starz.png" group-title="Movies",US: Starz East HD
+#EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-name="Starz East US" tvg-logo="https://i.ibb.co/Rzj1HWv/starz.png" group-title="Movies",US: Starz East HD
 http://stream.tvtap.live:8081/live/us-starz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SZEHD" tvg-name="Starz Edge US" tvg-logo="https://i.ibb.co/rm5z12z/starz-edge.png" group-title="Movies",US: Starz Edge HD
+#EXTINF:-1 tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-name="Starz Edge US" tvg-logo="https://i.ibb.co/rm5z12z/starz-edge.png" group-title="Movies",US: Starz Edge HD
 http://stream.tvtap.live:8081/live/us-starzedge.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="STZEH" tvg-name="Starz Encore US" tvg-logo="https://i.ibb.co/CtLWmrp/starz-encore.png" group-title="Movies",US: Starz Encore HD
+#EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-name="Starz Encore US" tvg-logo="https://i.ibb.co/CtLWmrp/starz-encore.png" group-title="Movies",US: Starz Encore HD
 http://stream.tvtap.live:8081/live/us-starzencore.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SZCHD" tvg-name="Starz Comedy US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/398px-Starz_2016.svg.png" group-title="Movies",Starz Comedy US
+#EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us" tvg-name="Starz Comedy US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/398px-Starz_2016.svg.png" group-title="Movies",Starz Comedy US
 http://stream.tvtap.live:8081/live/us-starz-comedy.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SZCIH" tvg-name="Starz Cinema US" tvg-logo="https://i.ibb.co/vHs37jy/starz-cinema.png" group-title="Movies",US: Starz Cinema HD
+#EXTINF:-1 tvg-id="STARZ.Cinema.HD.(East).(SZCIH).us" tvg-name="Starz Cinema US" tvg-logo="https://i.ibb.co/vHs37jy/starz-cinema.png" group-title="Movies",US: Starz Cinema HD
 http://stream.tvtap.live:8081/live/us-starzcinema.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MAXHD" tvg-name="Cinemax East US" tvg-logo="https://i.ibb.co/7pZBsbT/cinemax-us.png" group-title="Movies",US: Cinemax East HD
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-name="Cinemax East US" tvg-logo="https://i.ibb.co/7pZBsbT/cinemax-us.png" group-title="Movies",US: Cinemax East HD
 http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="5StarMAXHD" tvg-name="5StarMAXHD" tvg-logo="https://i.ibb.co/ctrdsKQ/5-starmax.png" group-title="Movies",US: Cinemax 5StarMax HD
+#EXTINF:-1 tvg-id="Five.Star.Max.HDTV.(5MXHD).us" tvg-name="5StarMAXHD" tvg-logo="https://i.ibb.co/ctrdsKQ/5-starmax.png" group-title="Movies",US: Cinemax 5StarMax HD
 http://stream.tvtap.live:8081/live/us-cinemax-5starmax.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AMXHD" tvg-name="Cinemax ActionMax US" tvg-logo="https://i.ibb.co/SJ3FrfY/actionmax.png" group-title="Movies",US: Cinemax ActionMax HD
+#EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-name="Cinemax ActionMax US" tvg-logo="https://i.ibb.co/SJ3FrfY/actionmax.png" group-title="Movies",US: Cinemax ActionMax HD
 http://stream.tvtap.live:8081/live/us-cinemaxaction.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TMXHD" tvg-name="Cinemax ThrillerMax US" tvg-logo="https://i.ibb.co/bL7GCKt/thrillermax.png" group-title="Movies",US: Cinemax ThrillerMax HD
+#EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-name="Cinemax ThrillerMax US" tvg-logo="https://i.ibb.co/bL7GCKt/thrillermax.png" group-title="Movies",US: Cinemax ThrillerMax HD
 http://stream.tvtap.live:8081/live/us-cinemax-thrillermax.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EPIXHD" tvg-name="Epix East US" tvg-logo="https://i.ibb.co/fxSWkNC/epix.png" group-title="Movies",US: Epix East HD
+#EXTINF:-1 tvg-id="EPIX.HDTV.(East).(EPIXHD).us" tvg-name="Epix East US" tvg-logo="https://i.ibb.co/fxSWkNC/epix.png" group-title="Movies",US: Epix East HD
 http://bestsave.ltd:8011/1020304050/5040302010/81102
-#EXTINF:-1 tvg-id="EPIX2HD" tvg-name="EPIX2 HDTV (East) (EPIXHD)" tvg-logo="https://i.ibb.co/wrLcbv6/epix2.png" group-title="Movies",US: Epix 2 East HD
+#EXTINF:-1 tvg-id="EPIX2.HDTV.(East).(EPIXHD).us" tvg-name="EPIX2 HDTV (East) (EPIXHD)" tvg-logo="https://i.ibb.co/wrLcbv6/epix2.png" group-title="Movies",US: Epix 2 East HD
 http://bestsave.ltd:8011/1020304050/5040302010/81101
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Movies" tvg-logo="https://i.ibb.co/PtbbFkP/action-movies.png" group-title="Movies",24/7 Movies
@@ -401,49 +390,49 @@ http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7220
 #http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOHD" tvg-logo="https://i.ibb.co/p4sC1S9/hbo-us.png" group-title="Movies", US: HBO East HD
+#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-logo="https://i.ibb.co/p4sC1S9/hbo-us.png" group-title="Movies", US: HBO East HD
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOFHD" tvg-logo="https://i.ibb.co/KKqjv5J/hbo-family.png" group-title="Movies", US: HBO Family HD
+#EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-logo="https://i.ibb.co/KKqjv5J/hbo-family.png" group-title="Movies", US: HBO Family HD
 http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOZHD" tvg-logo="https://i.ibb.co/NFGk5sP/hbo-zone.png" group-title="Movies", US: HBO Zone FHD
+#EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://i.ibb.co/NFGk5sP/hbo-zone.png" group-title="Movies", US: HBO Zone FHD
 http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MAXHD" tvg-logo="https://i.ibb.co/7pZBsbT/cinemax-us.png" group-title="Movies", US: Cinemax FHD
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://i.ibb.co/7pZBsbT/cinemax-us.png" group-title="Movies", US: Cinemax FHD
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AMXHD" tvg-logo="https://i.ibb.co/7pZBsbT/cinemax-us.png" group-title="Movies", US: Cinemax Action HD
+#EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://i.ibb.co/7pZBsbT/cinemax-us.png" group-title="Movies", US: Cinemax Action HD
 http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="STZHD" tvg-logo="https://i.ibb.co/Rzj1HWv/starz.png" group-title="Movies", US: Starz East HD
+#EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://i.ibb.co/Rzj1HWv/starz.png" group-title="Movies", US: Starz East HD
 http://31.220.41.88:8081/live/us-starz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SZCIH" tvg-logo="https://i.ibb.co/vHs37jy/starz-cinema.png" group-title="Movies", US: Starz Cinema HD
+#EXTINF:-1 tvg-id="STARZ.Cinema.HD.(East).(SZCIH).us" tvg-logo="https://i.ibb.co/vHs37jy/starz-cinema.png" group-title="Movies", US: Starz Cinema HD
 http://31.220.41.88:8081/live/us-starzcinema.stream/playlist.m3u8
-#EXTIN:-1 tvg-id="SZHDw" tvg-logo="https://i.ibb.co/rm5z12z/starz-edge.png" group-title="Movies", US: Starz Edge West HD
+#EXTIN:-1 tvg-id="STARZ.HD.(West).(SZHDw).us" tvg-logo="https://i.ibb.co/rm5z12z/starz-edge.png" group-title="Movies", US: Starz Edge West HD
 http://31.220.41.88:8081/live/us-starzedge.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="STZEH" tvg-logo="https://i.ibb.co/CtLWmrp/starz-encore.png" group-title="Movies", US: Starz Encore East HD
+#EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-logo="https://i.ibb.co/CtLWmrp/starz-encore.png" group-title="Movies", US: Starz Encore East HD
 http://31.220.41.88:8081/live/us-starzencore.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CMDHD" tvg-logo="" group-title="Movies", US: Comedy Central HD
+#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="" group-title="Movies", US: Comedy Central HD
 http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SHOHD" tvg-logo="https://i.ibb.co/F7wTTbG/showtime.png" group-title="Movies", US: Showtime East HD
+#EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://i.ibb.co/F7wTTbG/showtime.png" group-title="Movies", US: Showtime East HD
 http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SHO2HD" tvg-logo="https://i.ibb.co/qBHr1Jj/showtime-2.png" group-title="Movies", US: Showtime 2 FHD
+#EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://i.ibb.co/qBHr1Jj/showtime-2.png" group-title="Movies", US: Showtime 2 FHD
 http://31.220.41.88:8081/live/us-showtime2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PARHD" tvg-logo="" group-title="Movies", US: Paramount (Spike)
+#EXTINF:-1 tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-logo="" group-title="Movies", US: Paramount (Spike)
 http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LIFEH" tvg-logo="https://i.ibb.co/qRjT04L/lifetime.png" group-title="Movies", US: Lifetime HD
+#EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://i.ibb.co/qRjT04L/lifetime.png" group-title="Movies", US: Lifetime HD
 http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LIFEMOV" tvg-logo="https://i.ibb.co/qRjT04L/lifetime.png" group-title="Movies", US: Lifetime Movie Network FHD
+#EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://i.ibb.co/qRjT04L/lifetime.png" group-title="Movies", US: Lifetime Movie Network FHD
 http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FXHD" tvg-logo="https://i.ibb.co/wCNxGsd/fx.png" group-title="Movies", US: FX HD
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://i.ibb.co/wCNxGsd/fx.png" group-title="Movies", US: FX HD
 http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FXXHD" tvg-logo="https://i.ibb.co/SKR37WS/fxx.png" group-title="Movies", US: FXX HD
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://i.ibb.co/SKR37WS/fxx.png" group-title="Movies", US: FXX HD
 http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HALLHD" tvg-logo="https://i.ibb.co/xSNKnJP/hallmar-more.png" group-title="Movies", US: Hallmark Channel East HD
+#EXTINF:-1 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-logo="https://i.ibb.co/xSNKnJP/hallmar-more.png" group-title="Movies", US: Hallmark Channel East HD
 http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SYFYHD" tvg-logo="https://i.ibb.co/f1bh4jW/syfy.png" group-title="Movies", US: Syfy HD
+#EXTINF:-1 tvg-id="Syfy.(East).HDTV.(SYFYHD).us" tvg-logo="https://i.ibb.co/f1bh4jW/syfy.png" group-title="Movies", US: Syfy HD
 http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TBSHD" tvg-logo="https://i.ibb.co/py7jW2F/tbs-us.png" group-title="Movies", US: TBS
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(West).(TBSHD).us" tvg-logo="https://i.ibb.co/py7jW2F/tbs-us.png" group-title="Movies", US: TBS
 http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTHD" tvg-logo="https://i.ibb.co/db0MSLC/tnt.png" group-title="Movies", US: TNT  HD
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://i.ibb.co/db0MSLC/tnt.png" group-title="Movies", US: TNT  HD
 http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="USAHD" tvg-logo="https://i.ibb.co/5kVDkPw/usa-net.png" group-title="Movies", US: ‎USA Network  HD
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.ibb.co/5kVDkPw/usa-net.png" group-title="Movies", US: ‎USA Network  HD
 http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z620f75/sky-cinema-action.png" group-title="Movies", UK: Sky Cinema Action HD
 http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
@@ -481,6 +470,19 @@ http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/150/01.m3u8?&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=34118fd72bb9dd3695e667df26df015c
 #EXTINF:-1 tvg-name="Action Movies 11" tvg-logo="https://i.ibb.co/PtbbFkP/action-movies.png" group-title="Movies",Action Movies 11
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0dQbgp/rakuten.png" group-title="Movies",Rakuten TV
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesUK.es" tvg-name="Rakuten TV Action Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/NTtFBwx/rakuten-action.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Movies",Rakuten TV Action Movies UK
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesUK.es" tvg-name="Rakuten TV Comedy Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/1zH5pTx/rakuten-comedy.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Movies",Rakuten TV Comedy Movies UK
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaUK.es" tvg-name="Rakuten TV Drama UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/h1dJmRS/rakuten-drama.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Movies",Rakuten TV Drama UK
+https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.es" tvg-name="Rakuten TV Family Movies UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/k6PdMN6/rakuten-family.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Movies",Rakuten TV Family Movies UK
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightUK.es" tvg-name="Rakuten TV Spotlight UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.ibb.co/W5xQcmT/rakuten-spotlight.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Movies",Rakuten TV Spotlight UK
+https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 //Movies 2
 #EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU",HBO
