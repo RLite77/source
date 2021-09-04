@@ -2,9 +2,12 @@
 #EXTM3U x-tvg-url="https://weareblahs.ga/epg/astro.xml"
 #EXTM3U x-tvg-url="https://weareblahs.ga/epg/rtmklik.xml.gz"
 #EXTM3U x-tvg-url="https://weareblahs.ga/epg/unifitv.xml"
-#EXTM3U x-tvg-url="http://iptv.tvmalaysia.cc/xmltv.php?username=932633&password=932633"
-#EXTM3U x-tvg-url="http://iptvtree.net:8080/xmltv.php?username=aumaleiptv&password=d051xyzaef399hp56"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/MuazT/EPG-Guide/master/ArabicEPG.xml"
+#EXTM3U x-tvg-url="https://link.zozotv.xyz/epgtvku.xml"
+#EXTM3U x-tvg-url="http://stavol.my.id/epg/epg.xml"
+#EXTM3U x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg"
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_US1.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_UK1.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
 
 
 
@@ -14,7 +17,7 @@
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://i.ibb.co/9T1fWWx/tv1.png" group-title="Malaysia",TV1 HD
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://i.ibb.co/vHqJMrW/tv2.png" group-title="Malaysia",TV2
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3	
 https://raw.githubusercontent.com/RLite77/source/main/tv3.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
