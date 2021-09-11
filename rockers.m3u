@@ -915,10 +915,13 @@ http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="espnu.us" tvg-logo="https://i.ibb.co/PFYyfRX/ESPN-U.png" group-title="Sports",ESPN U
 http://stream.tvtap.live:8081/live/espnu.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="espnacc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png" group-title="Sports",ESPN ACC
+#EXTINF:-1 tvg-id="espnacc.us" tvg-logo="https://1.bp.blogspot.com/-gumKLPus_-g/UDyOONSlmTI/AAAAAAAAMrc/ACI2MoYtMqYh5qyNbC8MKpiFici_aBQawCPcBGAYYCw/s1600/ACCDN.jpg" group-title="Sports",ACCDN
 https://120sports-accdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="espnacc.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png" group-title="Sports",ESPN ACC
+http://1local.123sat.net:2082/110032263632835/91415151/83668
 #EXTINF:-1 tvg-id="espnsec.us" tvg-logo="https://i.ibb.co/hBcw4SS/sec.png" group-title="Sports",ESPN SEC
-https://gma2.blab.email/sec.m3u8
+#https://gma2.blab.email/sec.m3u8
+http://scrapehost.com:8080/marlon/marlon/12179
 #EXTINF:-1 tvg-id="big.ten.network.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/360px-Big_Ten_Network_Logo.svg.png" group-title="Sports",Big Ten Network
 http://212.102.60.76:80/n1/mono.m3u8
 #EXTINF:-1 tvg-id="fs1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/300px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",FS1
