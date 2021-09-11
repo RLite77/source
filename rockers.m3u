@@ -2919,8 +2919,7 @@ http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8|user-age
 #EXTINF:-1 group-title="AFC Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/AFC_Champions_League_2008_logo.png",AFC Cup 10
 http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/62.0.3202.94 Safari/537.36
 
-#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",eSports
-http://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
+
 
 
 
@@ -3109,3 +3108,15 @@ http://194.233.66.151:25461/movie/rumah/home/286.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Project Anchor S.P.M S01 E01" tvg-logo="https://iluminasi.com/img/upload/projek-anchor-spm-movie.jpg" group-title="Siri Melayu",Project Anchor S.P.M S01 E01
 http://194.233.66.151:25461/series/rumah/home/255.mp4
+
+//Live Streams
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",eSports
+http://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",EPL 1
+https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index_2.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",EPL 2
+https://d2u41sz0ro4arp.cloudfront.net/out/v1/43bef82b171343e9a2bb73afed960b46/index_1.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",EPL 2
+https://dwm7b47ymr4go.cloudfront.net/out/v1/b594d34ec85b423688bd91ecef44ea13/index_1.m3u8
+#EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",EPL 4
+https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&session_data=1&preview=1&t=1631367507370
