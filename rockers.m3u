@@ -799,12 +799,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="astro.supersport.my"  group-title="Sports" tvg-logo="https://i.ibb.co/PYzB1sd/assp1.png",Astro SuperSport HD
 #http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+https://iptvid.cgflix.xyz/sports/assp1.m3u8
 #EXTINF:-1 tvg-id="astro.supersport.2.my"  group-title="Sports" tvg-logo="https://i.ibb.co/p1jXPNN/assp2.png",Astro SuperSport 2 HD
 #http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+https://iptvid.cgflix.xyz/sports/assp2.m3u8
 #EXTINF:-1 tvg-id="astro.supersport.3.my"  group-title="Sports" tvg-logo="https://i.ibb.co/YdP2r52/assp3.png",Astro SuperSport 3 HD
 #http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+https://iptvid.cgflix.xyz/sports/assp3.m3u8
 #EXTINF:-1 tvg-id="astro.supersport.4.my"  group-title="Sports" tvg-logo="https://i.ibb.co/p4GLV4B/assp4.png",Astro SuperSport 4 HD
 #http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+https://iptvid.cgflix.xyz/sports/assp4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nbXdkzW/epl-1.png" group-title="Sports",Premiere Football HD 1
