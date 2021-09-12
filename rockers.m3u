@@ -1193,9 +1193,31 @@ http://55.1-bour.xyz/live/6161655/index.m3u8|user-agent=Mozilla/5.0
 http://55.1-bour.xyz/live/616194987/index.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-name="beINSports 3 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BeIN Sports Premium",BeIN Sports 3 Premium
 http://55.1-bour.xyz/live/6151278887/index.m3u8|user-agent=Mozilla/5.0
-
+#EXTINF:-1 tvg-name="beINSports 1 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BeIN Sports Premium",BeIN Sports 1 Premium
+http://6.yaciaptk.xyz/live/6161655/index.m3u8?hubtvapp.m3u8
+#EXTINF:-1 tvg-name="beINSports 2 Premium AR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="BeIN Sports Premium",BeIN Sports 2 Premium
+http://16.yaciaptk.xyz/live/616194987/index.m3u8?wostvlive.m3u8
 
 //Bein Sports
+#EXTINF:-1 tvg-id="" tvg-name="beINSports 1 AR" tvg-logo="https://i.ibb.co/qB7qdbJ/bein-1.png" group-title="BeIN Sports",BeIN Sports 1
+http://55.1-bour.xyz/live/918454578/index.m3u8?hubtvapp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSports 2 AR" tvg-logo="https://i.ibb.co/WH0hpnh/bein-2.png" group-title="BeIN Sports",BeIN Sports 2
+http://55.1-bour.xyz/live/69854211/index.m3u8?wostvlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSports 3 AR" tvg-logo="https://i.ibb.co/h7hzMM1/bein-3.png" group-title="BeIN Sports",BeIN Sports 3
+http://7.yaciaptk.xyz/live/645587700/index.m3u8?hubtvapp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSports 4 AR" tvg-logo="https://i.ibb.co/qgwDskq/bein-4.png" group-title="BeIN Sports",BeIN Sports 4 
+http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8?wostvlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSports 1 Xtra AR" tvg-logo="https://i.ibb.co/qB7qdbJ/bein-1.png" group-title="BeIN Sports",BeIN Sports 1 Xtra 
+http://55.abdakaroukhai.xyz/live/9962564400/index.m3u8?hubtvapp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSports 2 Xtra AR" tvg-logo="https://i.ibb.co/WH0hpnh/bein-2.png" group-title="BeIN Sports",BeIN Sports 2 Xtra 
+http://55.abdakaroukhai.xyz/live/880025552/index.m3u8?wostvlive.m3u8
+
+
 
 
 //Lifestyle
@@ -2215,6 +2237,63 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",ZEE TALKIES Marathi
 https://y5w8j4a9.ssl.hwcdn.net/ztalkieshd/index.m3u8
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",HGTV HD
+http://103.112.55.180:8080/play/518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2", Zee TV
+http://103.112.55.180:8080/play/317
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",&Pictures
+http://103.112.55.180:8080/play/a002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",&flix HD
+http://103.112.55.180:8080/play/a003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Animal Planet
+http://103.112.55.180:8080/play/a004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Bindaas
+http://103.112.55.180:8080/play/a006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Colors Infinity HD
+http://103.112.55.180:8080/play/a013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Disney Channel
+http://103.112.55.180:8080/play/a011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Disney Junior
+http://103.112.55.180:8080/play/a012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",ENC-5 Colors HD
+http://103.112.55.180:8080/play/342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",ENC-6 Colors Bangla HD
+http://103.112.55.180:8080/play/213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Fox Life HD
+http://103.112.55.180:8080/play/a015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Hungama
+http://103.112.55.180:8080/play/a022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",MTV
+http://103.112.55.180:8080/play/a017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",SONY PIX
+http://103.112.55.180:8080/play/a020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Sonic
+http://103.112.55.180:8080/play/403
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Sony Max 2
+http://103.112.55.180:8080/play/a026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Star Jalsha HD
+http://103.112.55.180:8080/play/a016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Star Movies
+http://103.112.55.180:8080/play/a032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Star Movies Select HD
+http://103.112.55.180:8080/play/a033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Star Sports 2
+http://103.112.55.180:8080/play/a007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Star Sports 3
+http://103.112.55.180:8080/play/a00a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Star Sports First
+http://103.112.55.180:8080/play/a035
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Star World
+http://103.112.55.180:8080/play/a005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",UTV Movies
+http://103.112.55.180:8080/play/a036
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",VH1 HD
+http://103.112.55.180:8080/play/806
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India 2",Zoom
+http://103.112.55.180:8080/play/a023
 
 
 //USA
