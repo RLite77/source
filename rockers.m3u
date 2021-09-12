@@ -3116,6 +3116,128 @@ http://194.233.66.151:25461/movie/rumah/home/286.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Project Anchor S.P.M S01 E01" tvg-logo="https://iluminasi.com/img/upload/projek-anchor-spm-movie.jpg" group-title="Siri Melayu",Project Anchor S.P.M S01 E01
 http://194.233.66.151:25461/series/rumah/home/255.mp4
 
+#EXTM3U
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV 1" tvg-logo="https://i.imgur.com/bvbWbJD.png" group-title="HiTV - Basic",TV1
+http://194.233.73.66:2082/freehitv/freehitv/1
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV 1" tvg-logo="https://i.imgur.com/bvbWbJD.png" group-title="HiTV - Basic",TV1
+http://194.233.73.66:2082/freehitv/freehitv/2
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV 2" tvg-logo="https://i.imgur.com/WJ36oGA.png" group-title="HiTV - Basic",TV2
+http://194.233.73.66:2082/freehitv/freehitv/3
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV 2" tvg-logo="https://i.imgur.com/WJ36oGA.png" group-title="HiTV - Basic",TV2
+http://194.233.73.66:2082/freehitv/freehitv/4
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV 3" tvg-logo="https://i.imgur.com/Ub07mKT.png" group-title="HiTV - Basic",TV3
+http://194.233.73.66:2082/freehitv/freehitv/5
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV 3" tvg-logo="https://i.imgur.com/Ub07mKT.png" group-title="HiTV - Basic",TV3
+http://194.233.73.66:2082/freehitv/freehitv/6
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV 7" tvg-logo="https://i.imgur.com/YkXfsnE.png" group-title="HiTV - Basic",NTV7
+http://194.233.73.66:2082/freehitv/freehitv/7
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV 7" tvg-logo="https://i.imgur.com/YkXfsnE.png" group-title="HiTV - Basic",NTV7
+http://194.233.73.66:2082/freehitv/freehitv/8
+#EXTINF:-1 tvg-id="8TV" tvg-name="Tv 8" tvg-logo="https://i.imgur.com/7t1ynuB.png" group-title="HiTV - Basic",8TV
+http://194.233.73.66:2082/freehitv/freehitv/9
+#EXTINF:-1 tvg-id="8TV" tvg-name="Tv 8" tvg-logo="https://i.imgur.com/7t1ynuB.png" group-title="HiTV - Basic",8TV
+http://194.233.73.66:2082/freehitv/freehitv/10
+#EXTINF:-1 tvg-id="TV9" tvg-name="Tv 9" tvg-logo="https://i.imgur.com/Or8jovs.png" group-title="HiTV - Basic",TV9
+http://194.233.73.66:2082/freehitv/freehitv/11
+#EXTINF:-1 tvg-id="TV9" tvg-name="Tv 9" tvg-logo="https://i.imgur.com/Or8jovs.png" group-title="HiTV - Basic",TV9
+http://194.233.73.66:2082/freehitv/freehitv/12
+#EXTINF:-1 tvg-id="TV Okey" tvg-name="Okey Tv" tvg-logo="https://i.imgur.com/L8pCcaP.png" group-title="HiTV - Basic",TV Okey
+http://194.233.73.66:2082/freehitv/freehitv/13
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.imgur.com/jT7TDyU.png" group-title="HiTV - Basic",Drama Sangat
+http://194.233.73.66:2082/freehitv/freehitv/14
+#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello TV" tvg-logo="https://i.imgur.com/YILBPlR.png" group-title="HiTV - Basic",Hello HD
+http://194.233.73.66:2082/freehitv/freehitv/15
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="HiTV - Basic",Astro Ria
+http://194.233.73.66:2082/freehitv/freehitv/16
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.imgur.com/pmYfDlY.png" group-title="HiTV - Basic",Astro Ria
+http://194.233.73.66:2082/freehitv/freehitv/17
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.imgur.com/zDtVGyH.png" group-title="HiTV - Basic",Astro Prima
+http://194.233.73.66:2082/freehitv/freehitv/18
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.imgur.com/zDtVGyH.png" group-title="HiTV - Basic",Astro Prima
+http://194.233.73.66:2082/freehitv/freehitv/19
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.imgur.com/YQ1Vyv4.png" group-title="HiTV - Basic",Astro Oasis
+http://194.233.73.66:2082/freehitv/freehitv/20
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://i.imgur.com/0uAcMN4.png" group-title="HiTV - Basic",TVS
+http://194.233.73.66:2082/freehitv/freehitv/21
+#EXTINF:-1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/7YEzidO.png" group-title="HiTV - Basic",Bernama
+http://194.233.73.66:2082/freehitv/freehitv/22
+#EXTINF:-1 tvg-id="" tvg-name="IKIM" tvg-logo="https://i.imgur.com/7nXR71W.png" group-title="HiTV - Basic",IKIM
+http://194.233.73.66:2082/freehitv/freehitv/23
+#EXTINF:-1 tvg-id="" tvg-name="RTB GO" tvg-logo="https://i.imgur.com/nQCaWEA.png" group-title="HiTV - Basic",RTB GO
+http://194.233.73.66:2082/freehitv/freehitv/24
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.imgur.com/idq2D6N.png" group-title="HiTV - Basic",Astro Awani
+http://194.233.73.66:2082/freehitv/freehitv/25
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="TV ALHIJRAH" tvg-logo="https://i.imgur.com/z3PkuKh.png" group-title="HiTV - Basic",TV ALHIJRAH
+http://194.233.73.66:2082/freehitv/freehitv/26
+#EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="Naura" tvg-logo="https://i.imgur.com/9whyAHv.png" group-title="HiTV - Basic",Naura
+http://194.233.73.66:2082/freehitv/freehitv/27
+#EXTINF:-1 tvg-id="FoxLife.MACAN" tvg-name="Fox Life" tvg-logo="https://i.ibb.co/7z3Rx3j/jtth.png" group-title="HiTV - MOVIES",Fox Life
+http://194.233.73.66:2082/freehitv/freehitv/28
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="HiTV - MOVIES",HBO
+http://194.233.73.66:2082/freehitv/freehitv/29
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="HiTV - MOVIES",Thrill
+http://194.233.73.66:2082/freehitv/freehitv/30
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/GR4H1Tt/jjkj.png" group-title="HiTV - MOVIES",Warner TV
+http://194.233.73.66:2082/freehitv/freehitv/31
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/ZVWNMDL/ddg.png" group-title="HiTV - MOVIES",CCM
+http://194.233.73.66:2082/freehitv/freehitv/32
+#EXTINF:-1 tvg-id="RTM Sports" tvg-name="RTM Sport" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="HiTV - SPORTS",RTM Sport
+http://194.233.73.66:2082/freehitv/freehitv/33
+#EXTINF:-1 tvg-id="" tvg-name="Astro Golf" tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="HiTV - SPORTS",Astro Golf
+http://194.233.73.66:2082/freehitv/freehitv/34
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://i.imgur.com/fTZJG5v.png" group-title="HiTV - SPORTS",Astro Cricket
+http://194.233.73.66:2082/freehitv/freehitv/35
+#EXTINF:-1 tvg-id="Arena" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="HiTV - SPORTS",Astro Arena
+http://194.233.73.66:2082/freehitv/freehitv/36
+#EXTINF:-1 tvg-id="Arena" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="HiTV - SPORTS",Astro Arena
+http://194.233.73.66:2082/freehitv/freehitv/37
+#EXTINF:-1 tvg-id="WWE" tvg-name=" WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="HiTV - SPORTS", WWE
+http://194.233.73.66:2082/freehitv/freehitv/38
+#EXTINF:-1 tvg-id="Rugby" tvg-name="NBA SPORTS TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="HiTV - SPORTS",NBA SPORTS TV
+http://194.233.73.66:2082/freehitv/freehitv/39
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="HiTV - KIDS",Astro Ceria
+http://194.233.73.66:2082/freehitv/freehitv/40
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/e7BnRNr.png" group-title="HiTV - KIDS",Boomerang
+http://194.233.73.66:2082/freehitv/freehitv/41
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/fRc46BXV/car2.png" group-title="HiTV - KIDS",Cartoon Network
+http://194.233.73.66:2082/freehitv/freehitv/42
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SONY ONE HD" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="HiTV - ENTERTAIMENT",SONY ONE HD
+http://194.233.73.66:2082/freehitv/freehitv/43
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="iQIYI" tvg-logo="https://i.imgur.com/1xuxF4q.png" group-title="HiTV - ENTERTAIMENT",iQIYI
+http://194.233.73.66:2082/freehitv/freehitv/44
+#EXTINF:-1 tvg-id="" tvg-name="Oh!K" tvg-logo="https://i.imgur.com/KiL41d0.png" group-title="HiTV - ENTERTAIMENT",Oh!K
+http://194.233.73.66:2082/freehitv/freehitv/45
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/kGmYFd1w/animal22.png" group-title="HiTV - KNOWLEDGE",Animal Planet
+http://194.233.73.66:2082/freehitv/freehitv/46
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/84RvFKs/vvgfgh.png" group-title="HiTV - KNOWLEDGE",Nat Geo Wild
+http://194.233.73.66:2082/freehitv/freehitv/47
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.postimg.cc/wTrntn5y/histo2.png" group-title="HiTV - KNOWLEDGE",History
+http://194.233.73.66:2082/freehitv/freehitv/48
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/NjrSRbbN/hgtv2.png" group-title="HiTV - KNOWLEDGE",HGTV
+http://194.233.73.66:2082/freehitv/freehitv/49
+#EXTINF:-1 tvg-id="" tvg-name="Jungle Cruise (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" group-title="HiTV - Basic Movies",Jungle Cruise (2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/50.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Upin & Ipin: Keris Siamang Tunggal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9vEMgw1Y7nG6gO1Zf516eAbVe5.jpg" group-title="HiTV - Basic Movies",Upin & Ipin: Keris Siamang Tunggal
+http://194.233.73.66:2082/movie/freehitv/freehitv/51.mp4
+#EXTINF:-1 tvg-id="" tvg-name="F9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="HiTV - Basic Movies",F9 (2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/52.mp4
+#EXTINF:-1 tvg-id="" tvg-name="J2: J Retribusi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvPfAW9soIwwo0zJxRAzwDpLaXS.jpg" group-title="HiTV - Basic Movies",J2: J Retribusi (2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/53.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Widow (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="HiTV - Basic Movies",Black Widow (2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/54.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stand by Me Doraemon 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mu5t94c8IZU781aMg1E1FKinYG2.jpg" group-title="HiTV - Basic Movies",Stand by Me Doraemon 2
+http://194.233.73.66:2082/movie/freehitv/freehitv/55.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Suicide Squad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="HiTV - Basic Movies",The Suicide Squad (2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/56.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don't Breathe 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRMfgGFRAZIlvwVWy8DYJdLTpvN.jpg" group-title="HiTV - Basic Movies",Don't Breathe 2 (2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/57.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TV6" tvg-logo="https://i.imgur.com/1trItXA.png" group-title="HiTV - Basic",TV6
+http://194.233.73.66:2082/freehitv/freehitv/58
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="HiTV - Basic Movies",Godzilla vs. Kong (2021)
+http://194.233.73.66:2082/movie/freehitv/freehitv/59.mp4
+
+
+
 //Live Streams
 #EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",eSports
 http://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
