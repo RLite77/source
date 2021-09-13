@@ -842,7 +842,7 @@ http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZSDxjM/nbcsn.png" group-title="Sports",NBC Sports Network
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZSDxjM/nbcsn.png" group-title="Sports",NBC Sports Network
-http://mcktv.xyz:8080/live/jamesjudge2/32gardenave/212.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
 
 #EXTINF:-1 tvg-id="fox.sports.id" tvg-logo="https://i.ibb.co/kQF0pfc/fox-sp-1.png" group-title="Sports",FOX Sports HD
 http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
@@ -979,6 +979,16 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225649/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3775Fcb/golf-ch.png" group-title="Sports",Golf Channel
 #https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/62.0.3202.94 Safari/537.36
 
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="sporttv1" tvg-logo="https://i.ibb.co/yBTvqy0/sporttv-1.png" group-title="Sports", Sport TV 1
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
+#EXTINF:-1 tvg-id="sporttv2" tvg-name="sporttv2" tvg-logo="https://i.ibb.co/4mRgSJz/sporttv-2.png" group-title="Sports", Sport TV 2
+http://178.175.132.170:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="sporttv3" tvg-name="sporttv3" tvg-logo="https://i.ibb.co/jwL8y0x/sporttv-3.png" group-title="Sports", Sport TV 3
+http://178.175.132.170:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="sporttv4" tvg-name="sporttv4" tvg-logo="https://i.ibb.co/CPQMPNR/sporttv-4.png" group-title="Sports", Sport TV 4
+http://178.175.132.170:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="sporttv5" tvg-logo="https://i.ibb.co/0KJ6z7m/sporttv-5.png" group-title="Sports", Sport TV 5
+http://178.175.132.170:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gvP8YWx/Super-Sport.png" group-title="Sports",Super Sports 1
