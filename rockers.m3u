@@ -3114,17 +3114,17 @@ http://194.233.66.151:25461/rumah/home/244
 #EXTINF:-1 tvg-id="" tvg-name="NEW Movies" tvg-logo="https://i.ibb.co/6BwGP7T/newmovies.png" group-title="24/7 Movies",NEW Movies
 http://194.233.66.151:25461/rumah/home/257
 
-#EXTINF:-1 tvg-id="" tvg-name="Ejen Ali" tvg-logo="https://raizo.raizoml123.workers.dev/0:/movies.jpg" group-title="24/7 Kids",Ejen Ali
+#EXTINF:-1 tvg-id="" tvg-name="Ejen Ali" tvg-logo="https://i.ibb.co/Jnk9wT0/ejenali.png" group-title="24/7 Kids",Ejen Ali
 http://194.233.66.151:25461/rumah/home/245
-#EXTINF:-1 tvg-id="" tvg-name="Larva" tvg-logo="https://raizo.raizoml123.workers.dev/0:/movies.jpg" group-title="24/7 Kids",Larva
+#EXTINF:-1 tvg-id="" tvg-name="Larva" tvg-logo="https://i.ibb.co/2MxL7jG/larva.png" group-title="24/7 Kids",Larva
 http://194.233.66.151:25461/rumah/home/246
-#EXTINF:-1 tvg-id="" tvg-name="One Punch Man" tvg-logo="https://raizo.raizoml123.workers.dev/0:/movies.jpg" group-title="24/7 Kids",One Punch Man
+#EXTINF:-1 tvg-id="" tvg-name="One Punch Man" tvg-logo="https://i.ibb.co/T2h645w/onepunchman.png" group-title="24/7 Kids",One Punch Man
 http://194.233.66.151:25461/rumah/home/247
-#EXTINF:-1 tvg-id="" tvg-name="Oscar Oasis" tvg-logo="https://raizo.raizoml123.workers.dev/0:/movies.jpg" group-title="24/7 Kids",Oscar Oasis
+#EXTINF:-1 tvg-id="" tvg-name="Oscar Oasis" tvg-logo="https://i.ibb.co/gV63Yn6/oscaroasis.png" group-title="24/7 Kids",Oscar Oasis
 http://194.233.66.151:25461/rumah/home/248
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="https://raizo.raizoml123.workers.dev/0:/movies.jpg" group-title="24/7 Kids",Tom & Jerry
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="https://i.ibb.co/pR1nzZf/tom-jerry.png" group-title="24/7 Kids",Tom & Jerry
 http://194.233.66.151:25461/rumah/home/249
-#EXTINF:-1 tvg-id="" tvg-name="Upin & Ipin" tvg-logo="https://raizo.raizoml123.workers.dev/0:/movies.jpg" group-title="24/7 Kids",Upin & Ipin
+#EXTINF:-1 tvg-id="" tvg-name="Upin & Ipin" tvg-logo="https://i.ibb.co/Kb8NBbf/upinipin.png" group-title="24/7 Kids",Upin & Ipin
 http://194.233.66.151:25461/rumah/home/250
 
 
@@ -3400,73 +3400,73 @@ https://live.ntdimg.com:443/mllive860/playlist.m3u8
 https://live.ntdimg.com:443/cwlive220/playlist.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="",唐人8台
 https://live.ntdimg.com:443/sflive440/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",3 ThaiPBS
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",3 ThaiPBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",4 ALTV
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",4 ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",Cartoon Club
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",MVTV
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",MV Laos
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",MV Laos
 https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",MV Myanmar
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",MV Myanmar
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",TVB Thai
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",TVB Thai
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",Mix Major
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",Mix Major
 https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",Voice TV
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",29 Mono
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",29 Mono
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",32 Thairath
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",32 Thairath
 https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",ไทบ้าน
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",ไทบ้าน
 https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1872615169.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",69TV
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",69TV
 https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1306517951.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",บันเทิงเกินร้อย
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",บันเทิงเกินร้อย
 https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1190974940.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",Happy TV
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",Happy TV
 https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w260432085.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",Thai Variety
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",Thai Variety
 https://edge6a.v2h-cdn.com/v2h/V2H11.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",สยาม
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",สยาม
 https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",ลิโด้
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",ลิโด้
 https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",สกาล่า
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",สกาล่า
 https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",ราม่า
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",ราม่า
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 1
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 1
 https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 2
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 2
 https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 3
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 3
 https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 4
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 4
 https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 5
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 5
 https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 6
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 6
 https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 7
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 7
 https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 8
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 8
 https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 9
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 9
 https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 10
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 10
 https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 11
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 11
 https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 12
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 12
 https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 13
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 13
 https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 14
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 14
 https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
-#EXTINF:-1 group-title="Laos / Cambodia / Thai" tvg-logo="",DLTV 15
+#EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 15
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
