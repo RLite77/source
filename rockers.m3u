@@ -565,6 +565,25 @@ https://iptvid.cgflix.xyz/vidio/cbioskop.m3u8
 #EXTINF:-1 group-title="Movies 2" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oANgznd8LKnwF939_hOA75mnXEo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
 https://iptvid.cgflix.xyz/vidio/cdrama.m3u8
 
+#EXTINF:-1 group-title="Movies 2" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",Douyu Movie 3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 group-title="Movies 2" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",Douyu Movie 5
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 group-title="Movies 2" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",Douyu Movie 6
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 group-title="Movies 2" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",一起看萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 group-title="Movies 2" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",一起看进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 group-title="Movies 2" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",一起看少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 group-title="Movies 2" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",一起看进击の神
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+
+
+
+
+
 //English Movies
 #EXTINF:-1,tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-name="& Prive HD"  group-title="English Movies",& Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
@@ -3338,3 +3357,164 @@ https://d2u41sz0ro4arp.cloudfront.net/out/v1/43bef82b171343e9a2bb73afed960b46/in
 https://dwm7b47ymr4go.cloudfront.net/out/v1/b594d34ec85b423688bd91ecef44ea13/index_1.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png",EPL 4
 https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&session_data=1&preview=1&t=1631367507370
+
+
+//China
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE1
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14001&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14002&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE3
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14003&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE4
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14004&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE5
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14005&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE6
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14006&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE7
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14007&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE8
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14008&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE9
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14009&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE10
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14010&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE11
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14011&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE12
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14012&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE13
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14013&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE14
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14014&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE15
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE16
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE17
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE18
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14018&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE19
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14019&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE20
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14020&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE21
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14021&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE22
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14022&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE23
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14023&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CHINA LIVE24
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14024&key=84797b799ae18d1b
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV1綜合
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV2財經
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV5體育
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV5+體育賽事
+http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV7國防軍事
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV8電視劇
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV10科教
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV11戲曲
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV12社會與法
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV13新聞
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV14少兒
+http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV15音樂
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",CCTV17農業農村
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",唐人1台
+https://live.ntdimg.com:443/live400/playlist.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",唐人3台
+https://live.ntdimg.com:443/aplive200/playlist.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",唐人4台
+https://live.ntdimg.com:443/uwlive990/playlist.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",唐人5台
+https://live.ntdimg.com:443/htlive480/playlist.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",唐人6台
+https://live.ntdimg.com:443/mllive860/playlist.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",唐人7台
+https://live.ntdimg.com:443/cwlive220/playlist.m3u8
+#EXTINF:-1 group-title="China" tvg-logo="",唐人8台
+https://live.ntdimg.com:443/sflive440/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",3 ThaiPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",4 ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",MVTV
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",MV Laos
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",MV Myanmar
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",TVB Thai
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",Mix Major
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",Voice TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",29 Mono
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",32 Thairath
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",ไทบ้าน
+https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1872615169.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",69TV
+https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w1306517951.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",บันเทิงเกินร้อย
+https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1190974940.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",Happy TV
+https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w260432085.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",Thai Variety
+https://edge6a.v2h-cdn.com/v2h/V2H11.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",สยาม
+https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",ลิโด้
+https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",สกาล่า
+https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Laos / Cambodia" tvg-logo="",ราม่า
+https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV7
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV8
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV9
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV10
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV11
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV12
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV13
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV14
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="",DLTV15
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
