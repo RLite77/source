@@ -294,8 +294,8 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 http://watchindia.net:8880/live/60275/20486/2101.ts
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX" tvg-logo="https://i.ibb.co/vJf3v5X/sony-pix.png" group-title="Movies",SONY PIX
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="Cinema world" tvg-name="Cinema world" tvg-logo="https://i.ibb.co/mJkNywB/cinemaworld.png" group-title="Movies",Cinema world
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="Cinema world" tvg-name="Cinema world" tvg-logo="https://i.ibb.co/mJkNywB/cinemaworld.png" group-title="Movies",Cinema World
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cinemaworld
 #EXTINF:-1 tvg-id="" tvg-name="Fox Movies Premium" tvg-logo="https://i.ibb.co/d46ZD34/fox-movies.png" group-title="Movies",Fox Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="FOX Action Movies" tvg-logo="https://i.ibb.co/stgkJx0/fox-action.png" group-title="Movies",FOX Action Movies HK
@@ -2400,7 +2400,129 @@ https://e10.habrox.xyz/ingestnb4s/vh1/f.m3u8|Referer=https://espn-live.stream/st
 #EXTINF:-1 tvg-id="ZLiving.us" tvg-name="Z Living" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="USA",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 
-
+#EXTM3U 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",AMC HD 
+http://212.102.60.76:80/f1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",AMERICAN HEROES CHANNEL HD 
+http://212.102.60.76:80/g1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",ANIMAL PLANET HD 
+http://212.102.60.76:80/h1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",BBC AMERICA HD 
+http://212.102.60.76:80/i1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",BBC WORLD NEWS HD 
+http://212.102.60.76:80/j1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",BET HD 
+http://212.102.60.76:80/k1/mono.m3u8 
+#EXTINF:24 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",BLOOMBERG 
+http://212.102.60.76:80/v/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",BOOMERANG 
+http://212.102.60.76:80/l1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",BRAVO HD 
+http://212.102.60.76:80/m1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",BTN HD 
+http://212.102.60.76:80/n1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",CARTOON NETWORK HD 
+http://212.102.60.76:80/o1/mono.m3u8 
+#EXTINF:21 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",CBS ACTION/ Justice 
+http://212.102.60.76:80/r/mono.m3u8 
+#EXTINF:24 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",CBS NEWS 
+http://212.102.60.76:80/s/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",CINEMAX HD 
+http://212.102.60.76:80/p1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",CINEMAX WEST HD 
+http://212.102.60.76:80/q1/mono.m3u8 
+#EXTINF:23 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",COMEDY CENTRAL 
+http://212.102.60.76:80/k/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",COOKING CHANNEL HD 
+http://212.102.60.76:80/r1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",COZI 
+http://212.102.60.76:80/s1/mono.m3u8 
+#EXTINF:32 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",CRIME + INVESTIGATION 
+http://212.102.60.76:80/x/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",DESTINATION AMERICA HD 
+http://212.102.60.76:80/v1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",DISCOVERY CHANNEL HD 
+http://212.102.60.76:80/w1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",DISCOVERY FAMILY HD 
+http://212.102.60.76:80/x1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",DISCOVERY LIFE HD 
+http://212.102.60.76:80/y1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",DISNEY CHANNEL HD 
+http://212.102.60.76:80/z1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",DIY HD 
+http://212.102.60.76:80/b2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",E! HD 
+http://212.102.60.76:80/c2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",EPIX HD 
+http://212.102.60.76:80/d2/mono.m3u8 
+#EXTINF:22 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",ESPN 2 
+http://212.102.60.76:80/a/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",ESPN DEPORTES HD 
+http://212.102.60.76:80/f2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",ESPN HD 
+http://212.102.60.76:80/e2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",ESPN NEWS HD 
+http://212.102.60.76:80/g2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",ESPN U HD 
+http://212.102.60.76:80/h2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",FOX SOCCER PLUS HD 
+http://212.102.60.76:80/i2/mono.m3u8 
+#EXTINF:38 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",FOX SORTS FLORIDA 
+http://212.102.60.76:80/y/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",FOX SPORTS SUN HD 
+http://212.102.60.76:80/j2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",FREEFORM HD 
+http://212.102.60.76:80/k2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",FX HD 
+http://212.102.60.76:80/l2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",FXM HD 
+http://212.102.60.76:80/m2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",FXX HD 
+http://212.102.60.76:80/n2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",GOLF CHANNEL HD 
+http://212.102.60.76:80/o2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",HALLMARK HD 
+http://212.102.60.76:80/p2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",Hallmark Movies And Mysteries HD 
+http://212.102.60.76:80/q2/mono.m3u8 
+#EXTINF:20 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",HBO 
+http://212.102.60.76:80/b/mono.m3u8 
+#EXTINF:21 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",HBO 2 
+http://212.102.60.76:80/c/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",hbo west HD 
+http://212.102.60.76:80/r2/mono.m3u8 
+#EXTINF:22 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",HISTORY 
+http://212.102.60.76:80/q/mono.m3u8 
+#EXTINF:22 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",HISTORY 2 
+http://212.102.60.76:80/p/mono.m3u8 
+#EXTINF:24 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",ION 
+http://212.102.60.76:80/j/mono.m3u8 
+#EXTINF:22 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",LIFETIME 
+http://212.102.60.76:80/m/mono.m3u8 
+#EXTINF:24 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",LMN 
+http://212.102.60.76:80/l/mono.m3u8 
+#EXTINF:24 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",NBA NETWORK 
+http://212.102.60.76:80/d/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",NBC SPORTS CHICAGO HD 
+http://212.102.60.76:80/t1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",NFL REDZONE HD 
+http://212.102.60.76:80/a2/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",NHL NETWORK HD 
+http://212.102.60.76:80/e1/mono.m3u8 
+#EXTINF:24 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",OUTDOOR 
+http://212.102.60.76:80/t/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",STARZ CINEMA HD 
+http://212.102.60.76:80/c1/mono.m3u8 
+#EXTINF:20 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",STARZ ENCORE WESTERN 
+http://212.102.60.76:80/h/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",TENNIS CHANNEL HD 
+http://212.102.60.76:80/b1/mono.m3u8 
+#EXTINF:0 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",THE WEATHER CHANNEL HD 
+http://212.102.60.76:80/a1/mono.m3u8 
+#EXTINF:20 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",VH1 HD 
+http://212.102.60.76:80/i/mono.m3u8 
+#EXTINF:24 group-title="USA" tvg-id="" tvg-name="" tvg-logo="",YES NETWORK 
+http://212.102.60.76:80/g/mono.m3u8
 
 
 //UK
