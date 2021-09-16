@@ -19,7 +19,7 @@
 https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8|referer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://i.ibb.co/vHqJMrW/tv2.png" group-title="Malaysia",TV2
 #https://rtm5hdhbbtv.secureswiftcontent.com/Origin1/ngrp:RTM1/manifest.m3u8
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02-1080.m3u8|referer=https://rtmklik.rtm.gov.my/
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8|referer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3	
 https://raw.githubusercontent.com/RLite77/source/main/tv3.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://i.ibb.co/bByqJdC/tv3.png" group-title="Malaysia",TV3
@@ -47,8 +47,8 @@ http://50.7.161.82:8278/streams/d/dsangat_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/KFFhB4V/drama-sgt.png" group-title="Malaysia",Drama Sangat
 https://raw.githubusercontent.com/RLite77/source/main/DS.m3u8
 #EXTINF:-1 tvg-ID="123" tvg-logo="https://i.ibb.co/VgnPjnw/berita-rtm.png" group-title="Malaysia",Berita RTM 
-#https://rtm3hdhbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8|referer=https://rtmklik.rtm.gov.my/
-https://rtmlive03.secureswiftcontent.com/rtmchannel/03-1080.m3u8
+#https://rtm3hdhbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03-1080.m3u8|referer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="Sukan RTM" tvg-logo="https://i.ibb.co/L9kMV9V/sukan-RTM.png" group-title="Malaysia",Sukan RTM
 #https://rtm6hdhbbtv.secureswiftcontent.com/Origin2/ngrp:RTM2/manifest.m3u8
 https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|referer=https://rtmklik.rtm.gov.my/
