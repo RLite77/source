@@ -314,11 +314,13 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/62.0.3202.94 Safari/537.36
 #EXTINF:-1 tvg-id="&flix.in" tvg-name="&Flix" tvg-logo="https://i.ibb.co/bRmQV22/flix.png" group-title="Movies",&Flix
 #https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #http://103.153.39.34:8000/play/a057/index.m3u8
 http://watchindia.net:8880/live/60275/20486/2088.ts
 #EXTINF:-1 tvg-id="&prive.in" tvg-name="&Prive" tvg-logo="https://i.ibb.co/VNQKYMM/prive.png" group-title="Movies",&Prive
 #https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #http://103.153.39.34:8000/play/a06i/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 http://watchindia.net:8880/live/60275/20486/2103.ts
 #EXTINF:-1 tvg-id="sonypix.in" tvg-name="SONY PIX" tvg-logo="https://i.ibb.co/vJf3v5X/sony-pix.png" group-title="Movies",SONY PIX
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2abaccf665cea2a8b27f47525d555cfcf4f6a89c54f39dfadd61248f84db4f0f33ce7ffb285c725ac82fb695731e8c178a80874ef978bf9954d2463ae85776d5a3016c96f961438f6665a521804afde21d9fd2187f&mac=00:1A:79:32:15:A7&ip=118.101.224.193&magic_server=MAIN_MP
@@ -524,78 +526,7 @@ https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 //Movies 2
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU",HBO
-https://iptvid.cgflix.xyz/vidio/hbo.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU",HBO Signature
-https://iptvid.cgflix.xyz/vidio/hbo_sig.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU",HBO Hits
-https://iptvid.cgflix.xyz/vidio/hbo_hits.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU",HBO Family
-https://iptvid.cgflix.xyz/vidio/hbo_fam.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU",HBO CINEMAX
-https://iptvid.cgflix.xyz/vidio/cinemax.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://i.ibb.co/cbNbZYb/fox.png",FOX
-http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg",FOX ACTION MOVIES
-http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU",FOX FAMILY Movies
-http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png",WarnerBros Tv
-http://iptvid.cgflix.xyz/Usee/movies/wrnr.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOLm7p1-Bro1mmACTbW2gNkZCaeSLyj9o0A&usqp=CAU",Cinema World
-http://iptvid.cgflix.xyz/Usee/movies/cnwrld.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://i.imgur.com/eoHuV3J.png",OH!K
-http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKsgezna3HOmhtX3rP7srcwexv_eR1NefK-g&usqp=CAU",tvN
-https://iptvid.cgflix.xyz/vidio/tvn.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-FyqT6Z-Hosi1Ts-B5SbleHhiE7utoKOHA&usqp=CAU",tvN Movie
-http://93.190.139.35:8278/streams/d/Tvnmovie/playlist.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0JjAlMDngvgQzAdc1uWBkOhjGDBuNky9EQ&usqp=CAU",AXN
-http://93.190.139.35:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaQNIlMpggEMfg_Mj3PXS6sqFyzuJKylyCw&usqp=CAU",Sony One
-http://iptvid.cgflix.xyz/Usee/movies/sone.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSnWJeOgnPF31Q0xrUFBhoQ0AF85BszqDErQ&usqp=CAU",Galaxy
-https://iptvid.cgflix.xyz/Usee/movies/glx.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaRZ1cN15E67fwTky4ao69-9cTx0zoLZF-zQ&usqp=CAU",Galaxy Premium
-https://iptvid.cgflix.xyz/Usee/movies/glxprem.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLswJ26Sr_ar4aPj073ysrK7dpqaVaewGQbw&usqp=CAU",Thrill
-http://93.190.139.35:8278/streams/d/Thrill/playlist.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzUhRbHUaC2OqWpN6Knjh37im8g0-Bejk6Q&usqp=CAU",Celestial Movies
-https://iptvid.cgflix.xyz/Usee/movies/clstl.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-D8-OyCvq0BxguTno60TDTBxWwqkSAJ0NQ&usqp=CAU",Celestial classic
-http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN91CodM6-_wj1L2kGgRb001b4HkY0HNn-Og&usqp=CAU",ZEE Bioskop
-https://iptvid.cgflix.xyz/vidio/zeeb.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/y4nR7h0L1cO-DaTDy2M0-IM5fY0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg",Zing
-https://iptvid.cgflix.xyz/vidio/zing.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWErJdKVuhFEUgc-HstZcxMJwPWX6ah7hZtA&usqp=CAU",Cinese Drama
-https://iptvid.cgflix.xyz/Usee/movies/chinesedrama.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEvtEDhmBJ59OsOcTEaTJtcHJKscfD_FHtQ&usqp=CAU",Zee Classic
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknw0SJAUV8vvLB3yCyCnKTG1OTG2BGxhxKg&usqp=CAU",Wowow Cinema
-http://203.162.235.41:16916
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiD07BwyrnKGd4sBpldzUO3KJTHCnSLHH2iw&usqp=CAU",&Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png",ASTRO BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqdQMjel0hMN_WXpRNekQ6bTuQwEmP5uV1A&usqp=CAU",Kix
-https://iptvid.cgflix.xyz/Usee/movies/kix.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ241riF_zpdPSGGRPu5crlzrEkY3B1oDIkGw&usqp=CAU",ID HD
-http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZycpDakOq8gJgnVQQVkNiqVgnygufIxBeQ&usqp=CAU",Dunia Lain
-https://iptvid.cgflix.xyz/Usee/movies/dnln.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1Tbc9fICCnr4e5A6DL0Lyw071J8_W0KULQ&usqp=CAU",Flik
-https://iptvid.cgflix.xyz/Usee/movies/flik.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLG--iJaseh71v3IXL8SmwiXRyUSyIho3wg&usqp=CAU",IMC
-https://iptvid.cgflix.xyz/Usee/movies/imc.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyO29VTLLqHdiVBCGlHIhF8y_QPNzxjhf70g&usqp=CAU",Bioskop Indonesia
-https://iptvid.cgflix.xyz/Usee/movies/biosid.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7_-nPOXCiJi9Vr_6owzKC2smV0c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
-https://iptvid.cgflix.xyz/vidio/cbioskop.m3u8
-#EXTINF:-1 group-title="Movies 2" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oANgznd8LKnwF939_hOA75mnXEo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
-https://iptvid.cgflix.xyz/vidio/cdrama.m3u8
+
 
 #EXTINF:-1 group-title="Movies 2" tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png",Douyu Movie 3
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
@@ -879,15 +810,15 @@ http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Btx83DM/true-sp-3.png" group-title="Sports",True Sports HD 3
 http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGkyhJz/true-sp-4.png" group-title="Sports",True Sports HD 4
-#
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n0FCm7w/true-sp-2.png" group-title="Sports",True Sports 2
-#https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BgS2Hd1/true-sp-5.png" group-title="Sports",True Sports 5
-#https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7p8qGmr/true-sp-6.png" group-title="Sports",True Sports 6
-#https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/62.0.3202.94 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x765R0Z/true-sp-7.png" group-title="Sports",True Sports 7
-#https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/62.0.3202.94 Safari/537.36
+http://178.175.132.170:8888/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
+http://212.102.60.40:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RK
+#EXTINF:-1 tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",Star Sports 2
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=RK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
+#EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
+http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=RK
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hZSDxjM/nbcsn.png" group-title="Sports",NBC Sports Network
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
