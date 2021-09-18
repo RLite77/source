@@ -710,8 +710,7 @@ http://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050
 
 
 //Kids
-#EXTINF:-1 tvg-id="ceria" tvg-name="Astro Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Kids",Astro Ceria
-http://194.233.66.151:25461/rumah/home/57
+
 #EXTINF:-1 tvg-id= tvg-logo="https://i.ibb.co/yYM0h7w/disney-ch.png" group-title="Kids",DISNEY HD INTERNATIONAL
 https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
 #EXTINF: -1 tvg-id=CBE.UK tvg-logo="https://i.ibb.co/BCV9tYB/cbeebies.png" group-title="Kids",CBeebies
@@ -1542,40 +1541,7 @@ http://a3.smashmalta.com:82/live/smash/smash/36.ts
 http://a3.smashmalta.com:82/live/smash/smash/38.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bapakku FM" tvg-logo="https://i.imgur.com/ZqhhK3e.png" group-title="Radio",Bapakku FM
-http://194.233.66.151:25461/rumah/home/5
-#EXTINF:-1 tvg-id="" tvg-name="Cats FM" tvg-logo="https://i.imgur.com/OtpfxhE.png" group-title="Radio",Cats FM
-http://194.233.66.151:25461/rumah/home/6
-#EXTINF:-1 tvg-id="" tvg-name="Lite" tvg-logo="https://d3at9g37w1ky0l.cloudfront.net:443/station-logos/lite/lite@3x.png" group-title="Radio",Lite
-http://194.233.66.151:25461/rumah/home/7
-#EXTINF:-1 tvg-id="" tvg-name="My Sabah" tvg-logo="https://d3at9g37w1ky0l.cloudfront.net:443/station-logos/amp-myfm-kk/amp-myfm-kk@3x.png" group-title="Radio",My Sabah
-http://194.233.66.151:25461/rumah/home/8
-#EXTINF:-1 tvg-id="" tvg-name="Raaga FM" tvg-logo="https://d3at9g37w1ky0l.cloudfront.net:443/radio-logos/raaga/raaga_lg.png" group-title="Radio",Raaga FM
-http://194.233.66.151:25461/rumah/home/9
-#EXTINF:-1 tvg-id="" tvg-name="Sarawak FM" tvg-logo="https://radio-online.my/assets/image/radio/180/sarawak-fm.jpg" group-title="Radio",Sarawak FM
-http://194.233.66.151:25461/rumah/home/10
-#EXTINF:-1 tvg-id="" tvg-name="Sabah FM" tvg-logo="https://i.imgur.com/rOHrGZD.png" group-title="Radio",Sabah FM
-http://194.233.66.151:25461/rumah/home/11
-#EXTINF:-1 tvg-id="" tvg-name="Suria FM" tvg-logo="https://m3u-editor.com/storage/channel-logos/7e749180-7002-11ea-b006-9d7e706a5277/170851/27341432.png" group-title="Radio",Suria FM
-http://194.233.66.151:25461/rumah/home/12
-#EXTINF:-1 tvg-id="" tvg-name="Star FM" tvg-logo="https://i.imgur.com/v2JtJO2.png" group-title="Radio",Star FM
-http://194.233.66.151:25461/rumah/home/13
-#EXTINF:-1 tvg-id="" tvg-name="Syok Bayu" tvg-logo="https://de-digital-fortress-img-assets.eco.astro.com.my:443/prod/136030d9a9fed2368c155105ff4f8437.png" group-title="Radio",Syok Bayu
-http://194.233.66.151:25461/rumah/home/14
-#EXTINF:-1 tvg-id="" tvg-name="Syok Classic Rock" tvg-logo="https://d3at9g37w1ky0l.cloudfront.net:443/radio-logos/classicrock/classicrock_lg.png" group-title="Radio",Syok Classic Rock
-http://194.233.66.151:25461/rumah/home/15
-#EXTINF:-1 tvg-id="" tvg-name="Syok Gold" tvg-logo="https://de-digital-fortress-img-assets.eco.astro.com.my:443/prod/9422add47af2963ba0b929390f272b41.png" group-title="Radio",Syok Gold
-http://194.233.66.151:25461/rumah/home/16
-#EXTINF:-1 tvg-id="" tvg-name="Syok Jazz" tvg-logo="https://de-digital-fortress-img-assets.eco.astro.com.my:443/prod/7a382daaba59366a3b722e9334c9c370.png" group-title="Radio",Syok Jazz
-http://194.233.66.151:25461/rumah/home/17
-#EXTINF:-1 tvg-id="" tvg-name="Syok Kenyalang" tvg-logo="https://de-digital-fortress-img-assets.eco.astro.com.my:443/prod/b8e5083dc9426bd12c485cb173aa4897.png" group-title="Radio",Syok Kenyalang
-http://194.233.66.151:25461/rumah/home/18
-#EXTINF:-1 tvg-id="" tvg-name="Syok Opus" tvg-logo="https://de-digital-fortress-img-assets.eco.astro.com.my:443/prod/95fbc23b5d4c6c862b6fa5c229ada91f.png" group-title="Radio",Syok Opus
-http://194.233.66.151:25461/rumah/home/19
-#EXTINF:-1 tvg-id="" tvg-name="Syok Osai" tvg-logo="https://de-digital-fortress-img-assets.eco.astro.com.my:443/prod/0b9ff6b0bb32cdefa16fe8fff83b3a19.png" group-title="Radio",Syok Osai
-http://194.233.66.151:25461/rumah/home/20
-#EXTINF:-1 tvg-id="" tvg-name="Terengganu FM" tvg-logo="https://i.imgur.com/1EuqRNu.png" group-title="Radio",Terengganu FM
-http://194.233.66.151:25461/rumah/home/21
+
 
 //Music
 #EXTINF:-1 group-title="Music Channels" tvg-logo="https://img1.wsimg.com/isteam/ip/d657f278-1d55-4f25-8434-d92320aeffc0/Smash%20Communications%20Logo%20White.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true",SMASH Retro
