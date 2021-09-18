@@ -3538,6 +3538,121 @@ https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 #EXTINF:-1 group-title="Laos/Cambodia/Thai" tvg-logo="",DLTV 15
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
+//Livedoo
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD
+https://smart-tv.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 2
+https://smart-tv.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 3
+https://smart-tv.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 4
+https://smart-tv.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",3HD
+https://smart-tv.livedoomovie.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",5HD
+https://smart-tv.livedoomovie.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",7HD
+https://smart-tv.livedoomovie.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",AnimalPlanet
+https://smart-tv.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",AXN HD
+https://smart-tv.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/1.png",BT Sport 1 HD
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/2.png",BT Sport 2 HD
+https://smart-tv.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Discovery Asia
+https://smart-tv.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",EURO Sports 1
+https://smart-tv.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",EURO Sports 2
+https://smart-tv.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",FoxMovies
+https://smart-tv.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",FoxMovies_TH
+https://smart-tv.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Fox Sport1
+https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Fox Sport2
+https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Fox Sport3
+https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Fox Thai_TH
+https://smart-tv.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Golf HD
+https://smart-tv.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",H2 HD
+https://smart-tv.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",HISTORY HD
+https://smart-tv.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC TV
+https://smart-tv.livedoomovie.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png",MU TV
+https://smart-tv.livedoomovie.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",NBA HD
+https://smart-tv.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",MCOT HD
+https://smart-tv.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",PPTV HD
+https://smart-tv.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://tinyurl.com/yxjocrq4",PremierHD1
+https://smart-tv.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",PremierHD1
+https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://tinyurl.com/yxjocrq4",PremierHD2
+https://smart-tv.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",PremierHD2
+https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",PremierHD3
+https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",PremierHD4
+https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",PremierHD5
+https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://tinyurl.com/yxjocrq4",TrueSport2
+https://smart-tv.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 5
+https://smart-tv.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 6
+https://smart-tv.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 7
+https://smart-tv.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Sport_TV1_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153201",Sport TV 1
+https://smart-tv.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ab/Sport_TV2_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153212",Sport TV 2
+https://smart-tv.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Sport_TV3_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153252",Sport TV 3
+https://smart-tv.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Sport_TV4_HD.svg/revision/latest/scale-to-width-down/185?cb=20160903153303",Sport TV 4
+https://smart-tv.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Tennis HD
+https://smart-tv.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",THAIRATH HD
+https://smart-tv.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",TRUE4U
+https://smart-tv.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",WarnerTV HD
+https://smart-tv.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Skynetsport1
+https://smart-tv.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Skynetsport2
+https://smart-tv.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Skynetsport3
+https://smart-tv.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Skynetsport4
+https://smart-tv.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Skynetsport5
+https://smart-tv.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Skynetsport6
+https://smart-tv.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",SkynetsportHD
+https://smart-tv.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Bein1
+https://smart-tv.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Thai Server",Bein2
+https://smart-tv.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
 
 //Mantul
 
