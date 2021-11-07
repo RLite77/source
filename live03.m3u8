@@ -1,4 +1,4 @@
 #EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1860000
-https://d3m3h1tgaqaox0.cloudfront.net/out/v1/f72e77d440e84b249bf210b2b4a9b081/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://google-me.cdn.booyah.live/hls/113137/85352637.m3u8
