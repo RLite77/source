@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://i.ibb.co/pftzXMK/tv1.png" group-title="🇲🇾 Astro MY",TV1 HD
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8|referer=https://rtmklik.rtm.gov.my/
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://i.ibb.co/GV1TYhW/tv2.png" group-title="🇲🇾 Astro MY",TV2
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8|referer=https://rtmklik.rtm.gov.my/
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://i.ibb.co/VVKpFjc/tv3.png" group-title="🇲🇾 Astro MY",TV3
+https://raw.githubusercontent.com/RLite77/source/main/tv3hd.m3u8
+#https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://i.ibb.co/VVKpFjc/tv3.png" group-title="🇲🇾 Astro MY",TV3	
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=740
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://i.ibb.co/VVKpFjc/tv3.png" group-title="🇲🇾 Astro MY",TV3
+http://95.214.235.96:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1221222&password=QFA8ENNR&stream=1732
+#EXTINF:-1 tvg-id="106" tvg-name="TV6" tvg-logo="https://i.ibb.co/D8TdckH/tv6.png" group-title="🇲🇾 Astro MY",TV6
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8|referer=https://rtmklik.rtm.gov.my/
+#EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://i.ibb.co/60z9NpQ/didik.png" group-title="🇲🇾 Astro MY",NTV7
+http://w.nasvpn.xyz:8080/live/saya/saya/3.m3u8|user-agent=nasvpn
+#EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://i.ibb.co/60z9NpQ/didik.png" group-title="🇲🇾 Astro MY",NTV7
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://i.ibb.co/d5Kh0ZK/8tv.png" group-title="🇲🇾 Astro MY",8TV
+http://w.nasvpn.xyz:8080/live/saya/saya/6.m3u8|user-agent=nasvpn
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://i.ibb.co/d5Kh0ZK/8tv.png" group-title="🇲🇾 Astro MY",8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://i.ibb.co/7XJKcVq/tv9.png" group-title="🇲🇾 Astro MY",TV9
+http://w.nasvpn.xyz:8080/live/saya/saya/7.m3u8|user-agent=nasvpn
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://i.ibb.co/7XJKcVq/tv9.png" group-title="🇲🇾 Astro MY",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/JQ7pKzF/dramasgt.png" group-title="🇲🇾 Astro MY",Drama Sangat
+http://w.nasvpn.xyz:8080/live/saya/saya/3290.m3u8|user-agent=nasvpn
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/JQ7pKzF/dramasgt.png" group-title="🇲🇾 Astro MY",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUKE TV" tvg-logo="https://i.ibb.co/SBLm5Lc/suketv.png" group-title="🇲🇾 Astro MY",SUKE TV
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/SukeTV.m3u8
+http://w.nasvpn.xyz:8080/suke/suke/13364
