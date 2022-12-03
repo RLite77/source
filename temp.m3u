@@ -1,0 +1,124 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://s.id/1d0xT" group-title="World Cup",A/N
+https://achi03.github.io/Achi03-helloworld/fifa-world-cup-24_720p.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://i.ibb.co/b79KbV3/tv2.png" group-title="World Cup",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2|referer=https://rtm-player.glueapi.io/latest/h/2
+
+#EXTINF:-1 tvg-id="" tvg-name="TV SUKAN" tvg-logo="https://i.ibb.co/8BNkqNK/sukanrtm.png" group-title="World Cup",TV Sukan
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4|referer=https://rtm-player.glueapi.io/latest/h/4
+
+#EXTINF:-1 tvg-id="146" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/KLpRCJ6/okey.png" group-title="World Cup",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3|referer=https://rtm-player.glueapi.io/latest/h/3
+
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="" group-title="World Cup",Moji
+http://tvn.x10.mx/1/master-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="World Cup",SCTV
+http://tvn.x10.mx/1/master-1.m3u8?dl=
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="World Cup",SCTV
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="World Cup",Champions 1
+http://tvn.x10.mx/1/master-14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 1
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/873849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 2
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/873850
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 3
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/873851
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 4
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/873852
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 1 HD
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/972373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 2 HD
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/972374
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 3 HD
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/972375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 4 FHD
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/972376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 1
+http://hardcoremedia.xyz:80/jPN94ZR7Ay/0998546703/2229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 2
+http://hardcoremedia.xyz:80/jPN94ZR7Ay/0998546703/2230
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 3
+http://hardcoremedia.xyz:80/jPN94ZR7Ay/0998546703/2231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",TSN 4
+http://hardcoremedia.xyz:80/jPN94ZR7Ay/0998546703/2232
+
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png",Indosiar
+http://tvn.x10.mx/1/master.m3u8?dl=
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="World Cup",FS 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="World Cup",FS 1
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/1004756
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="World Cup",FS 1
+http://45.148.146.205:8080/Whq2rYu3w9Y6/u35MCc6TsUea/281978
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="World Cup",FS 1
+http://hardcoremedia.xyz:80/jPN94ZR7Ay/0998546703/13635
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="World Cup",FS 1
+http://45.139.162.107:8080/interCcAambfelipe500x/nqLH7BAW9L/14782
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="World Cup",FS 1
+
+#EXTINF:-1 tvg-id="Fox.HDTV.(FOXHD).us" tvg-name="FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="World Cup",FOX-HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/537
+#EXTINF:-1 tvg-id="Fox.HDTV.(FOXHD).us" tvg-name="FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="World Cup",FOX-HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/534
+#EXTINF:-1 tvg-id="Fox.HDTV.(FOXHD).us" tvg-name="FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="World Cup",FOX-HD
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/1004214
+#EXTINF:-1 tvg-id="Fox.HDTV.(FOXHD).us" tvg-name="FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="World Cup",FOX-HD
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/1004237
+#EXTINF:-1 tvg-id="Fox.HDTV.(FOXHD).us" tvg-name="FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="World Cup",FOX-HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/52834
+#EXTINF:-1 tvg-id="Fox.HDTV.(FOXHD).us" tvg-name="FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="World Cup",FOX-HD
+http://45.148.146.205:8080/Whq2rYu3w9Y6/u35MCc6TsUea/281976
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="World Cup",FS 1
+http://kkuu12.wanicelife.com:8880/live/12m0310011/24459653/3130.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="FOX-Sports2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US039FOX-Sports2.png" group-title="World Cup",FS 2
+http://kkuu12.wanicelife.com:8880/live/12m0310011/24459653/3129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US843:Telemundo (Los Angeles)" tvg-logo="" group-title="World Cup",Telemundo (Los Angeles)
+http://kkuu12.wanicelife.com:8880/live/12m0310011/24459653/60074.m3u8
+#EXTINF:-1 tvg-id="UNIVERSO.HDTV.(West).(UNVWSOHD).us" tvg-name="NBC Universo (West)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US808NBCUniverso.png" group-title="World Cup",NBC Universo (West)
+http://kkuu12.wanicelife.com:8880/live/12m0310011/24459653/59234.m3u8
+#EXTINF:-1 tvg-id="UNIVERSO.HDTV.(East).(UNVSOHD).us" tvg-name="NBC Universo (East)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US807NBCUniverso.png" group-title="World Cup",NBC Universo (East)
+http://kkuu12.wanicelife.com:8880/live/12m0310011/24459653/59235.m3u8
+
+#EXTINF:-1 tvg-id="BBC.One.HD.uk" tvg-name="BBC 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK007BBC1.png" group-title="World Cup",BBC 1 HD
+http://kkuu12.wanicelife.com:8880/live/12m0310011/24459653/2950.m3u8
+#EXTINF:-1 tvg-id="BBC.One.HD.uk" tvg-name="BBC 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK007BBC1.png" group-title="World Cup",BBC 1 HD
+http://45.139.162.107:8080/interCcAambfelipe500x/nqLH7BAW9L/19703
+#EXTINF:-1 tvg-id="BBC.One.HD.uk" tvg-name="BBC 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK007BBC1.png" group-title="World Cup",BBC 1 HD
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/752856
+
+
+
+
+#EXTINF:-1 tvg-id="ITV.HD.uk" tvg-name="ITV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="World Cup",ITV 1 HD
+http://kkuu12.wanicelife.com:8880/live/12m0310011/24459653/2906.m3u8
+#EXTINF:-1 tvg-id="ITV.HD.uk" tvg-name="ITV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="World Cup",ITV 1 HD
+https://p2052.securepoint.io:443/user98702/gNJSP5EPwgNE/752865
+#EXTINF:-1 tvg-id="ITV.HD.uk" tvg-name="ITV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="World Cup",ITV 1 HD
+http://hardcoremedia.xyz:80/jPN94ZR7Ay/0998546703/10362
+#EXTINF:-1 tvg-id="ITV.HD.uk" tvg-name="ITV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="World Cup",ITV 1 HD
+http://hardcoremedia.xyz:80/YWsx6WfDf3/M7e3b8Vduj/10362
+#EXTINF:-1 tvg-id="ITV.HD.uk" tvg-name="ITV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="World Cup",ITV 1 HD
+http://hardcoremedia.xyz:80/umnakryk/8988831499/10362
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK054ITV4.png" group-title="World Cup",ITV 4 HD
+http://kkuu12.wanicelife.com:8880/live/12m0310011/24459653/2903.m3u8
+
+
+#EXTINF:-1 tvg-id="pialadunia.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",Piala Dunia - 1
+https://xjyagogzexiu.cdnexpress59.net:8443/hls/hh2qwzit8rc.m3u8?s=NxcPjFCM_kuVdHlqOMvJUg&e=1669502998|referer=https://90rde17qa5key8.constraindefiant.net/
+
+#EXTINF:-1 tvg-id="pialadunia.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",Piala Dunia - 2
+https://thegentleclass.xyz/hls/class1.m3u8|referer=http://thegentleclass.com/
+
+#EXTINF:-1 tvg-id="pialadunia.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",Piala Dunia - 3
+https://reels2watch.com/hls/s1.m3u8|referer=https://techclips.net/
+  
+#EXTINF:-1 tvg-id="pialadunia.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",Piala Dunia - 4
+https://lisa.xonthebeach.net/live/fs1us/index.m3u8|referer=https://justameanlessdomain.com/v1/match/61cveoh6t4/stream
+  
+#EXTINF:-1 tvg-id="pialadunia.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",Piala Dunia - 5
+https://stream2.supertipz.com/hls/tsn3.m3u8|referer=https://supertipz.com/
