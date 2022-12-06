@@ -122,3 +122,18 @@ https://lisa.xonthebeach.net/live/fs1us/index.m3u8|referer=https://justameanless
   
 #EXTINF:-1 tvg-id="pialadunia.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",Piala Dunia - 5
 https://stream2.supertipz.com/hls/tsn3.m3u8|referer=https://supertipz.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",15:00 Marocko - Spanien 12/06
+http://aabb.is:2095/d4Je5xwD/yadTXB63/459017
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",15:00 Ultra HD: Marocko - Spanien 12/06
+http://aabb.is:2095/d4Je5xwD/yadTXB63/459018
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",18:00 Portugal - Schweiz 12/06
+http://aabb.is:2095/d4Je5xwD/yadTXB63/459730
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",18:00 Ultra HD: Portugal - Schweiz 12/06
+http://aabb.is:2095/d4Je5xwD/yadTXB63/459731
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",19:00 SVT2: Nederländerna - Argentina 12/09
+http://aabb.is:2095/d4Je5xwD/yadTXB63/460314
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",19:00 Ultra HD: SVT2: Nederländerna - Argentina 12/09
+http://aabb.is:2095/d4Je5xwD/yadTXB63/460676
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="World Cup",19:00 England - Frankrike 12/10
+http://aabb.is:2095/d4Je5xwD/yadTXB63/460677
