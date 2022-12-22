@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-name="USA | AMC Presentsⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="|USA| MOVIES",USA | AMC Presentsⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/93036
+#EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC+ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/f0e96e7638ae7d2c1c690b8c2b169e34.png" group-title="|USA| MOVIES",USA | AMC+ⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1356
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-name="USA | AMCⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="|USA| MOVIES",USA | AMCⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1001
+#EXTINF:-1 tvg-id="2035.stations.xmltv.tvmedia.ca" tvg-name="USA | American Heroes Channelⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/19b7162e52c4dd78604a50586ab206fe.png" group-title="|USA| DOCUMENTARY",USA | American Heroes Channelⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1002
+#EXTINF:-1 tvg-id="" tvg-name="USA | American Horrorsⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/7f3fbced9bf4c59811c81adca275fd9d.png" group-title="|USA| MOVIES",USA | American Horrorsⓧ
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1245
+#EXTINF:-1 tvg-id="HallmarkChannelEast.us" tvg-name="USA | Hallmark Channelⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/7fb73930c48246aae2442283b0402a01.png" group-title="|USA| MOVIES",USA | Hallmark Channelⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1057
+#EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark Channelⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/7fb73930c48246aae2442283b0402a01.png" group-title="|USA| MOVIES",USA | Hallmark Channelⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/96013
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="USA | Hallmark Dramaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/c9b22d4a8b9988ba96579c2f2f774e9e.png" group-title="|USA| MOVIES",USA | Hallmark Dramaⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1056
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="USA | Hallmark Movies and Mysteriesⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/a5175faf6dc24adc7eda4f9cfc721b47.png" group-title="|USA| MOVIES",USA | Hallmark Movies and Mysteriesⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1058
+#EXTINF:-1 tvg-id="" tvg-name="USA | Harley Davidson Factory TVⓧ FHD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/8abe644a244ec45700cbb3808b527aa7.png" group-title="|USA| ENTERTAINMENT",USA | Harley Davidson Factory TVⓧ FHD OFFLINE
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/120976
+#EXTINF:-1 tvg-id="" tvg-name="USA | Harley Davidson Racing TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/8abe644a244ec45700cbb3808b527aa7.png" group-title="|USA| ENTERTAINMENT",USA | Harley Davidson Racing TVⓧ
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/120977
+#EXTINF:-1 tvg-id="" tvg-name="USA | Harley Davidson Rides TVⓧ FHD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/8abe644a244ec45700cbb3808b527aa7.png" group-title="|USA| ENTERTAINMENT",USA | Harley Davidson Rides TVⓧ FHD OFFLINE
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/120978
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-name="USA | HBO 2 Eastⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="|USA| MOVIES",USA | HBO 2 Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/704
+#EXTINF:-1 tvg-id="HBO2West.us" tvg-name="USA | HBO 2 Westⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="|USA| MOVIES",USA | HBO 2 Westⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/7150
+#EXTINF:-1 tvg-id="HBOComedyEast.us" tvg-name="USA | HBO Comedyⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/ec1dbf8ba80280bdbc143a019dd198d3.png" group-title="|USA| MOVIES",USA | HBO Comedyⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/701
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="USA | HBO Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="|USA| MOVIES",USA | HBO Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/705
+#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-name="USA | HBO Family Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/c63f52bb327351cfe58cfc09a94a9004.png" group-title="|USA| MOVIES",USA | HBO Family Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/703
+#EXTINF:-1 tvg-id="631.stations.xmltv.tvmedia.ca" tvg-name="USA | HBO Latinoⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/ff7cfaeb9866b5ec1cd461f7a689b5a4.png" group-title="|USA| LATINO",USA | HBO Latinoⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/7155
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-name="USA | HBO Signatureⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/917bd3488c12edecbc325ddd861fd442.png" group-title="|USA| MOVIES",USA | HBO Signatureⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/702
+#EXTINF:-1 tvg-id="HBOWest.us" tvg-name="USA | HBO Westⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="|USA| MOVIES",USA | HBO Westⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/700
+#EXTINF:-1 tvg-id="HBOZoneEast.us" tvg-name="USA | HBO Zoneⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/c60515f34081dc2134721aa3347d359f.png" group-title="|USA| MOVIES",USA | HBO Zoneⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/699
+#EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="USA | HDNet Moviesⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/bf5b9897810f73b04d72c555e671829d.png" group-title="|USA| MOVIES",USA | HDNet Moviesⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/12024
+#EXTINF:-1 tvg-id="IFCEast.us" tvg-name="USA | IFCⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/86b0534dd52a4094a51869c1e556e1bf.png" group-title="|USA| MOVIES",USA | IFCⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1063
+#EXTINF:-1 tvg-id="IndiePlexEast.us" tvg-name="USA | IndiePlexⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/14b367e42d6ef79b9c5cfb97791bf01e.png" group-title="|USA| MOVIES",USA | IndiePlexⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/77613
+#EXTINF:-1 tvg-id="ScreenPixAction.us" tvg-name="USA | ScreenPix Actionⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/8aabefc7f9e0f08b38e73eeb8019d722.png" group-title="|USA| MOVIES",USA | ScreenPix Actionⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/104831
+#EXTINF:-1 tvg-id="ScreenPixVoices.us" tvg-name="USA | ScreenPix Voicesⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/6059323b242768a3c7a8b6a5366680c1.png" group-title="|USA| MOVIES",USA | ScreenPix Voicesⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/104832
+#EXTINF:-1 tvg-id="ScreenPixWesterns.us" tvg-name="USA | ScreenPix Westernsⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/d030f9559541cc54e557e2df81a8f79c.png" group-title="|USA| MOVIES",USA | ScreenPix Westernsⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/104830
+#EXTINF:-1 tvg-id="ScreenPix.us" tvg-name="USA | ScreenPixⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/ed9d3d3c7e88bb4cd63416727e9b838f.png" group-title="|USA| MOVIES",USA | ScreenPixⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/104829
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="USA | SEC Networkⓧ HD" tvg-logo="http://daddyserver.com:8080/images/5cadb617f3cd5971d7b6938faa45fa05.png" group-title="|USA| SPORT",USA | SEC Networkⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1206
+#EXTINF:-1 tvg-id="ShopHQ.us" tvg-name="USA | Shop HQⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/4f70831bedbb46bd9276d0b313c64b81.png" group-title="|USA| SHOPPING",USA | Shop HQⓧ
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/92461
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="USA | Showtime 2 Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/64010bea9fb527682a75921e68840077.png" group-title="|USA| MOVIES",USA | Showtime 2 Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1414
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="USA | Showtime 2 Eastⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/64010bea9fb527682a75921e68840077.png" group-title="|USA| MOVIES",USA | Showtime 2 Eastⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/12034
+#EXTINF:-1 tvg-id="Showtime2East.us" tvg-name="USA | Showtime 2 Westⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/64010bea9fb527682a75921e68840077.png" group-title="|USA| MOVIES",USA | Showtime 2 Westⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/12051
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-name="USA | Showtime Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/ab0f6caa9805cabc974ba5c835b30a23.png" group-title="|USA| MOVIES",USA | Showtime Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/681
+#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us" tvg-name="USA | Showtime Extreme Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/22a09eae943b6174e51accf5da586360.png" group-title="|USA| MOVIES",USA | Showtime Extreme Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/678
+#EXTINF:-1 tvg-id="ShowtimeFamilyZoneEast.us" tvg-name="USA | Showtime Family Zoneⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/ea686ff21bf525a3d06c7b346dbc6a37.png" group-title="|USA| MOVIES",USA | Showtime Family Zoneⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/698
+#EXTINF:-1 tvg-id="ShowtimeNextEast.us" tvg-name="USA | Showtime Next Eastⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/92447e03a06cc805b279c38c9e35c671.png" group-title="|USA| MOVIES",USA | Showtime Next Eastⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/697
+#EXTINF:-1 tvg-id="ShowtimeShowcaseEast.us" tvg-name="USA | Showtime Showcase Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/ab58a4111940213538e0dde771b73ce3.png" group-title="|USA| MOVIES",USA | Showtime Showcase Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/696
+#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-name="USA | Showtime Westⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/ab0f6caa9805cabc974ba5c835b30a23.png" group-title="|USA| MOVIES",USA | Showtime Westⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/682
+#EXTINF:-1 tvg-id="ShowtimeWomenEast.us" tvg-name="USA | Showtime Women Eastⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/834818fdffba43917df672392b4d64b4.png" group-title="|USA| MOVIES",USA | Showtime Women Eastⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/693
+#EXTINF:-1 tvg-id="ShoxBetEast.us" tvg-name="USA | SHOxBET Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/6ac1ddf097e30bcd66e2d9696e9be1e7.png" group-title="|USA| MOVIES",USA | SHOxBET Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/104835
+#EXTINF:-1 tvg-id="ShoxBetWest.us" tvg-name="USA | SHOxBET Westⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/6ac1ddf097e30bcd66e2d9696e9be1e7.png" group-title="|USA| MOVIES",USA | SHOxBET Westⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/679
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="USA | Smithsonian Eastⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/5f94fcfb02ab29a4e46404e3b0b54f42.png" group-title="|USA| DOCUMENTARY",USA | Smithsonian Eastⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1101
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="USA | Smithsonian Westⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/5f94fcfb02ab29a4e46404e3b0b54f42.png" group-title="|USA| DOCUMENTARY",USA | Smithsonian Westⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1102
+#EXTINF:-1 tvg-id="SonyMoviesUSA.us" tvg-name="USA | Sony Movies Channel ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/d4a3c73c1916b046b7d41c213ba5959e.png" group-title="|USA| MOVIES",USA | Sony Movies Channel ⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/27923
+#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-name="USA | Starz Cinema Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/1d50570d4e3f5482f9128a7c383131f4.png" group-title="|USA| MOVIES",USA | Starz Cinema Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/687
+#EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-name="USA | Starz Comedy Eastⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/938d613df2812f5ed96851f703bc6d70.png" group-title="|USA| MOVIES",USA | Starz Comedy Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/694
+#EXTINF:-1 tvg-id="StarzEast.us" tvg-name="USA | Starz Eastⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/3e61b7d38e4b6b0c53348983086c80be.png" group-title="|USA| MOVIES",USA | Starz Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/10749
+#EXTINF:-1 tvg-id="StarzEast.us" tvg-name="USA | Starz Eastⓧ HD" tvg-logo="http://daddyserver.com:8080/images/3e61b7d38e4b6b0c53348983086c80be.png" group-title="|USA| MOVIES",USA | Starz Eastⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/695
+#EXTINF:-1 tvg-id="StarzEdgeEast.us" tvg-name="USA | Starz Edge Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/5a3dbd172570fe8a4077f45d662c2dc3.png" group-title="|USA| MOVIES",USA | Starz Edge Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/692
+#EXTINF:-1 tvg-id="StarzEncoreActionEast.us" tvg-name="USA | Starz Encore Action Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/67be26c5efea17288f2ac334253a2273.png" group-title="|USA| MOVIES",USA | Starz Encore Action Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/688
+#EXTINF:-1 tvg-id="StarzEncoreBlackEast.us" tvg-name="USA | Starz Encore Black Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/4d8ec09a99e2681fc19b5bca72ebd2d1.png" group-title="|USA| MOVIES",USA | Starz Encore Black Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/12048
+#EXTINF:-1 tvg-id="StarzEncoreClassicEast.us" tvg-name="USA | Starz Encore Classic Eastⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/e539e7281ee1530c1c644776f0ed1671.png" group-title="|USA| MOVIES",USA | Starz Encore Classic Eastⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/686
+#EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-name="USA | Starz Encore Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/f736642cae08f3b85e797518bf85328b.png" group-title="|USA| MOVIES",USA | Starz Encore Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/689
+#EXTINF:-1 tvg-id="StarzEncoreEast.us" tvg-name="USA | Starz Encore Españolⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/aae8ea12cf8f1dd4f37d997ad79d2dcb.png" group-title="|USA| LATINO",USA | Starz Encore Españolⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/7154
+#EXTINF:-1 tvg-id="StarzEncoreFamilyEast.us" tvg-name="USA | Starz Encore Family Eastⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/9d22f000b3a31fcb98d8e4d54b4f7950.png" group-title="|USA| MOVIES",USA | Starz Encore Family Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/685
+#EXTINF:-1 tvg-id="StarzEncoreSuspenseEast.us" tvg-name="USA | Starz Encore Suspense Eastⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/811524595fcd0e4a9b991d8f29cbafdc.png" group-title="|USA| MOVIES",USA | Starz Encore Suspense Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/684
+#EXTINF:-1 tvg-id="StarzEncoreWesternsEast.us" tvg-name="USA | Starz Encore Westerns Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/51b64e98a0863e8aea3141462d6c7900.png" group-title="|USA| MOVIES",USA | Starz Encore Westerns Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/683
+#EXTINF:-1 tvg-id="StarzInBlackEast.us" tvg-name="USA | Starz in Black Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/df6fbb2fb0ca790a577270447b1da8e8.png" group-title="|USA| MOVIES",USA | Starz in Black Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/691
+#EXTINF:-1 tvg-id="StarzKidsFamilyEast.us" tvg-name="USA | Starz Kids&Family Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a1db49196dc2554ac36e9b6e1652083c.png" group-title="|USA| MOVIES",USA | Starz Kids&Family Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/690
+#EXTINF:-1 tvg-id="StarzWest.us" tvg-name="USA | Starz Westⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/3e61b7d38e4b6b0c53348983086c80be.png" group-title="|USA| MOVIES",USA | Starz Westⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/680
+#EXTINF:-1 tvg-id="3230.stations.xmltv.tvmedia.ca" tvg-name="USA | Sundance TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/0e450d1e32291326bded0e1a8b9b4c20.png" group-title="|USA| MOVIES",USA | Sundance TVⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1104
+#EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="USA | SYFY Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/14831b3a087423067dd5af937a12204b.png" group-title="|USA| MOVIES",USA | SYFY Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/12046
+#EXTINF:-1 tvg-id="SyfyWest.us" tvg-name="USA | SYFY Westⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/14831b3a087423067dd5af937a12204b.png" group-title="|USA| MOVIES",USA | SYFY Westⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/12047
+#EXTINF:-1 tvg-id="3230.stations.xmltv.tvmedia.ca" tvg-name="USA | Tastemade en Españolⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/f3cc3a58937e4938dc47dd6105df047a.png" group-title="|USA| LATINO",USA | Tastemade en Españolⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1217
+#EXTINF:-1 tvg-id="" tvg-name="USA | Tastemadeⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/f3cc3a58937e4938dc47dd6105df047a.png" group-title="|USA| ENTERTAINMENT",USA | Tastemadeⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1106
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="USA | TBS Eastⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/1c175e115e9e0bf4e00531a67e87bae7.png" group-title="|USA| ENTERTAINMENT",USA | TBS Eastⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/12044
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="USA | TBS Eastⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/1c175e115e9e0bf4e00531a67e87bae7.png" group-title="|USA| ENTERTAINMENT",USA | TBS Eastⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1107
+#EXTINF:-1 tvg-id="TBSWest.us" tvg-name="USA | TBS Westⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/1c175e115e9e0bf4e00531a67e87bae7.png" group-title="|USA| ENTERTAINMENT",USA | TBS Westⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/12045
+#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="USA | TCMⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="|USA| MOVIES",USA | TCMⓧ FHD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/1108
+#EXTINF:-1 tvg-id="176.stations.xmltv.tvmedia.ca" tvg-name="USA | TCMⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="|USA| MOVIES",USA | TCMⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/27918
+
