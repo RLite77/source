@@ -754,15 +754,15 @@ http://nerdsvpn.nl:8080/5980275488/9676756046/321808
 http://nerdsvpn.nl:8080/5980275488/9676756046/321791
 #EXTINF:-1 tvg-id="cinemaxpasific.us" tvg-name="USA | CineMAX (West) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/200px-Cinemax_2016.svg.png" group-title="USA | PREMIUMS",CineMAX (West) 
 http://nerdsvpn.nl:8080/5980275488/9676756046/321792
-#EXTINF:-1 tvg-id="epix.us" tvg-name="USA | EPIX (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/125px-Epix_Logo_2019.svg.png" group-title="USA | PREMIUMS",EPIX (East) 
+#EXTINF:-1 tvg-id="MGMPlus.us" tvg-name="USA | EPIX (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/125px-Epix_Logo_2019.svg.png" group-title="USA | PREMIUMS",MGM+ (East) 
 http://nerdsvpn.nl:8080/5980275488/9676756046/321801
-#EXTINF:-1 tvg-id="epixpacific.us" tvg-name="USA | EPIX (West) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/125px-Epix_Logo_2019.svg.png" group-title="USA | PREMIUMS",EPIX (West) 
+#EXTINF:-1 tvg-id="MGMPluspacific.us" tvg-name="USA | EPIX (West) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/125px-Epix_Logo_2019.svg.png" group-title="USA | PREMIUMS",MGM+ (West) 
 http://nerdsvpn.nl:8080/5980275488/9676756046/321802
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="USA | Epix 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Epix2_logo.svg/125px-Epix2_logo.svg.png" group-title="USA | PREMIUMS",Epix 2 
+#EXTINF:-1 tvg-id="MGMPlus2.us" tvg-name="USA | Epix 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Epix2_logo.svg/125px-Epix2_logo.svg.png" group-title="USA | PREMIUMS",MGM+ 2 
 http://nerdsvpn.nl:8080/5980275488/9676756046/321803
-#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="USA | EPIX Drive-In " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Epix_Drive-In_logo.svg/125px-Epix_Drive-In_logo.svg.png" group-title="USA | PREMIUMS",EPIX Drive-In 
+#EXTINF:-1 tvg-id="MGMPlusdrivein.us" tvg-name="USA | EPIX Drive-In " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Epix_Drive-In_logo.svg/125px-Epix_Drive-In_logo.svg.png" group-title="USA | PREMIUMS",MGM+ Drive-In 
 http://nerdsvpn.nl:8080/5980275488/9676756046/321804
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA | EPIX Hits " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Epix_Hits_logo.svg/125px-Epix_Hits_logo.svg.png" group-title="USA | PREMIUMS",EPIX Hits 
+#EXTINF:-1 tvg-id="MGMPlushits.us" tvg-name="USA | EPIX Hits " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Epix_Hits_logo.svg/125px-Epix_Hits_logo.svg.png" group-title="USA | PREMIUMS",MGM+ Hits 
 http://nerdsvpn.nl:8080/5980275488/9676756046/321805
 #EXTINF:-1 tvg-id="fxm.us" tvg-name="USA | FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/800px-FXM_Logo.svg.png?20180107212229" group-title="USA | PREMIUMS",FXM
 http://nerdsvpn.nl:8080/5980275488/9676756046/321787
@@ -4429,7 +4429,7 @@ http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/487991
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/487992
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="US-720 : MGM+ Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIX2.png" group-title="USA 720 (low bit)",US-720 : MGM+ Hits
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/487993
-#EXTINF:-1 tvg-id="EpixHits.us" tvg-name="US-720 : MGM+ Marquee" tvg-logo="https://content.epix.com/logos/epix-hits-logo.png" group-title="USA 720 (low bit)",US-720 : MGM+ Marquee
+#EXTINF:-1 tvg-id="EpixHits.us" tvg-name="US-720 : MGM+ Marquee" tvg-logo="https://content.MGMPlus.com/logos/epix-hits-logo.png" group-title="USA 720 (low bit)",US-720 : MGM+ Marquee
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/487994
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="US-720 : ESPN" tvg-logo="http://p2086.securepoint.io:2086/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="USA 720 (low bit)",US-720 : ESPN
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/487995
