@@ -1,5 +1,4 @@
-#EXTM3U
-//EPL
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_US1.xml.gz"
 //EPL
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",USA Network
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/15496
@@ -32,13 +31,6 @@ http://nerdsvpn.nl:8080/5980275488/9676756046/337042
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",USA Network
 http://khyn.rkt2022.xyz:8080/rcp9273/q7tSQw3TfGzL/131743
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",USA Network
-
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",USA Network
-
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",USA Network
-
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",USA Network
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="EPL",True Premier Football 1
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yS94g00.png" group-title="EPL",True Premier Football 2
@@ -49,11 +41,6 @@ https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=h
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="EPL",True Premier Football 5
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Peacock EPL
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Peacock NBC Sports
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Maximo 1
 http://flysilo.top:8080/live/9891662369215092/1491662369215092/6716.ts
 #EXTINF:-1 tvg-id="811" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Astro Supersport HD
@@ -113,8 +100,6 @@ http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/16123
 http://conceal.cyou:80/Chunka/vma7Xom3No/3908
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Football
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Football
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/489557
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
@@ -122,42 +107,11 @@ http://myserveriptv.com:2082/worldiptv/6dW2a(kl8Jb93/228299
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
 http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/16583
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
 http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5622
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
 http://ttv.bz:80/7384EIKFLH/4mmw6AntUA/66611
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/489557
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Supersport Premier League
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",HK Now Sports EPL 4K
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Hub Premier 1
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Hub Premier 2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Hub Premier 3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Hub Premier 4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Hub Premier 5
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Hub Premier 6
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Hub Premier 7
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Hub Premier 8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Hub Premier 9
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Hub Premier 1
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/501577
@@ -196,14 +150,7 @@ http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/425331
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/425330
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Star Sport Select 1
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Star Sport Select 2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Star Sport Select 1
 http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/7506
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Star Sport Select 2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Star Sport Select 1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Star Sport Select 2
 http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/7507
@@ -298,22 +245,6 @@ http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/376366
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/376367
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Optus Sport 7
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/376368
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Optus Sport 1
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Optus Sport 2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Optus Sport 3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Optus Sport 4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Optus Sport 5
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Optus Sport 6
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Optus Sport 7
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Optus Sport 8
-
 
 #EXTINF:-1 tvg-id="Peacock1.peacock" tvg-name="US (PC) Peacock Event 1 (D)" tvg-logo="https://d1w8c6s6gmwlek.cloudfront.net/dotkansas.com/overlays/366/559/36655975.png" group-title="EPL",Peacock Event 1 (D)
 http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440264
@@ -4109,7 +4040,6 @@ http://nerdsvpn.nl:8080/5980275488/9676756046/371632
 http://nerdsvpn.nl:8080/5980275488/9676756046/371633
 #EXTINF:-1 tvg-id="greattvplus1.uk" tvg-name="UK: GREAT TV +1" tvg-logo="" group-title="UK | BASICS",UK: GREAT TV +1
 http://nerdsvpn.nl:8080/5980275488/9676756046/371634
-
 #EXTINF:-1 tvg-id="US: WWE Network" tvg-name="WWE NETWORK" tvg-logo="http://mirror.streamhubtv.me:8080/images/EyP0neaKlaVfFrUx3ehzSeRNIL7FNIkfNZvlW5MlzTohNCA-qboS7gbNg8MrW6vxbCFPDl6WPWv8TrB8DG0j7g.png" group-title="PPV | EVENTS",WWE NETWORK
 http://nerdsvpn.nl:8080/5980275488/9676756046/319058
 
@@ -7291,7 +7221,3 @@ http://myserveriptv.com:2082/worldiptv/6dW2a(kl8Jb93/227465
 http://myserveriptv.com:2082/worldiptv/6dW2a(kl8Jb93/227466
 #EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="USA | FOX" tvg-logo="http://mrrobottv.xyz/logo/new%20logos/CW.png" group-title="USA | FOX Locals", Fox Local
 http://myserveriptv.com:2082/worldiptv/6dW2a(kl8Jb93/227467
-
-
-
-
