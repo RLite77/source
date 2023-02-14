@@ -350,6 +350,16 @@ http://premium.luginaiptv.com:8000/Armendi/123456/6784
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL",Super Sport 5
 http://premium.luginaiptv.com:8000/Armendi/123456/6785
 
+//UCL
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="UCL",Sony TEN 1 HD
+http://212.224.84.217:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="UCL",Sony  TEN 2 HD
+http://212.224.84.217:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="UCL",Sony TEN 3 HD
+http://212.224.84.217:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/index.m3u8?token=
+#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://i.ibb.co/rsyTD5h/sonysix.png" group-title="UCL",Sony Six HD
+http://212.224.84.217:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/2023/02/14/16/51/31-10000.ts?token=
+
 //USA Entertainment
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="" group-title="USA",USA Network
 http://myserveriptv.com:2082/worldiptv/6dW2a(kl8Jb93/225940
