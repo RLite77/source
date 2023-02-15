@@ -358,7 +358,7 @@ http://212.224.84.217:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8?token=
 #EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="UCL",Sony TEN 3 HD
 http://212.224.84.217:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/index.m3u8?token=
 #EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://i.ibb.co/rsyTD5h/sonysix.png" group-title="UCL",Sony Six HD
-http://212.224.84.217:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/2023/02/14/16/51/31-10000.ts?token=
+http://212.224.84.217:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8?token=
 
 //USA Entertainment
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="" group-title="USA",USA Network
