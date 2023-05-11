@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Broadpeak BkS350 Origin Packager (version=1.11.16-26430) -->
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" type="dynamic" availabilityStartTime="1970-01-01T00:00:00Z" publishTime="2023-05-11T11:10:13.142984Z" minimumUpdatePeriod="PT2S" timeShiftBufferDepth="PT1M1.994667S" suggestedPresentationDelay="PT25S" maxSegmentDuration="PT3S" minBufferTime="PT30S" profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
+  <Period id="1" start="PT0S">
+    <BaseURL>dash/</BaseURL>
+    <AdaptationSet id="1" group="1" contentType="audio" lang="en" segmentAlignment="true" audioSamplingRate="24000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="9CCD5DD0-C86A-40ED-719B-83E1801BCD88">
+      </ContentProtection>
+      <!-- PlayReady -->
+      <ContentProtection schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95" value="MSPR 2.0">
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000" initialization="UNIVERSALPREMIEREHD-$RepresentationID$.dash?bpkout=default" media="UNIVERSALPREMIEREHD-$RepresentationID$-$Time$.dash?bpkout=default">
+        <!-- 2023-05-11T11:09:07.170729Z / 1683803347 - 2023-05-11T11:10:09.165395Z -->
+        <SegmentTimeline>
+          <S t="80822560664195" d="96256" r="5"/>
+          <S d="94208"/>
+          <S d="96256" r="6"/>
+          <S d="94208"/>
+          <S d="96256" r="6"/>
+          <S d="94208"/>
+          <S d="96256" r="6"/>
+          <S d="94208"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_147682_spa=147200" bandwidth="147200">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" contentType="audio" lang="es" segmentAlignment="true" audioSamplingRate="24000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="9CCD5DD0-C86A-40ED-719B-83E1801BCD88">
+      </ContentProtection>
+      <!-- PlayReady -->
+      <ContentProtection schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95" value="MSPR 2.0">
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000" initialization="UNIVERSALPREMIEREHD-$RepresentationID$.dash?bpkout=default" media="UNIVERSALPREMIEREHD-$RepresentationID$-$Time$.dash?bpkout=default">
+        <!-- 2023-05-11T11:09:07.170729Z / 1683803347 - 2023-05-11T11:10:09.165395Z -->
+        <SegmentTimeline>
+          <S t="80822560664195" d="96256" r="5"/>
+          <S d="94208"/>
+          <S d="96256" r="6"/>
+          <S d="94208"/>
+          <S d="96256" r="6"/>
+          <S d="94208"/>
+          <S d="96256" r="6"/>
+          <S d="94208"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_147683_eng=147200" bandwidth="147200">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" contentType="text" lang="es" mimeType="application/mp4" codecs="stpp" startWithSAP="1">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
+      <SegmentTemplate timescale="1000" initialization="UNIVERSALPREMIEREHD-$RepresentationID$.dash?bpkout=default" media="UNIVERSALPREMIEREHD-$RepresentationID$-$Time$.dash?bpkout=default">
+        <!-- 2023-05-11T11:09:09.164000Z / 1683803349 - 2023-05-11T11:10:11.164000Z -->
+        <SegmentTimeline>
+          <S t="1683803349164" d="2000" r="30"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="textstream_32704648_spa=8000" bandwidth="8000">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" contentType="video" par="16:9" minBandwidth="858800" maxBandwidth="6344800" maxWidth="1920" maxHeight="1080" segmentAlignment="true" sar="1:1" frameRate="30" mimeType="video/mp4" startWithSAP="1">
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="9CCD5DD0-C86A-40ED-719B-83E1801BCD88">
+      </ContentProtection>
+      <!-- PlayReady -->
+      <ContentProtection schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95" value="MSPR 2.0">
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="600" initialization="UNIVERSALPREMIEREHD-$RepresentationID$.dash?bpkout=default" media="UNIVERSALPREMIEREHD-$RepresentationID$-$Time$.dash?bpkout=default">
+        <!-- 2023-05-11T11:09:09.163333Z / 1683803349 - 2023-05-11T11:10:11.163333Z -->
+        <SegmentTimeline>
+          <S t="1010282009498" d="1200" r="30"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="video=858800" bandwidth="858800" width="480" height="270" codecs="avc1.4D4015" scanType="progressive">
+      </Representation>
+      <Representation id="video=1620000" bandwidth="1620000" width="640" height="360" codecs="avc1.4D401E" scanType="progressive">
+      </Representation>
+      <Representation id="video=2670000" bandwidth="2670000" width="960" height="540" codecs="avc1.4D401F" scanType="progressive">
+      </Representation>
+      <Representation id="video=3720000" bandwidth="3720000" width="1280" height="720" codecs="avc1.64001F" scanType="progressive">
+      </Representation>
+      <Representation id="video=6344800" bandwidth="6344800" width="1920" height="1080" codecs="avc1.640028" scanType="progressive">
+      </Representation>
+    </AdaptationSet>
+  </Period>
+  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2023-05-11T11:10:13.160000Z"/>
+</MPD>
