@@ -1,0 +1,220 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" group-title="EPL/UCL/UEL" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" group-title="EPL/UCL/UEL" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://1tv41.icu:8080/5745519674/andyrigelman99@gmail.com/10252
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" group-title="EPL/UCL/UEL" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/417921
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" group-title="EPL/UCL/UEL" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/419369
+
+
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-logo="https://i.imgur.com/9FJknMK.png" ,True Premier Football 1
+http://103.112.191.9:880/LAOSAT1026.m3u8
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-logo="https://i.imgur.com/yS94g00.png" ,True Premier Football 2
+http://103.112.191.9:880/LAOSAT1027.m3u8
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-logo="https://i.imgur.com/9FJknMK.png" ,True Premier Football 1
+http://198.16.100.90:8278/truepre1_pat/playlist.m3u8?tid=MCEC6796185367961853&ct=19249&tsum=9ab501851eed281c85dc762c6b915c47
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-logo="https://i.imgur.com/yS94g00.png" ,True Premier Football 2
+http://198.16.100.90:8278/truepre2_pat/playlist.m3u8?tid=MD7D6803914668039146&ct=19249&tsum=896db6668d2b4a7ad693b44ab39fcd22
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-logo="https://i.imgur.com/xBmmgXe.png" ,True Premier Football 3
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-logo="https://i.imgur.com/HOfAIeF.png" ,True Premier Football 4
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-logo="https://i.imgur.com/IAvYAOR.png" ,True Premier Football 5
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="AstroSupersport" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Astro Supersport HD
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/485564
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="AstroSupersport2" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Astro Supersport 2 HD
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/485565
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="AstroSupersport3" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Astro Supersport 3 HD
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/485566
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="AstroSupersport4" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Astro Supersport 4 HD
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/485567
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="AstroSupersport4" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Astro Supersport 5 HD
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/485569
+
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="AstroSupersport" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Astro Supersport UHD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571245&extension=ts&play_token=UrcfQKYpBD
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="AstroSupersport2" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Astro Supersport 2 HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571248&extension=ts&play_token=UrcfQKYpBD
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="AstroSupersport3" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Astro Supersport 3 HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571247&extension=ts&play_token=UrcfQKYpBD
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="AstroSupersport4" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Astro Supersport 4 HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571246&extension=ts&play_token=UrcfQKYpBD
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="AstroSupersport5" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" ,Astro Supersport 5 HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571245&extension=ts&play_token=UrcfQKYpBD
+
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="SS.Premier.League.Nigeria.ng" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Supersport Premier League
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/489557
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="SS.Premier.League.Nigeria.ng" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Supersport Premier League
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/489557
+
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Hub Premier 1
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/501577
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Hub Premier 2
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/501578
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Hub Premier 3
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/501588
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Hub Premier 4
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/501579
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Hub Premier 5
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/501580
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Hub Premier 6
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/501581
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Hub Premier 7
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/501582
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Hub Premier 8
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/501583
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Hub Premier 9
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/501584
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,HK Now Premier Sports 1
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/425332
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,HK Now Premier Sports 2
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/425333
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,HK Now Premier Sports 3
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/425334
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,HK Now Premier Sports 4
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/425335
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,HK Now Premier Sports 5
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/425336
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,HK Now Premier Sports 6
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/425337
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,HK Now Premier Sports 7
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/425331
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,HK Now Premier Sports 8
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/425330
+
+
+
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL/UCL/UEL",Sky Sports Main Event
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL/UCL/UEL",UK: SKY SPORTS MAIN EVENT HD
+
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PL HD" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL/UCL/UEL",UK: SKY SPORTS PL HD
+
+#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-name="VIP BT SPORT 1 UHD" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL/UCL/UEL",VIP BT SPORT 1 UHD
+
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-name="VIP BT SPORT 2 UHD" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL/UCL/UEL",VIP BT SPORT 2 UHD
+
+#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-name="VIP BT SPORT 3 UHD" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL/UCL/UEL",VIP BT SPORT 3 UHD
+
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-name="UK : BT Sport 2 SD" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL/UCL/UEL",UK : BT Sport 2 SD
+
+#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-name="UK : BT Sport 3 SD" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL/UCL/UEL",UK : BT Sport 3 SD
+
+#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" group-title="EPL/UCL/UEL" tvg-logo="https://i.postimg.cc/jSmwSMSN/download-39.jpg",TNT SPORTS 
+https://webudit.cdnhks.lol/lb/premium31/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" group-title="EPL/UCL/UEL" tvg-logo="https://i.postimg.cc/4d2RS6VN/download-44.png",TNT SPORTS 2
+http://195.181.164.130:80/live.ts?channelId=154&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" group-title="EPL/UCL/UEL" tvg-logo="https://i.postimg.cc/C5nXrWwm/download-45.png",TNT SPORTS 3
+http://195.181.164.137:80/live.ts?channelId=156&deviceUser=deb&devicePass=deb&uid=21781
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL/UCL/UEL",beIN Sports 1 TH
+http://103.112.191.9:880/LAOSAT1052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="EPL/UCL/UEL",beIN Sports 3 TH
+http://103.112.191.9:880/LAOSAT1078.m3u8
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="skysportspremiereleague.uk" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Sky Sport EPL
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="skysportspremiereleague.uk" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Sky Sport EPL
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/428320
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="skysportspremiereleague.uk" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Sky Sport EPL
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Premier League TV US
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/405957
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Sky Sports Football
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Optus Sport 1
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/376362
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Optus Sport 2
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/376363
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Optus Sport 3
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/376364
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Optus Sport 4
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/376365
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Optus Sport 5
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/376366
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Optus Sport 6
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/376367
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" ,Optus Sport 7
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/376368
+
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock1.peacock" tvg-name="",Peacock Event 1 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440264
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock2.peacock" tvg-name="",Peacock Event 2 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440265
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock3.peacock" tvg-name="",Peacock Event 3 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440266
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock4.peacock" tvg-name="",Peacock Event 4 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440267
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock5.peacock" tvg-name="",Peacock Event 5 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440268
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock6.peacock" tvg-name="",Peacock Event 6 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440269
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock7.peacock" tvg-name="",Peacock Event 7 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440270
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock8.peacock" tvg-name="",Peacock Event 8 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440271
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock9.peacock" tvg-name="",Peacock Event 9 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440272
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock10.peacock" tvg-name="",Peacock Event 10 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440273
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock11.peacock" tvg-name="",Peacock Event 11 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440274
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock12.peacock" tvg-name="",Peacock Event 12 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440275
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="Peacock13.peacock" tvg-name="",Peacock Event 13 (D)
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/440276
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.1.HD.uk" tvg-name="",BT Sport 1
+http://1.revportal.eu:80/mag00:1A:79:82:06:C2/ybWMupusyu/171034
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.2.HD.uk" tvg-name="",BT Sport 2
+http://1.revportal.eu:80/mag00:1A:79:82:06:C2/ybWMupusyu/171035
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.3.HD.uk" tvg-name="",BT Sport 3
+http://1.revportal.eu:80/mag00:1A:79:82:06:C2/ybWMupusyu/171036
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.1.HD.uk" tvg-name="",BT Sport 1
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/428237
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.2.HD.uk" tvg-name="",BT Sport 2
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/428240
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.2.HD.uk" tvg-name="",BT Sport 2
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.3.HD.uk" tvg-name="",BT Sport 3
+http://abc123.digital:8080/dukesj4285@gmail.com/SwCEr44itg/428243
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.3.HD.uk" tvg-name="",BT Sport 3 50FPS
+
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.1.HD.uk" tvg-name="",BT Sport 1
+http://conceal.cyou:80/Chunka/vma7Xom3No/4283
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.1.HD.uk" tvg-name="",BT Sport 1
+http://conceal.cyou:80/Chunka/vma7Xom3No/3507
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.2.HD.uk" tvg-name="",BT Sport 2
+http://conceal.cyou:80/Chunka/vma7Xom3No/3258
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.2.HD.uk" tvg-name="",BT Sport 2
+http://conceal.cyou:80/Chunka/vma7Xom3No/4582
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.3.HD.uk" tvg-name="",BT Sport 3
+http://conceal.cyou:80/Chunka/vma7Xom3No/3262
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.3.HD.uk" tvg-name="",BT Sport 3
+http://conceal.cyou:80/Chunka/vma7Xom3No/4583
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.1.HD.uk" tvg-name="",BT Sport 1
+http://ipc.proipciptv.com:8000/MahdiJawad/myz2w/175904
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.2.HD.uk" tvg-name="",BT Sport 2
+http://ipc.proipciptv.com:8000/MahdiJawad/myz2w/175905
+#EXTINF:-1 group-title="EPL/UCL/UEL" tvg-id="BT.Sport.3.HD.uk" tvg-name="",BT Sport 3
+http://ipc.proipciptv.com:8000/MahdiJawad/myz2w/175906
